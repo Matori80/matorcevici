@@ -1,4 +1,5 @@
 #EXTINF:-1,"==== KANALI TV MATORCEVIC PUDARCI ===="
+
 EXTINF:-1, N1 SRB
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/70804 
 #EXTINF:-1,N1 beckaupSRB
@@ -663,69 +664,70 @@ http:\\telehetz.dvrdns.org:12345\live?channelId=429&uid=338&deviceUser=dnevna&de
 http:\\telehetz.dvrdns.org:12345\live?channelId=449&uid=338&deviceUser=dnevna&devicePass=996phDps
 #EXTINF:-1, Sky sport 1
 http:\\wrlstr.dvrdns.org:18066\live?channelId=590&uid=338&deviceUser=dnevna&devicePass=996phDps
-#EXTINF:-1 tvg-id="" tvg-name="XXX: EXTREME HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX", EXTREME HD
+#EXTINF:-1,"==== SPORNIĆI ===="
+#EXTINF:-1", EXTREME HD
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3329
-#EXTINF:-1 tvg-id="" tvg-name="XXX: HOT HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX", HOT HD
+#EXTINF:-1 , HOT HD
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/1538
-#EXTINF:-1 tvg-id="" tvg-name="XXX: HUSTLER HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX", HUSTLER HD
+#EXTINF:-1, HUSTLER HD
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/6028
-#EXTINF:-1 tvg-id="" tvg-name="XXX: JASMIN.TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX", JASMIN.TV
+#EXTINF:-1, JASMIN.TV
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/375
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Lesbian Affair" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX", Lesbian Affair
+#EXTINF:-1, Lesbian Affair
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3331
-#EXTINF:-1 tvg-id="" tvg-name="XXX: MIAMI TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX", MIAMI TV
+#EXTINF:-1, MIAMI TV
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/1731
-#EXTINF:-1 tvg-id="" tvg-name="XXX: MIAMI TV LATINO" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX", MIAMI TV LATINO
+#EXTINF:-1, MIAMI TV LATINO
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/18344
-#EXTINF:-1 tvg-id="" tvg-name="XXX: nuart" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX", nuart
+#EXTINF:-1, nuart
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/49169
-#EXTINF:-1 tvg-id="" tvg-name="XXX: O.La.La" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX", O.La.La
+#EXTINF:-1, O.La.La
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/36535
-#EXTINF:-1 tvg-id="" tvg-name="XXX: OLDTIMER HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX", OLDTIMER HD
+#EXTINF:-1", OLDTIMER HD
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3322
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PASSIE XXX HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX", PASSIE XXX HD
+#EXTINF:-1", PASSIE XXX HD
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/28298
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PASSIE XXX HOLLAND HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",PASSIE XXX HOLLAND HD
+#EXTINF:-1,PASSIE XXX HOLLAND HD
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/278772
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PASSION XXX HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX", PASSION XXX HD
+#EXTINF:-1, PASSION XXX HD
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/48
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PENTHOUSE GOLD FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX", PENTHOUSE GOLD FHD
+#EXTINF:-1", PENTHOUSE GOLD FHD
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/32056
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PENTHOUSE QUICKIES HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX", PENTHOUSE QUICKIES HD
+#EXTINF:-1, PENTHOUSE QUICKIES HD
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3284
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PINKOCLUB" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX", PINKOCLUB
+#EXTINF:-1, PINKOCLUB
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3342
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PLAYBOY" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX", PLAYBOY
+#EXTINF:-1, PLAYBOY
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/14222
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PLAYBOY EUROPE" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX", PLAYBOY EUROPE
+#EXTINF:-", PLAYBOY EUROPE
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/67686
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PRIVATE HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/9150f35348b9d8da4226de2b9ce6c9b2.png" group-title="XXX", PRIVATE HD
+#EXTINF:-1, PRIVATE HD
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3281
-#EXTINF:-1 tvg-id="" tvg-name="XXX: REALITY KINGS HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: REALITY KINGS HD
+#EXTINF:-1,XXX: REALITY KINGS HD
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/383
-#EXTINF:-1 tvg-id="" tvg-name="XXX: REDLIGHT FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX", REDLIGHT FHD
+#EXTINF:-1, REDLIGHT FHD
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/85
-#EXTINF:-1 tvg-id="" tvg-name="XXX: RK TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX", RK TV
+#EXTINF:-1, RK TV
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/278774
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Sextreme HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",Sextreme HD
+#EXTINF:-1,Sextreme HD
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3309
-#EXTINF:-1 tvg-id="" tvg-name="XXX: SEXY HOT" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX", SEXY HOT
+#EXTINF:-1, SEXY HOT
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3310
-#EXTINF:-1 tvg-id="" tvg-name="XXX: SHALUN TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX", SHALUN TV
+#EXTINF:-1, SHALUN TV
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3333
-#EXTINF:-1 tvg-id="" tvg-name="XXX: VENUS TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",VENUS TV
+#EXTINF:-1,VENUS TV
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3258
-#EXTINF:-1 tvg-id="" tvg-name="XXX: VISIT-X TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX", VISIT-X TV
+#EXTINF:-1, VISIT-X TV
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/28531
-#EXTINF:-1 tvg-id="" tvg-name="XXX: VIVID RED HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX", VIVID RED HD
+#EXTINF:-1, VIVID RED HD
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3989
-#EXTINF:-1 tvg-id="" tvg-name="XXX: VIVID TV Europe HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX", VIVID TV Europe HD
+#EXTINF:-1, VIVID TV Europe HD
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/146434
-#EXTINF:-1 tvg-id="" tvg-name="XXX: XY MAX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX", XY MAX
+#EXTINF:-1", XY MAX
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/192282
-#EXTINF:-1 tvg-id="" tvg-name="XXX: XY MIX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX", XY MIX
+#EXTINF:-1, XY MIX
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3293
-#EXTINF:-1 tvg-id="" tvg-name="XXX: XY PLUS" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX", XY PLUS
+#EXTINF:-1, XY PLUS
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3291
 #EXTINF:-1,"==== RADIO STANICE  MATORCEVIC PUDARCI ===="
 #EXTINF:-1,Radio Hip Hop Banjaluka
