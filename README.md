@@ -1,4 +1,4 @@
-#EXTINF:-1,"==== KANALI MATORČEVIĆ ===="
+#EXTINF:-1,"==== KANALI MATORCEVIC ===="
 EXTINF:-1, N1 SRB
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/70804 
 #EXTINF:-1,N1 beckaupSRB
@@ -117,7 +117,8 @@ rtmp://91.148.117.134/tkturist/tkturist
 http://176.67.210.1/hls/kanalm.m3u8 
 #EXTINF:-1, Pruga TV 
 https://stream.pruga.rs:8443/live/pruga/index.m3u8 
-#EXTINF:-1, Pannon TV http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/166786 
+#EXTINF:-1, Pannon TV 
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/166786 
 #EXTINF:-1,(RS) RTK 2 
 http:\iptvtree.net:8080\ce1eb8b3\87b9d5e09c\2565 
 #EXTINF:-1, Tesla Vision 
