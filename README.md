@@ -1,8 +1,5 @@
 #EXTINF:-1,"==== KANALI TV MATORCEVIC PUDARCI ===="
-
-EXTINF:-1, N1 SRB
-http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/70804 
-#EXTINF:-1,N1 beckaupSRB
+#EXTINF:-1,N1 SRB
 http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/399.ts
 #EXTINF:-1, RS: N1 FHD
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/23055
@@ -599,7 +596,7 @@ http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/2549.ts
 http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/1407.ts
 #EXTINF:-1,PINK WESTERN - low
 http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/2548.ts
-#EXTINF:-1,"==== SPORT BECKUP ===="
+#EXTINF:-1,"==== SPORT MATORECEVIC - BECKUP ===="
 #EXTINF:-1, Sport Klub 1 FHD
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3467
 #EXTINF:-1,Sport Klub 1 FHD
@@ -664,7 +661,7 @@ http:\\telehetz.dvrdns.org:12345\live?channelId=429&uid=338&deviceUser=dnevna&de
 http:\\telehetz.dvrdns.org:12345\live?channelId=449&uid=338&deviceUser=dnevna&devicePass=996phDps
 #EXTINF:-1, Sky sport 1
 http:\\wrlstr.dvrdns.org:18066\live?channelId=590&uid=338&deviceUser=dnevna&devicePass=996phDps
-#EXTINF:-1,"==== SPORNIĆI ===="
+#EXTINF:-1,"==== PORNIĆI MATRCEVIC ===="
 #EXTINF:-1", EXTREME HD
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3329
 #EXTINF:-1 , HOT HD
@@ -904,7 +901,7 @@ http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/287.ts
 http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/289.ts
 #EXTINF:-1,Radio Carsija Sarajevo
 http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/290.ts
-#EXTINF:-1,"==== VIDEOTEKA ===="
+#EXTINF:-1,"==== VIDEOTEKA MATORČEVIĆ ===="
 #EXTINF:-1,Black Water Abyss (2020)
 http://videoteka1.dvrcam.info:25461/movie/mmaxvod1/mmaxvvod2/4146.mkv
 #EXTINF:-1,Cat in the Wall (2020)
