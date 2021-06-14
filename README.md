@@ -1,4 +1,4 @@
-#EXTINF:-1,"==== KANALI TV MATORCEVIC PUDARCI ===="
+#EXTINF:-1,"==== KANALI - TV MATORCEVIĆ - PUDARCI ===="
 #EXTINF:-1,N1 SRB
 http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/399.ts
 #EXTINF:-1, RS: N1 FHD
@@ -11,6 +11,8 @@ http://sps1.tvmoip.com:18080/TestIvo2/IvoTest2/71
 http:\\krajnatv.com:8000\apo7776\skypeuser\1580
 #EXTINF:-1,Aljazeera
 http:\\wrlstr.dvrdns.org:18066\live?channelId=494&uid=338&deviceUser=dnevna&devicePass=996phDps 
+#EXTINF:-1,Euronews Srbija
+https://d3g1taayt9l95v.cloudfront.net/app-7612-0331/ngrp:VyN31GCi_all/playlist.m3u8
 #EXTINF:-1,RTS 1
 http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/112.ts
 #EXTINF:-1,HRT 1
@@ -596,7 +598,7 @@ http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/2549.ts
 http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/1407.ts
 #EXTINF:-1,PINK WESTERN - low
 http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/2548.ts
-#EXTINF:-1,"==== SPORT MATORECEVIC - BECKUP ===="
+#EXTINF:-1,"==== SPORT- MATORČEVIĆ - BECKUP ===="
 #EXTINF:-1, Sport Klub 1 FHD
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3467
 #EXTINF:-1,Sport Klub 1 FHD
@@ -661,7 +663,7 @@ http:\\telehetz.dvrdns.org:12345\live?channelId=429&uid=338&deviceUser=dnevna&de
 http:\\telehetz.dvrdns.org:12345\live?channelId=449&uid=338&deviceUser=dnevna&devicePass=996phDps
 #EXTINF:-1, Sky sport 1
 http:\\wrlstr.dvrdns.org:18066\live?channelId=590&uid=338&deviceUser=dnevna&devicePass=996phDps
-#EXTINF:-1,"==== PORNIĆI MATRCEVIC ===="
+#EXTINF:-1,"==== PORNIĆI - MATORČEVIĆ ===="
 #EXTINF:-1", EXTREME HD
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3329
 #EXTINF:-1 , HOT HD
@@ -726,8 +728,7 @@ http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/192282
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3293
 #EXTINF:-1, XY PLUS
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3291
-#EXTINF:-1,"==== RADIO STANICE  MATORCEVIC PUDARCI ===="
-#EXTINF:-1,Radio Hip Hop Banjaluka
+#EXTINF:-1,"==== RADIO STANICE-  MATORČEVIĆ- PUDARCI
 http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/293.ts
 #EXTINF:-1,Radio 055 Bijeljina
 http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/294.ts
@@ -901,7 +902,7 @@ http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/287.ts
 http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/289.ts
 #EXTINF:-1,Radio Carsija Sarajevo
 http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/290.ts
-#EXTINF:-1,"==== VIDEOTEKA MATORČEVIĆ ===="
+#EXTINF:-1,"==== VIDEOTEKA- MATORČEVIĆ ===="
 #EXTINF:-1,Black Water Abyss (2020)
 http://videoteka1.dvrcam.info:25461/movie/mmaxvod1/mmaxvvod2/4146.mkv
 #EXTINF:-1,Cat in the Wall (2020)
