@@ -117,11 +117,13 @@ rtmp://91.148.117.134/tkturist/tkturist
 http://176.67.210.1/hls/kanalm.m3u8 
 #EXTINF:-1, Pruga TV 
 https://stream.pruga.rs:8443/live/pruga/index.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="Pannon TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SRBIJA", Pannon TV http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/166786 
+#EXTINF:-1, Pannon TV http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/166786 
 #EXTINF:-1,(RS) RTK 2 
 http:\iptvtree.net:8080\ce1eb8b3\87b9d5e09c\2565 
-#EXTINF:-1, Tesla Vision http://192.99.6.113:1935/live/Tesla_360p/chunklist_w202539152.m3u8 
-#EXTINF:-1, BN https://dns2.rtvbn.com:8080/live/index.m3u8 
+#EXTINF:-1, Tesla Vision 
+http://192.99.6.113:1935/live/Tesla_360p/chunklist_w202539152.m3u8 
+#EXTINF:-1, BN 
+https://dns2.rtvbn.com:8080/live/index.m3u8 
 #EXTINF:-1,Krajina HD 
 rtmp://89.163.208.115/live/rtvkrajina
 #EXTINF:-1,RTS DRAMA
