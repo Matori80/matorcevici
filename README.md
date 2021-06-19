@@ -50,7 +50,7 @@ http://cdn.dovecher.tv:8081/live/marsh/playlist.m3u8
 #EXTINF:-1, Leskovac 
 http:\krajnatv.com:8000\apo7776\skypeuser\4604 
 #EXTINF:-1, Istok 
-http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/145942 
+http://5.39.72.165:8000/live?channelId=262&uid=78&deviceMac=00:1A:79:2A:5A:CF
 #EXTINF:-1, Kladovo 
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/171912 
 #EXTINF:-1,Mlava 
