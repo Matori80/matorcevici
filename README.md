@@ -6,7 +6,7 @@ http://tv.nova-iptv.com:80/Dalibor_Surlin/mRZ5bozxb8/9271
 #EXTINF:-1, N1 (beckup
 http://telehetz.dvrdns.org:12345/live?channelId=549&uid=338&deviceUser=dnevna&devicePass=996phDps
 #EXTINF:-1,NOVA S
-http://tv.nova-iptv.com:80/Dalibor_Surlin/mRZ5bozxb8/9274
+http://5.39.72.165:8000/live?channelId=246&uid=78&deviceMac=00:1A:79:2A:5A:CF
 #EXTINF:-1,NOVA TV (SR)
 http://sps1.tvmoip.com:18080/TestIvo2/IvoTest2/71
 #EXTINF:-1,NOVA S (Beckup(
