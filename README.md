@@ -14,7 +14,7 @@ http://client.nodomain.vip:80/live.ts?channelId=603&uid=14852&deviceUser=27edina
 #EXTINF:-1,Aljazeera
 http://wrlstr.dvrdns.org:18066/live?channelId=494&uid=338&deviceUser=dnevna&devicePass=996phDps
 #EXTINF:-1,Aljazeera beckup
-http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/264620
+http://tv.nova-iptv.com:80/Dalibor_Surlin/mRZ5bozxb8/600
 #EXTINF:-1,Euronews Srbija
 https://d3g1taayt9l95v.cloudfront.net/app-7612-0331/ngrp:VyN31GCi_all/playlist.m3u8
 #EXTINF:0,Kurir 
@@ -22,7 +22,7 @@ https://kurir-tv.haste-cdn.net/providus/live2805_hq/index.m3u8
 #EXTINF:-1,K1 HD 
 http:\telehetz.dvrdns.org:12345\live?channelId=595&uid=338&deviceUser=dnevna&devicePass=996phDps 
 #EXTINF:-1,SRB: K1
-http://baklja.net-tv.tv:80/marlon/marlon/11385
+http://tv.nova-iptv.com:80/Dalibor_Surlin/mRZ5bozxb8/10263
 #EXTINF:-1,: Rts 1 HD
 http://client.nodomain.vip:80/live.ts?channelId=37&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
 #EXTINF:-1,: Rts 1 (Backup)
@@ -87,9 +87,6 @@ http://192.99.6.113:1935/live/Tesla_360p/chunklist_w202539152.m3u8
 https://dns2.rtvbn.com:8080/live/index.m3u8 
 #EXTINF:-1,Krajina HD 
 rtmp://89.163.208.115/live/rtvkrajina
-#EXTINF:-1,KCN 2 
-http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/4170 
-#EXTINF:-1,KCN 3 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/4171 #EXTINF:-1, S televizija
 #EXTINF:-1,"==== KANALI - TV MATORCEVIĆ -SRBIJA ===="
 #EXTINF:-1, NOVA S HD
 http://client.nodomain.vip:80/live.ts?channelId=603&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
