@@ -55,6 +55,8 @@ http://5.39.72.165:8000/live?channelId=262&uid=78&deviceMac=00:1A:79:2A:5A:CF
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/171912 
 #EXTINF:-1,Mlava 
 http:\krajnatv.com:8000\apo7776\skypeuser\1652 
+#EXTINF:-1, RTV Mir
+http:\\epanel.dynu.net:4000\commando\besplatno\
 #EXTINF:-1,SAT 
 http:\krajnatv.com:8000\apo7776\skypeuser\1654 
 #EXTINF:-1,NOVA (Ex F- zaječar) 
@@ -77,6 +79,8 @@ rtmp://91.148.117.134/tkturist/tkturist
 http://176.67.210.1/hls/kanalm.m3u8 
 #EXTINF:-1, Pruga TV 
 https://stream.pruga.rs:8443/live/pruga/index.m3u8 
+#EXTINF:-1, Šabac
+http:\\epanel.dynu.net:4000\commando\besplatno\36013
 #EXTINF:-1, Pannon TV 
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/166786 
 #EXTINF:-1,(RS) RTK 2 
