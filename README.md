@@ -16,7 +16,7 @@ http://wrlstr.dvrdns.org:18066/live?channelId=494&uid=338&deviceUser=dnevna&devi
 #EXTINF:-1,Aljazeera beckup
 http://tv.nova-iptv.com:80/Dalibor_Surlin/mRZ5bozxb8/600
 #EXTINF:-1,Euronews Srbija
-https://d3g1taayt9l95v.cloudfront.net/app-7612-0331/ngrp:VyN31GCi_all/playlist.m3u8
+https://d2o6nnfvbbufka.cloudfront.net/app-19518-0855/ngrp:RWxI5IQr_all/chunklist_w944847616_b1106000.m3u8
 #EXTINF:0,Kurir 
 https://kurir-tv.haste-cdn.net/providus/live2805_hq/index.m3u8 
 #EXTINF:-1,K1 HD 
