@@ -15,7 +15,9 @@ http://client.nodomain.vip:80/live.ts?channelId=603&uid=14852&deviceUser=27edina
 http://wrlstr.dvrdns.org:18066/live?channelId=494&uid=338&deviceUser=dnevna&devicePass=996phDps
 #EXTINF:-1,Aljazeera beckup
 http://tv.nova-iptv.com:80/Dalibor_Surlin/mRZ5bozxb8/600
-#EXTINF:-1,Euronews Srbija
+#EXTINF:-1,Euronews Srbija HD
+https://d2o6nnfvbbufka.cloudfront.net/app-19518-0855/ngrp:RWxI5IQr_all/chunklist_w861709104_b6256000.m3u8
+#EXTINF:-1,Euronews Srbija (low)
 https://d2o6nnfvbbufka.cloudfront.net/app-19518-0855/ngrp:RWxI5IQr_all/chunklist_w944847616_b1106000.m3u8
 #EXTINF:0,Kurir 
 https://kurir-tv.haste-cdn.net/providus/live2805_hq/index.m3u8 
