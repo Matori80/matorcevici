@@ -14,7 +14,7 @@ http://client.nodomain.vip:80/live.ts?channelId=603&uid=14852&deviceUser=27edina
 #EXTINF:-1,Aljazeera
 http://wrlstr.dvrdns.org:18066/live?channelId=494&uid=338&deviceUser=dnevna&devicePass=996phDps
 #EXTINF:-1,Aljazeera beckup
-http://tv.nova-iptv.com:80/Dalibor_Surlin/mRZ5bozxb8/600
+http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/16
 #EXTINF:-1,Euronews Srbija HD
 https://d2o6nnfvbbufka.cloudfront.net/app-19518-0855/ngrp:RWxI5IQr_all/chunklist_w861709104_b6256000.m3u8
 #EXTINF:-1,Euronews Srbija (low)
@@ -83,6 +83,10 @@ rtmp://91.148.117.134/tkturist/tkturist
 http://176.67.210.1/hls/kanalm.m3u8 
 #EXTINF:-1, Pruga TV 
 https://stream.pruga.rs:8443/live/pruga/index.m3u8 
+#EXTINF:-1,EX-YU:TV RITAM
+http://mwotoktipple.com:1557/VexchangeTR/7xhEsfPPGU/2684
+#EXTINF:-1,EX-YU:TV HERC
+http://mwotoktipple.com:1557/VexchangeTR/7xhEsfPPGU/2572
 #EXTINF:-1, Šabac
 http:\\epanel.dynu.net:4000\commando\besplatno\36013
 #EXTINF:-1, Pannon TV 
