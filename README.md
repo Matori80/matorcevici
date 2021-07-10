@@ -8,7 +8,7 @@ http://telehetz.dvrdns.org:12345/live?channelId=549&uid=338&deviceUser=dnevna&de
 #EXTINF:-1,NOVA S
 http://5.39.72.165:8000/live?channelId=246&uid=78&deviceMac=00:1A:79:2A:5A:CF
 #EXTINF:-1,NOVA TV (SR)
-http://sps1.tvmoip.com:18080/TestIvo2/IvoTest2/71
+http://mwotoktipple.com:1557/VexchangeTR/7xhEsfPPGU/2567
 #EXTINF:-1,NOVA S (Beckup(
 http://client.nodomain.vip:80/live.ts?channelId=603&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
 #EXTINF:-1,Aljazeera
