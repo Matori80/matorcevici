@@ -28,7 +28,7 @@ http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/38343
 #EXTINF:-1,: Rts 1 HD
 http://client.nodomain.vip:80/live.ts?channelId=37&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
 #EXTINF:-1,: Rts 1 (Backup)
-http://tv.nova-iptv.com:80/Dalibor_Surlin/mRZ5bozxb8/521
+http://51.15.5.226:8000/live?channelId=236&uid=78&deviceMac=00:1A:79:2A:5A:CF
 #EXTINF:-1, Srpska dijaspora 
 https://live.tsd-tv.com/live/tsd.m3u8 
 #EXTINF:-1, Art 
