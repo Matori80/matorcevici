@@ -31,6 +31,8 @@ http://client.nodomain.vip:80/live.ts?channelId=37&uid=14852&deviceUser=27edinal
 http://51.15.5.226:8000/live?channelId=236&uid=78&deviceMac=00:1A:79:2A:5A:CF
 #EXTINF:-1, Srpska dijaspora 
 https://live.tsd-tv.com/live/tsd.m3u8 
+#EXTINF:-1, RTK 2
+http://195.154.118.192:8000/live?channelId=1513&uid=78&deviceMac=00:1A:79:2A:5A:CF
 #EXTINF:-1, Art 
 rtmp://92.60.237.39/live/test 
 #EXTINF:-1, Bellame Nis 
