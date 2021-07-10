@@ -49,6 +49,8 @@ http://stream.pikanal.rs/pikanal/pgm.m3u8
 https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8 
 #EXTINF:-1, Mars Valjevo 
 http://cdn.dovecher.tv:8081/live/marsh/playlist.m3u8 
+#EXTINF:-1,RTV VRANJE
+http://mwotoktipple.com:1557/VexchangeTR/7xhEsfPPGU/2687
 #EXTINF:-1, Leskovac 
 http:\krajnatv.com:8000\apo7776\skypeuser\4604 
 #EXTINF:-1, Istok 
