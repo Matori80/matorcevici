@@ -55,12 +55,8 @@ http://mwotoktipple.com:1557/VexchangeTR/7xhEsfPPGU/2687
 http:\krajnatv.com:8000\apo7776\skypeuser\4604 
 #EXTINF:-1, Istok 
 http://5.39.72.165:8000/live?channelId=262&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1, Kladovo 
-http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/171912 
 #EXTINF:-1,Mlava 
 http:\krajnatv.com:8000\apo7776\skypeuser\1652 
-#EXTINF:-1, RTV Mir
-http:\\epanel.dynu.net:4000\commando\besplatno\
 #EXTINF:-1,SAT 
 http:\krajnatv.com:8000\apo7776\skypeuser\1654 
 #EXTINF:-1,NOVA (Ex F- zaječar) 
@@ -73,8 +69,6 @@ http:\krajnatv.com:8000\apo7776\skypeuser\1658
 http:\krajnatv.com:8000\apo7776\skypeuser\1659 
 #EXTINF:-1, Braničevo 
 http:\krajnatv.com:8000\apo7776\skypeuser\1653 
-#EXTINF:-1, KCN1 
-http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/4169 
 #EXTINF:-1, Mis tv 
 https://5afd52b55ff79.streamlock.net/MISTV/myStream/chunklist_w675272264.m3u8 
 #EXTINF:-1, TK 
@@ -87,12 +81,6 @@ https://stream.pruga.rs:8443/live/pruga/index.m3u8
 http://mwotoktipple.com:1557/VexchangeTR/7xhEsfPPGU/2684
 #EXTINF:-1,EX-YU:TV HERC
 http://mwotoktipple.com:1557/VexchangeTR/7xhEsfPPGU/2572
-#EXTINF:-1, Šabac
-http:\\epanel.dynu.net:4000\commando\besplatno\36013
-#EXTINF:-1, Pannon TV 
-http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/166786 
-#EXTINF:-1,(RS) RTK 2 
-http:\iptvtree.net:8080\ce1eb8b3\87b9d5e09c\2565 
 #EXTINF:-1, Tesla Vision 
 http://192.99.6.113:1935/live/Tesla_360p/chunklist_w202539152.m3u8 
 #EXTINF:-1, BN 
