@@ -1635,194 +1635,100 @@ http://client.nodomain.vip:80/live.ts?channelId=98&uid=14852&deviceUser=27edinal
 #EXTINF:-1,  PINK EROTIC 4
 http://client.nodomain.vip:80/live.ts?channelId=99&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
 #EXTINF:-1, "==== RADIO STANICE- MATORČEVIĆ- PUDARCI===="
-#EXTINF:-1,VIP Radio
-http://tv.nova-iptv.com:80/Dalibor_Surlin/mRZ5bozxb8/8681
-#EXTINF:-1,Radio KRAJINA Cazin
-http://tv.nova-iptv.com:80/Dalibor_Surlin/mRZ5bozxb8/3782
-#EXTINF:-1,BN Radio
-http://tv.nova-iptv.com:80/Dalibor_Surlin/mRZ5bozxb8/3
-#EXTINF:-1,YU Planet radio
-http://tv.nova-iptv.com:80/Dalibor_Surlin/mRZ5bozxb8/6
-#EXTINF:-1,Play Radio
-http://tv.nova-iptv.com:80/Dalibor_Surlin/mRZ5bozxb8/10
+#EXTINF:0,RADIO SKY
+http://89.205.123.70:8002/dragan.mp3
+#EXTINF:-1,Antena Zagreb Rock
+http://live.antenazagreb.hr:8019/dragan.mp3
+#EXTINF:-1,Antena Zagreb Dance
+http://live.antenazagreb.hr:8015/dragan.mp3
+#EXTINF:-1 ,Antena M Podgorica
+http://radioservis.me:8010/antenamlive/;*.mp3
+#EXTINF:-1,Bn Radio
+http://stream.rtvbn.com:8522/;*.mp3
+#EXTINF: 0,Bubamara Srbija
+http://92.60.230.200:5010/dragan.mp3
+#EXTINF:-1,BumBum 89.4
+http://185.22.144.158:8000/dragan.mp3
+#EXTINF:-1,Banovina
+http://stream1.radio-banovina.hr:8008/dragan.mp3
+#EXTINF:0,Banovina Lght
+http://stream1.radio-banovina.hr:8026/dragan.mp3
+#EXTINF:-1,B92 Play Radio
+http://stream.b92.net:7999/radio-b92.mp3
+#EXTINF:-1,BIR
+http://188.40.62.20:8090/dragan.mp3
+#EXTINF:-1,BOSANSKA POSAVINA
+http://78.46.64.6:7000/;?1497894874555.mp3
+#EXTINF:-1,BOSANSKI BROD
+http://188.165.192.5:8287/dragan.mp3
+#EXTINF:-1,BRCKO
+http://91.191.0.45:8000/dragan.mp3
+#EXTINF:-1,Carsija
+http://stream.radiocarsija.com:19406/;*.mp3
+#EXTINF:-1,Carsija
+http://carsija.topstream.net:19406/;*.mp3
+#EXTINF:-1,Centar Studio Porec
+http://radiocentar.hr:8282/mp3
+#EXTINF:-1 ,DALMACIJA
+http://shoutcast.pondi.hr:8000/dragan.mp3
+#EXTINF:-1,Drukciji
+http://185.99.0.240:9998/;*.mp3
+#EXTINF:-1 ,D Plus Podgorica
+http://tachyon.shoutca.st:8303/xstream
+#EXTINF:-1,Glas Drine
+http://77.74.231.21:8028/;*.mp3
+#EXTINF:-1,JUPOK RADIO
+http://176.9.59.144:8062/index.mp3
+#EXTINF:-1, JUPOK ROZAJE
+http://rozaje.do.am/jupok.m3u8
+#EXTINF:-1,Koprivljanski Radio
+http://cast2.name.ba:8101/;*.mp3
+#EXTINF:-1,Kuperski Radio
+http://178.209.2.100:10000/live.mp3
+#EXTINF:-1,Laganini Dab+ Radio
+http://50.7.70.58:8915/live.mp3
+#EXTINF:-1,LIPOVAC
+http://philae.dihostnet.com:8129/;*.mp3
+#EXTINF:-1,Maximum Radio
+http://92.204.54.96:8000/dragan.mp3
+#EXTINF:0,Martin-Zabavni Radio
+http://genf196.server4you.de:8585/dragan.mp3
+#EXTINF:-1,MARIJA MEDJUGORJE
+http://dreamsiteradiocp2.com:8076/;RADIO/dragan.mp3
+#EXTINF:-1,MORAVA JAGODINA
+http://78.129.199.49:12100/dragan.mp3
+#EXTINF: 0,My Station Name
+http://92.60.230.200:5055/
+#EXTINF:-1,Narodni Radio
+http://live.narodni.hr:8059/dragan.mp3
+#EXTINF:-1,Ok Radio 128K Stereo Server Beograd
+http://live7.okradio.net:80/;*.mp3
+#EXTINF:-1,Orasja
+http://188.40.62.20:8024/;*.mp3
 #EXTINF:-1,Pink Radio
-http://tv.nova-iptv.com:80/Dalibor_Surlin/mRZ5bozxb8/4
-#EXTINF:-1,Radio Livno
-http://tv.nova-iptv.com:80/Dalibor_Surlin/mRZ5bozxb8/9
-#EXTINF:-1,BIG Radio
-http://tv.nova-iptv.com:80/Dalibor_Surlin/mRZ5bozxb8/5
-#EXTINF:-1,Radio Stari Grad Sarajevo
-http://tv.nova-iptv.com:80/Dalibor_Surlin/mRZ5bozxb8/8
-#EXTINF:-1,Radio Tomislavgrad
-http://tv.nova-iptv.com:80/Dalibor_Surlin/mRZ5bozxb8/7
-#EXTINF:-1,Radio Cazin
-http://tv.nova-iptv.com:80/Dalibor_Surlin/mRZ5bozxb8/6636
-#EXTINF:-1,Radio USK
-http://tv.nova-iptv.com:80/Dalibor_Surlin/mRZ5bozxb8/6637
-#EXTINF:-1,HRT HR 1
-http://tv.nova-iptv.com:80/Dalibor_Surlin/mRZ5bozxb8/6709
-#EXTINF:-1,HRT HR 2
-http://tv.nova-iptv.com:80/Dalibor_Surlin/mRZ5bozxb8/6710
-#EXTINF:-1,Hrvatski radio Zupanja
-http://tv.nova-iptv.com:80/Dalibor_Surlin/mRZ5bozxb8/6703
-#EXTINF:-1,Radio Posavina
-http://tv.nova-iptv.com:80/Dalibor_Surlin/mRZ5bozxb8/6707
-#EXTINF:-1,Radio Sibenik
-http://tv.nova-iptv.com:80/Dalibor_Surlin/mRZ5bozxb8/6705
-#EXTINF:-1,Radio Sunce
-http://tv.nova-iptv.com:80/Dalibor_Surlin/mRZ5bozxb8/6702
-#EXTINF:-1,Radio Zapresic
-http://tv.nova-iptv.com:80/Dalibor_Surlin/mRZ5bozxb8/6708
-#EXTINF:-1,Enter Zagreb
-http://tv.nova-iptv.com:80/Dalibor_Surlin/mRZ5bozxb8/6706
-#EXTINF:-1,Antena Zagreb
-http://tv.nova-iptv.com:80/Dalibor_Surlin/mRZ5bozxb8/6704
-#EXTINF:-1,RTG Music
-http://tv.nova-iptv.com:80/Dalibor_Surlin/mRZ5bozxb8/10240
-#EXTINF:-1,Radiopostaja Mir Medjugorje
-http://tv.nova-iptv.com:80/Dalibor_Surlin/mRZ5bozxb8/10241
-#EXTINF:-1,Kupreski Radio
-http://tv.nova-iptv.com:80/Dalibor_Surlin/mRZ5bozxb8/10242
-#EXTINF:-1,Radio Sljeme (ODAVDE BAKLJA)
-http://baklja.net-tv.tv:80/marlon/marlon/10203
-#EXTINF:-1,Antena Zagreb
-http://baklja.net-tv.tv:80/marlon/marlon/7888
-#EXTINF:-1,Antena Hits
-http://baklja.net-tv.tv:80/marlon/marlon/7889
-#EXTINF:-1,Narodni radio
-http://baklja.net-tv.tv:80/marlon/marlon/7890
-#EXTINF:-1,Otvoreni radio
-http://baklja.net-tv.tv:80/marlon/marlon/7891
-#EXTINF:-1,Gold FM
-http://baklja.net-tv.tv:80/marlon/marlon/7892
-#EXTINF:-1,Zagorski radio
-http://baklja.net-tv.tv:80/marlon/marlon/7893
-#EXTINF:-1,Totalni FM Split
-http://baklja.net-tv.tv:80/marlon/marlon/7894
-#EXTINF:-1,Slavonski radio
-http://baklja.net-tv.tv:80/marlon/marlon/7895
-#EXTINF:-1,Radio Student
-http://baklja.net-tv.tv:80/marlon/marlon/7896
-#EXTINF:-1,Radio Marija
-http://baklja.net-tv.tv:80/marlon/marlon/7897
-#EXTINF:-1,Radio Mackamama
-http://baklja.net-tv.tv:80/marlon/marlon/7898
-#EXTINF:-1,Radio Istra
-http://baklja.net-tv.tv:80/marlon/marlon/7899
-#EXTINF:-1,Radio Dunav Vukovar
-http://baklja.net-tv.tv:80/marlon/marlon/7900
-#EXTINF:-1,Radio DeeJay
-http://baklja.net-tv.tv:80/marlon/marlon/7901
-#EXTINF:-1,Radio Dalmacija
-http://baklja.net-tv.tv:80/marlon/marlon/7902
-#EXTINF:-1,Radio Borovo
-http://baklja.net-tv.tv:80/marlon/marlon/7903
-#EXTINF:-1,Radio Banovina
-http://baklja.net-tv.tv:80/marlon/marlon/7904
-#EXTINF:-1,Hrvatski radio Zupanja
-http://baklja.net-tv.tv:80/marlon/marlon/7905
-#EXTINF:-1,Radio Extra FM
-http://baklja.net-tv.tv:80/marlon/marlon/7906
-#EXTINF:-1,Radio Renome Podgorica
-http://baklja.net-tv.tv:80/marlon/marlon/7907
-#EXTINF:-1,Radio Kotor
-http://baklja.net-tv.tv:80/marlon/marlon/7908
-#EXTINF:-1,Radio Herceg Novi
-http://baklja.net-tv.tv:80/marlon/marlon/7909
-#EXTINF:-1,Radio Antena M
-http://baklja.net-tv.tv:80/marlon/marlon/7910
-#EXTINF:-1,RSG Radio
-http://baklja.net-tv.tv:80/marlon/marlon/7911
-#EXTINF:-1,Radio TeÅ¡anj
-http://baklja.net-tv.tv:80/marlon/marlon/7912
-#EXTINF:-1,Radio Sarajevo
-http://baklja.net-tv.tv:80/marlon/marlon/7913
-#EXTINF:-1,Radio Ljubuski
-http://baklja.net-tv.tv:80/marlon/marlon/7914
-#EXTINF:-1,Radio Lukavac
-http://baklja.net-tv.tv:80/marlon/marlon/7915
-#EXTINF:-1,Radio Livno
-http://baklja.net-tv.tv:80/marlon/marlon/7916
-#EXTINF:-1,Radio Crne Gore
-http://baklja.net-tv.tv:80/marlon/marlon/7917
-#EXTINF:-1,Radio Islama
-http://baklja.net-tv.tv:80/marlon/marlon/7918
-#EXTINF:-1,Radio Herceg Bosne
-http://baklja.net-tv.tv:80/marlon/marlon/7919
-#EXTINF:-1,Radio Glas Drine
-http://baklja.net-tv.tv:80/marlon/marlon/7920
-#EXTINF:-1,Radio Brko
-http://baklja.net-tv.tv:80/marlon/marlon/7921
-#EXTINF:-1,Radio Brcko Distrikt
-http://baklja.net-tv.tv:80/marlon/marlon/7922
-#EXTINF:-1,Radio BN
-http://baklja.net-tv.tv:80/marlon/marlon/7923
-#EXTINF:-1,Kupreski radio
-http://baklja.net-tv.tv:80/marlon/marlon/7924
-#EXTINF:-1,GradskiFM
-http://baklja.net-tv.tv:80/marlon/marlon/7925
-#EXTINF:-1,Bobar Radio
-http://baklja.net-tv.tv:80/marlon/marlon/7926
-#EXTINF:-1,BiH Radio
-http://baklja.net-tv.tv:80/marlon/marlon/7927
-#EXTINF:-1,TDI Radio
-http://baklja.net-tv.tv:80/marlon/marlon/7928
-#EXTINF:-1,Radio S
-http://baklja.net-tv.tv:80/marlon/marlon/7929
-#EXTINF:-1,Radio JAT
-http://baklja.net-tv.tv:80/marlon/marlon/7930
-#EXTINF:-1,Radio S Beograd
-http://baklja.net-tv.tv:80/marlon/marlon/7931
-#EXTINF:-1,Radio B92
-http://baklja.net-tv.tv:80/marlon/marlon/7932
-#EXTINF:-1,Pink Radio
-http://baklja.net-tv.tv:80/marlon/marlon/7933
-#EXTINF:-1,OK Radio
-http://baklja.net-tv.tv:80/marlon/marlon/7934
-#EXTINF:-1,Naxi KIDS 128
-http://baklja.net-tv.tv:80/marlon/marlon/7935
-#EXTINF:-1,Naxi RNB
-http://baklja.net-tv.tv:80/marlon/marlon/7936
-#EXTINF:-1,Naxi DANCE
-http://baklja.net-tv.tv:80/marlon/marlon/7937
-#EXTINF:-1,Naxi LOVE
-http://baklja.net-tv.tv:80/marlon/marlon/7938
-#EXTINF:-1,Naxi CLUBBING
-http://baklja.net-tv.tv:80/marlon/marlon/7939
-#EXTINF:-1,Naxi 80-e RADIO
-http://baklja.net-tv.tv:80/marlon/marlon/7940
-#EXTINF:-1,Naxi CLASSIC
-http://baklja.net-tv.tv:80/marlon/marlon/7941
-#EXTINF:-1,Naxi CAFE
-http://baklja.net-tv.tv:80/marlon/marlon/7942
-#EXTINF:-1,Naxi EVERGREEN
-http://baklja.net-tv.tv:80/marlon/marlon/7943
-#EXTINF:-1,Naxi ROCK
-http://baklja.net-tv.tv:80/marlon/marlon/7944
-#EXTINF:-1,Naxi JAZZ
-http://baklja.net-tv.tv:80/marlon/marlon/7945
-#EXTINF:-1,Naxi BOEM
-http://baklja.net-tv.tv:80/marlon/marlon/7946
-#EXTINF:-1,Naxi HOUSE 48
-http://baklja.net-tv.tv:80/marlon/marlon/7947
-#EXTINF:-1,Naxi HOUSE 128
-http://baklja.net-tv.tv:80/marlon/marlon/7948
-#EXTINF:-1,Naxi Radio
-http://baklja.net-tv.tv:80/marlon/marlon/7949
-#EXTINF:-1,Ami Naxi Radio
-http://baklja.net-tv.tv:80/marlon/marlon/7950
-#EXTINF:-1,Club Music radio
-http://baklja.net-tv.tv:80/marlon/marlon/7951
-#EXTINF:-1,Radio Usora
-http://baklja.net-tv.tv:80/marlon/marlon/7952
-#EXTINF:-1,Big 2
-http://baklja.net-tv.tv:80/marlon/marlon/7953
-#EXTINF:-1,Radio Posavina
-http://baklja.net-tv.tv:80/marlon/marlon/7954
-#EXTINF:-1,Radio Sehara
-http://baklja.net-tv.tv:80/marlon/marlon/10198
-#EXTINF:-1,Radio Avaz
-http://baklja.net-tv.tv:80/marlon/marlon/10199
+http://pink.exyuserver.com/;*.mp3
+#EXTINF:-1,Pingvin
+http://uzivo4.radiopingvin.com:8187/domaci2/dragan.mp3
+#EXTINF:-1,PREPOROD
+http://s1.voscast.com:7986/dragan.mp3
+#EXTINF: 0,Pluzina 965
+http://92.60.230.200:5085/dragan.mp3
+#EXTINF:-1 ,Sevdah radio
+http://195.222.59.150:8010/dragan.mp3
+#EXTINF:-1,SARAJEVO
+http://malla.softnet.si:8000/;stream.mp3?v=24/dragan.mp3
+#EXTINF:-1,SRBAC
+http://s32.myradiostream.com:4858/;*.mp3
+#EXTINF:-1,TESANJ
+http://radio.daj.ba:8082/;?type=http&nocache=4/dragan.mp3
+#EXTINF:-1 ,Titograd
+http://192.99.57.127:8016/;*.mp3
+#EXTINF:-1,USORA
+http://78.46.64.6:8080/;*.mp3
+#EXTINF:-1,VELIKA KLADUSA
+http://212.83.150.15:8058/;*.mp3
+#EXTINF:-1, Radio Karolina - Lagani NonStoP
+https://streaming.karolina.rs/karolinabezreklama.mp3
 #EXTINF:-1,"==== VIDEOTEKA- MATORČEVIĆ ===="
 #EXTINF:-1,Black Water Abyss (2020)
 http://videoteka1.dvrcam.info:25461/movie/mmaxvod1/mmaxvvod2/4146.mkv
