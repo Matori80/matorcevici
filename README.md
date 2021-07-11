@@ -1635,8 +1635,72 @@ http://client.nodomain.vip:80/live.ts?channelId=98&uid=14852&deviceUser=27edinal
 #EXTINF:-1,  PINK EROTIC 4
 http://client.nodomain.vip:80/live.ts?channelId=99&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
 #EXTINF:-1, "==== RADIO STANICE- MATORČEVIĆ- PUDARCI===="
-#EXTINF:0,RADIO SKY
+#EXTINF:-1,BiG1
+http://big1.bigportal.ba:8100/big1
+#EXTINF:-1,BiG2
+http://big2.bigportal.ba:8100/big2
+#EXTINF:-1,BiG3
+http://big3.bigportal.ba:8100/big3
+#EXTINF:-1,TDI
+http://streaming.tdiradio.com:8000/tdiradio
+#EXTINF:-1,TDI HQ
+http://streaming.tdiradio.com:8000/tdiradio96
+#EXTINF:-1,TDI Alltime
+http://streaming.tdiradio.com:8000/alltime
+#EXTINF:-1,TDI Chillout
+http://streaming.tdiradio.com:8000/chillout
+#EXTINF:-1,TDI Classics
+http://streaming.tdiradio.com:8000/classics
+#EXTINF:-1,TDI Crna Gora
+http://streaming.tdiradio.com:8000/crnagora
+#EXTINF:-1,TDI DJ Akademija
+http://streaming.tdiradio.com:8000/djakademija
+#EXTINF:-1,TDI Domaćica
+http://streaming.tdiradio.com:8000/domacica
+#EXTINF:-1,TDI EDM
+http://streaming.tdiradio.com:8000/edm
+#EXTINF:-1,TDI House
+http://streaming.tdiradio.com:8000/house
+#EXTINF:-1,TDI Love
+http://streaming.tdiradio.com:8000/love
+#EXTINF:-1,TDI RnB
+http://streaming.tdiradio.com:8000/rnb
+#EXTINF:-1,TDI Starogradska
+http://streaming.tdiradio.com:8000/starogradska
+#EXTINF:-1,TDI Top 40
+http://streaming.tdiradio.com:8000/top40
+#EXTINF:-1,TDI Euro Dance
+http://streaming.tdiradio.com:8000/eurodance
+#EXTINF:-1,TDI Yu Dance
+http://streaming.tdiradio.com:8000/yudance
+#EXTINF:-1,TDI Kids
+http://streaming.tdiradio.com:8000/kids
+#EXTINF:-1,Naxi Cafe
+http://naxidigital-cafe128.streaming.rs:8020/;stream.nsv
+#EXTINF:-1,Naxi Rock
+http://naxidigital-rock128.streaming.rs:8180/;stream.nsv
+#EXTINF:-1,Naxi Love
+http://naxidigital-love128.streaming.rs:8100/;stream.nsv
+#EXTINF:-1,Naxi Classic
+http://naxidigital128.kbcnet.rs:8030/;stream.nsv
+#EXTINF:-1,Naxi Dance
+http://naxidigital-dance128.streaming.rs:8110/;stream.nsv
+#EXTINF:-1,Naxi House
+http://naxidigital128.kbcnet.rs:8000/;stream.nsv
+#EXTINF:-1,Naxi Clubbing
+http://naxidigital128.kbcnet.rs:8090/;stream.nsv
+#EXTINF:-1,Naxi 80-e
+http://naxidigital-80s128.streaming.rs:8040/;stream.nsv
+#EXTINF:-1,Naxi Evergreen
+http://naxidigital-evergreen128.streaming.rs:8010/;stream.nsv
+#EXTINF:-1,Naxi Boem
+http://109.206.96.18:8050/;stream.nsv
+#EXTINF:-1,Naxi Kids
+http://naxidigital128.kbcnet.rs:8050/;stream.nsv
+#EXTINF:-1,RADIO SKY
 http://89.205.123.70:8002/dragan.mp3
+#EXTINF:-1,Play
+http://stream.playradio.rs:8001/play.mp3
 #EXTINF:-1,Antena Zagreb Rock
 http://live.antenazagreb.hr:8019/dragan.mp3
 #EXTINF:-1,Antena Zagreb Dance
