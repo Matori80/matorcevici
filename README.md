@@ -24,7 +24,7 @@ https://kurir-tv.haste-cdn.net/providus/live2805_hq/index.m3u8
 #EXTINF:-1,K1 HD 
 http:\telehetz.dvrdns.org:12345\live?channelId=595&uid=338&deviceUser=dnevna&devicePass=996phDps 
 #EXTINF:-1,SRB: K1
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/38343
+http://client.nodomain.vip:80/live.ts?channelId=1987&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
 #EXTINF:-1,: Rts 1 HD
 http://client.nodomain.vip:80/live.ts?channelId=37&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
 #EXTINF:-1,: Rts 1 (Backup)
