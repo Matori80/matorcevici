@@ -8,11 +8,11 @@ http://telehetz.dvrdns.org:12345/live?channelId=549&uid=338&deviceUser=dnevna&de
 #EXTINF:-1,NOVA S
 http://5.39.72.165:8000/live?channelId=246&uid=78&deviceMac=00:1A:79:2A:5A:CF
 #EXTINF:-1,NOVA TV (SR)
-http:\\mwotoktipple.com:1557\VexchangeTR\7xhEsfPPGU\2567
+http:\\62.210.247.73:8000\apo7776\skypeuser\1580
 #EXTINF:-1,NOVA S (Beckup(
 http://client.nodomain.vip:80/live.ts?channelId=603&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
 #EXTINF:-1,Aljazeera
-http://wrlstr.dvrdns.org:18066/live?channelId=494&uid=338&deviceUser=dnevna&devicePass=996phDps
+http://client.nodomain.vip:80/live.ts?channelId=117&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
 #EXTINF:-1,Aljazeera beckup
 http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/16
 #EXTINF:-1,Euronews Srbija HD
@@ -79,10 +79,6 @@ rtmp://91.148.117.134/tkturist/tkturist
 http://176.67.210.1/hls/kanalm.m3u8 
 #EXTINF:-1, Pruga TV 
 https://stream.pruga.rs:8443/live/pruga/index.m3u8 
-#EXTINF:-1,EX-YU:TV RITAM
-http://mwotoktipple.com:1557/VexchangeTR/7xhEsfPPGU/2684
-#EXTINF:-1,EX-YU:TV HERC
-http://mwotoktipple.com:1557/VexchangeTR/7xhEsfPPGU/2572
 #EXTINF:-1, Tesla Vision 
 http://192.99.6.113:1935/live/Tesla_360p/chunklist_w202539152.m3u8 
 #EXTINF:-1, BN 
