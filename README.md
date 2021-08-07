@@ -1622,6 +1622,68 @@ http://client.nodomain.vip:80/live.ts?channelId=97&uid=14852&deviceUser=27edinal
 http://client.nodomain.vip:80/live.ts?channelId=98&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
 #EXTINF:-1,  PINK EROTIC 4
 http://client.nodomain.vip:80/live.ts?channelId=99&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
+#EXTINF:-1, Jasmin HD (18+)
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1, Visit-X HD (18+)
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+#EXTINF:-1, Русская ночь (18+)
+http://93.189.224.117:9030/russkayanoch
+#EXTINF:-1, Hustler TV
+http://78.83.191.18:8000/play/a078
+#EXTINF:-1, Hustler HD
+http://51.15.0.141:88/hustlerhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Redlight HD
+http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Rough Channel (21+)
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1, Gangbang Channel (21+)
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 , Compilation Channel (21+)
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1, Brunette Channel (21+)
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1, Blonde Channel (21+)
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1, Anal Channel (21+)
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1, Live Cams Channel (21+)
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1, Russian Channel (21+)
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1, Threesome Channel (21+)
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1, Cuckold Channel (21+)
+http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1, Hardcore Channel (21+)
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1, Teen Channel (21+)
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1, Blowjob Channel (21+)
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1, Latina Channel (21+)
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1, Interracial Channel (21+)
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1, Big Ass Channel (21+)
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1, Fetish Channel (21+)
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1, Big Tits Channel (21+)
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1, Big Dick Channel (21+)
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1, MILF Channel (21+)
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1, Pornstar Channel (21+)
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1, Lesbian Channel (Лесбиянки) (21+)
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1, ****Channel (Гомосеки) (21+)
+http://cdn.adultiptv.net/***.m3u8
+#EXTINF:-1, AST TV 1 HD (Транссексуалы) (21+)
+https://www.ast.tv/stream/1/ultra.m3u8
+#EXTINF:-1, AST TV 2 HD (Транссексуалы) (21+)
+https://www.ast.tv/stream/2/ultra.m3u8
 #EXTINF:-1, "==== RADIO STANICE- MATORČEVIĆ- PUDARCI===="
 #EXTINF:-1,BiG1
 http://big1.bigportal.ba:8100/big1
