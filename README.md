@@ -1537,70 +1537,62 @@ http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/11343
 #EXTINF:-1,Zvezda TV
 http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/35854
 #EXTINF:-1,"==== SPORT- MATORČEVIĆ - BECKUP ===="
-#EXTINF:-1, Sport Klub 1 FHD
-http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3467
-#EXTINF:-1,Sport Klub 1 FHD
-http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/273491
-#EXTINF:-1,Sport Klub 2 FHD
-http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3468
-#EXTINF:-1,Sport Klub 2 FHD
-http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/273486
-#EXTINF:-1,Sport Klub 3 FHD
-http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3469
-#EXTINF:-1,EX-YU Sport Klub 3 FHD
-http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/273497
-#EXTINF:-1,Sport Klub 4 HD
-http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/245135
-#EXTINF:-1,Sport Klub 5 HD
-http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3470
-#EXTINF:-1, Sport Klub 6 HD
-http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3471
-#EXTINF:-1,Sport Klub 7
-http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/146299
-#EXTINF:-1,Sport Klub 8
-http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/54987
-#EXTINF:-1,Sport Klub 9
-http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/59845
-#EXTINF:-1,Sport Klub Golf HD
-http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/59840
-#EXTINF:-1", Sport Klub HD
-http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3466
-#EXTINF:-1, Sport Klub 1 HR
-http:\\krajnatv.com:8000\apo7776\skypeuser\60
-#EXTINF:-1, Sport Klub 1 SR
-http:\\krajnatv.com:8000\apo7776\skypeuser\121
-#EXTINF:-1, Sport Klub 2 HR
-http:\\krajnatv.com:8000\apo7776\skypeuser\61
-#EXTINF:-1, Sport Klub 2 SR
-http:\\krajnatv.com:8000\apo7776\skypeuser\122
-#EXTINF:-1, Sport Klub 3 HR
-http:\\krajnatv.com:8000\apo7776\skypeuser\62
-#EXTINF:-1, Sport Klub 3 SR
-http:\\krajnatv.com:8000\apo7776\skypeuser\123
-#EXTINF:-1, Sport Klub 4 HR
-http:\\krajnatv.com:8000\apo7776\skypeuser\204
-#EXTINF:-1, Sport Klub 4 SR
-http:\\krajnatv.com:8000\apo7776\skypeuser\124
-#EXTINF:-1, Sport Klub 5 HR
-http:\\krajnatv.com:8000\apo7776\skypeuser\205
-#EXTINF:-1, Sport Klub 6 HR
-http:\\krajnatv.com:8000\apo7776\skypeuser\103
-#EXTINF:-1, Sport Klub 6 SR
-http:\\krajnatv.com:8000\apo7776\skypeuser\125
-#EXTINF:-1, NOVA SPORT
-http:\\wrlstr.dvrdns.org:18066\live?channelId=635&uid=394&deviceUser=bracaleskovac&devicePass=bracaleskovac2
-#EXTINF:-1, ESPN 1
-http:\\wrlstr.dvrdns.org:18066\live?channelId=426&uid=338&deviceUser=dnevna&devicePass=996phDps
-#EXTINF:-1, ESPN 2
-http:\\telehetz.dvrdns.org:12345\live?channelId=427&uid=338&deviceUser=dnevna&devicePass=996phDps
-#EXTINF:-1, ESPN 3
-http:\\wrlstr.dvrdns.org:18066\live?channelId=428&uid=338&deviceUser=dnevna&devicePass=996phDps
-#EXTINF:-1, ESPN 4
-http:\\telehetz.dvrdns.org:12345\live?channelId=429&uid=338&deviceUser=dnevna&devicePass=996phDps
-#EXTINF:-1, ESPN 6
-http:\\telehetz.dvrdns.org:12345\live?channelId=449&uid=338&deviceUser=dnevna&devicePass=996phDps
-#EXTINF:-1, Sky sport 1
-http:\\wrlstr.dvrdns.org:18066\live?channelId=590&uid=338&deviceUser=dnevna&devicePass=996phDps
+#EXTINF:-1,ARENA SPORT 1
+http://maxtelekom.com:8080/C5KCjLhSJZ/uFmAyVFvkh/135
+#EXTINF:-1,ARENA SPORT 2
+http://maxtelekom.com:8080/C5KCjLhSJZ/uFmAyVFvkh/136
+#EXTINF:-1,ARENA SPORT 3
+http://maxtelekom.com:8080/C5KCjLhSJZ/uFmAyVFvkh/137
+#EXTINF:-1,ARENA SPORT 4
+http://maxtelekom.com:8080/C5KCjLhSJZ/uFmAyVFvkh/138
+#EXTINF:-1,ARENA SPORT 5
+http://maxtelekom.com:8080/C5KCjLhSJZ/uFmAyVFvkh/139
+#EXTINF:-1,ARENA SPORT 1 HR
+http://maxtelekom.com:8080/C5KCjLhSJZ/uFmAyVFvkh/140
+#EXTINF:-1,ARENA SPORT 2 HR
+http://maxtelekom.com:8080/C5KCjLhSJZ/uFmAyVFvkh/141
+#EXTINF:-1,ARENA SPORT 3 HR
+http://maxtelekom.com:8080/C5KCjLhSJZ/uFmAyVFvkh/142
+#EXTINF:-1,ARENA SPORT 4 HR
+http://maxtelekom.com:8080/C5KCjLhSJZ/uFmAyVFvkh/143
+#EXTINF:-1,ARENA SPORT 5 HR
+http://maxtelekom.com:8080/C5KCjLhSJZ/uFmAyVFvkh/144
+#EXTINF:-1,ARENA SPORT 6 HR
+http://maxtelekom.com:8080/C5KCjLhSJZ/uFmAyVFvkh/145
+#EXTINF:-1,SPORT KLUB HD
+http://maxtelekom.com:8080/C5KCjLhSJZ/uFmAyVFvkh/146
+#EXTINF:-1,SPORT KLUB 1
+http://maxtelekom.com:8080/C5KCjLhSJZ/uFmAyVFvkh/147
+#EXTINF:-1,SPORT KLUB 2
+http://maxtelekom.com:8080/C5KCjLhSJZ/uFmAyVFvkh/148
+#EXTINF:-1,SPORT KLUB 3
+http://maxtelekom.com:8080/C5KCjLhSJZ/uFmAyVFvkh/149
+#EXTINF:-1,SPORT KLUB 4
+http://maxtelekom.com:8080/C5KCjLhSJZ/uFmAyVFvkh/150
+#EXTINF:-1,SPORT KLUB 5
+http://maxtelekom.com:8080/C5KCjLhSJZ/uFmAyVFvkh/151
+#EXTINF:-1,SPORT KLUB 6
+http://maxtelekom.com:8080/C5KCjLhSJZ/uFmAyVFvkh/152
+#EXTINF:-1,SPORT KLUB 7
+http://maxtelekom.com:8080/C5KCjLhSJZ/uFmAyVFvkh/153
+#EXTINF:-1,SPORT KLUB 8
+http://maxtelekom.com:8080/C5KCjLhSJZ/uFmAyVFvkh/154
+#EXTINF:-1,SPORT KLUB 9
+http://maxtelekom.com:8080/C5KCjLhSJZ/uFmAyVFvkh/155
+#EXTINF:-1,EUROSPORT 1
+http://maxtelekom.com:8080/C5KCjLhSJZ/uFmAyVFvkh/156
+#EXTINF:-1,EUROSPORT 2
+http://maxtelekom.com:8080/C5KCjLhSJZ/uFmAyVFvkh/157
+#EXTINF:-1,NOVA SPORT
+http://maxtelekom.com:8080/C5KCjLhSJZ/uFmAyVFvkh/158
+#EXTINF:-1,FIGHT CHANNEL
+http://maxtelekom.com:8080/C5KCjLhSJZ/uFmAyVFvkh/159
+#EXTINF:-1,SOS KANAL
+http://maxtelekom.com:8080/C5KCjLhSJZ/uFmAyVFvkh/160
+#EXTINF:-1,HNTV
+http://maxtelekom.com:8080/C5KCjLhSJZ/uFmAyVFvkh/161
+#EXTINF:-1,MOJA TV SPORT
+http://maxtelekom.com:8080/C5KCjLhSJZ/uFmAyVFvkh/162
 #EXTINF:-1,"==== PORNIĆI - MATORČEVIĆ ===="
 #EXTINF:-1, XXX 1
 http://client.nodomain.vip:80/live.ts?channelId=41&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
