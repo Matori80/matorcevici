@@ -1536,63 +1536,6 @@ http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/1480
 http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/11343
 #EXTINF:-1,Zvezda TV
 http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/35854
-#EXTINF:-1,"==== SPORT- MATORČEVIĆ - BECKUP ===="
-#EXTINF:-1,ARENA SPORT 1
-http://maxtelekom.com:8080/C5KCjLhSJZ/uFmAyVFvkh/135
-#EXTINF:-1,ARENA SPORT 2
-http://maxtelekom.com:8080/C5KCjLhSJZ/uFmAyVFvkh/136
-#EXTINF:-1,ARENA SPORT 3
-http://maxtelekom.com:8080/C5KCjLhSJZ/uFmAyVFvkh/137
-#EXTINF:-1,ARENA SPORT 4
-http://maxtelekom.com:8080/C5KCjLhSJZ/uFmAyVFvkh/138
-#EXTINF:-1,ARENA SPORT 5
-http://maxtelekom.com:8080/C5KCjLhSJZ/uFmAyVFvkh/139
-#EXTINF:-1,ARENA SPORT 1 HR
-http://maxtelekom.com:8080/C5KCjLhSJZ/uFmAyVFvkh/140
-#EXTINF:-1,ARENA SPORT 2 HR
-http://maxtelekom.com:8080/C5KCjLhSJZ/uFmAyVFvkh/141
-#EXTINF:-1,ARENA SPORT 3 HR
-http://maxtelekom.com:8080/C5KCjLhSJZ/uFmAyVFvkh/142
-#EXTINF:-1,ARENA SPORT 4 HR
-http://maxtelekom.com:8080/C5KCjLhSJZ/uFmAyVFvkh/143
-#EXTINF:-1,ARENA SPORT 5 HR
-http://maxtelekom.com:8080/C5KCjLhSJZ/uFmAyVFvkh/144
-#EXTINF:-1,ARENA SPORT 6 HR
-http://maxtelekom.com:8080/C5KCjLhSJZ/uFmAyVFvkh/145
-#EXTINF:-1,SPORT KLUB HD
-http://maxtelekom.com:8080/C5KCjLhSJZ/uFmAyVFvkh/146
-#EXTINF:-1,SPORT KLUB 1
-http://maxtelekom.com:8080/C5KCjLhSJZ/uFmAyVFvkh/147
-#EXTINF:-1,SPORT KLUB 2
-http://maxtelekom.com:8080/C5KCjLhSJZ/uFmAyVFvkh/148
-#EXTINF:-1,SPORT KLUB 3
-http://maxtelekom.com:8080/C5KCjLhSJZ/uFmAyVFvkh/149
-#EXTINF:-1,SPORT KLUB 4
-http://maxtelekom.com:8080/C5KCjLhSJZ/uFmAyVFvkh/150
-#EXTINF:-1,SPORT KLUB 5
-http://maxtelekom.com:8080/C5KCjLhSJZ/uFmAyVFvkh/151
-#EXTINF:-1,SPORT KLUB 6
-http://maxtelekom.com:8080/C5KCjLhSJZ/uFmAyVFvkh/152
-#EXTINF:-1,SPORT KLUB 7
-http://maxtelekom.com:8080/C5KCjLhSJZ/uFmAyVFvkh/153
-#EXTINF:-1,SPORT KLUB 8
-http://maxtelekom.com:8080/C5KCjLhSJZ/uFmAyVFvkh/154
-#EXTINF:-1,SPORT KLUB 9
-http://maxtelekom.com:8080/C5KCjLhSJZ/uFmAyVFvkh/155
-#EXTINF:-1,EUROSPORT 1
-http://maxtelekom.com:8080/C5KCjLhSJZ/uFmAyVFvkh/156
-#EXTINF:-1,EUROSPORT 2
-http://maxtelekom.com:8080/C5KCjLhSJZ/uFmAyVFvkh/157
-#EXTINF:-1,NOVA SPORT
-http://maxtelekom.com:8080/C5KCjLhSJZ/uFmAyVFvkh/158
-#EXTINF:-1,FIGHT CHANNEL
-http://maxtelekom.com:8080/C5KCjLhSJZ/uFmAyVFvkh/159
-#EXTINF:-1,SOS KANAL
-http://maxtelekom.com:8080/C5KCjLhSJZ/uFmAyVFvkh/160
-#EXTINF:-1,HNTV
-http://maxtelekom.com:8080/C5KCjLhSJZ/uFmAyVFvkh/161
-#EXTINF:-1,MOJA TV SPORT
-http://maxtelekom.com:8080/C5KCjLhSJZ/uFmAyVFvkh/162
 #EXTINF:-1,"==== PORNIĆI - MATORČEVIĆ ===="
 #EXTINF:-1, XXX 1
 http://client.nodomain.vip:80/live.ts?channelId=41&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
