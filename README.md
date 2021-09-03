@@ -1628,6 +1628,8 @@ https://www.ast.tv/stream/1/ultra.m3u8
 #EXTINF:-1, AST TV 2 HD (Транссексуалы) (21+)
 https://www.ast.tv/stream/2/ultra.m3u8
 #EXTINF:-1, "==== RADIO STANICE- MATORČEVIĆ- PUDARCI===="
+#EXTINF:-1,Krajina radio
+https://server4p.com/8042/stream/
 #EXTINF:-1,BiG1
 http://big1.bigportal.ba:8100/big1
 #EXTINF:-1,BiG2
