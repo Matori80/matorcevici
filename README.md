@@ -84,7 +84,7 @@ http://192.99.6.113:1935/live/Tesla_360p/chunklist_w202539152.m3u8
 #EXTINF:-1, BN 
 https://dns2.rtvbn.com:8080/live/index.m3u8 
 #EXTINF:-1,Krajina HD 
-rtmp://89.163.208.115/live/rtvkrajina
+rtmp://77.243.11.114/live/rtvkrajina 
 #EXTINF:-1,"==== KANALI - TV MATORCEVIĆ -SRBIJA ===="
 #EXTINF:-1, NOVA S HD
 http://client.nodomain.vip:80/live.ts?channelId=603&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
