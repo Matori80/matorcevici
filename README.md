@@ -1,20 +1,14 @@
 #EXTINF:-1,"==== KANALI - TV MATORCEVIĆ - PUDARCI ===="
 #EXTINF:-1,N1 SRB
 http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/54
-#EXTINF:-1, RS: N1 FHD
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/47
-#EXTINF:-1, N1 (beckup
-http://telehetz.dvrdns.org:12345/live?channelId=549&uid=338&deviceUser=dnevna&devicePass=996phDps
 #EXTINF:-1,NOVA S
 http://5.39.72.165:8000/live?channelId=246&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1,NOVA TV (SR)
-http:\\maxtelekom.com:8080\C5KCjLhSJZ\uFmAyVFvkh\58
-#EXTINF:-1,NOVA S (Beckup(
-http://client.nodomain.vip:80/live.ts?channelId=603&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
+#EXTINF:-1,NOVA S (Beckup)
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/55
+#EXTINF:-1,Nova S BackUP
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4932
 #EXTINF:-1,Aljazeera
-http://client.nodomain.vip:80/live.ts?channelId=117&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,Aljazeera beckup
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/16
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/17
 #EXTINF:-1,Euronews Srbija HD
 https://d2o6nnfvbbufka.cloudfront.net/app-19518-0855/ngrp:RWxI5IQr_all/chunklist_w861709104_b6256000.m3u8
 #EXTINF:-1,Euronews Srbija (low)
@@ -22,19 +16,19 @@ https://d2o6nnfvbbufka.cloudfront.net/app-19518-0855/ngrp:RWxI5IQr_all/chunklist
 #EXTINF:0,Kurir 
 https://kurir-tv.haste-cdn.net/providus/live2805_hq/index.m3u8 
 #EXTINF:-1,K1 HD 
-http:\telehetz.dvrdns.org:12345\live?channelId=595&uid=338&deviceUser=dnevna&devicePass=996phDps 
-#EXTINF:-1,SRB: K1
-http://client.nodomain.vip:80/live.ts?channelId=1987&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4278
 #EXTINF:-1,: Rts 1 HD
-http://client.nodomain.vip:80/live.ts?channelId=37&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,: Rts 1 (Backup)
-http://51.15.5.226:8000/live?channelId=236&uid=78&deviceMac=00:1A:79:2A:5A:CF
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/42
 #EXTINF:-1, Srpska dijaspora 
 https://live.tsd-tv.com/live/tsd.m3u8 
 #EXTINF:-1, RTK 2
 http://195.154.118.192:8000/live?channelId=1513&uid=78&deviceMac=00:1A:79:2A:5A:CF
 #EXTINF:-1, Art 
 rtmp://92.60.237.39/live/test 
+#EXTINF:-1,TV Palma Plus Jagodina
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4275
+#EXTINF:-1,Leskovac TV
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4276
 #EXTINF:-1, Bellame Nis 
 http:\92.60.238.10:1935\live\belleamie\chunklist_w1811501290.m3u8 
 #EXTINF:-1,Jefimija 
@@ -51,26 +45,8 @@ http://stream.pikanal.rs/pikanal/pgm.m3u8
 https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8 
 #EXTINF:-1, Mars Valjevo 
 http://cdn.dovecher.tv:8081/live/marsh/playlist.m3u8 
-#EXTINF:-1,RTV VRANJE
-http://mwotoktipple.com:1557/VexchangeTR/7xhEsfPPGU/2687
-#EXTINF:-1, Leskovac 
-http:\krajnatv.com:8000\apo7776\skypeuser\4604 
 #EXTINF:-1, Istok 
 http://5.39.72.165:8000/live?channelId=262&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1,Mlava 
-http:\krajnatv.com:8000\apo7776\skypeuser\1652 
-#EXTINF:-1,SAT 
-http:\krajnatv.com:8000\apo7776\skypeuser\1654 
-#EXTINF:-1,NOVA (Ex F- zaječar) 
-http:\krajnatv.com:8000\apo7776\skypeuser\1655 
-#EXTINF:-1,TV Jasmin 
-http:\krajnatv.com:8000\apo7776\skypeuser\4601 
-#EXTINF:-1, Sezam Bor 
-http:\krajnatv.com:8000\apo7776\skypeuser\1658 
-#EXTINF:-1,TV Trans 
-http:\krajnatv.com:8000\apo7776\skypeuser\1659 
-#EXTINF:-1, Braničevo 
-http:\krajnatv.com:8000\apo7776\skypeuser\1653 
 #EXTINF:-1, Mis tv 
 https://5afd52b55ff79.streamlock.net/MISTV/myStream/chunklist_w675272264.m3u8 
 #EXTINF:-1, TK 
@@ -84,1487 +60,785 @@ http://192.99.6.113:1935/live/Tesla_360p/chunklist_w202539152.m3u8
 #EXTINF:-1, BN 
 https://dns2.rtvbn.com:8080/live/index.m3u8 
 #EXTINF:-1,Krajina HD 
-rtmp://77.243.11.114/live/rtvkrajina 
+rtmp://77.243.11.114/live/rtvkrajina
+#EXTINF:-1,TV Bor
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4935
+#EXTINF:-1,SandzaÄka TV MreÅ¾a
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4936
+#EXTINF:-1,Sezam
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4938
+#EXTINF:-1,RTV AS Sabac
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4939
+#EXTINF:-1,Agro TV
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4940
+#EXTINF:-1,Kragujevac TV 
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4941
 #EXTINF:-1,"==== KANALI - TV MATORCEVIĆ -SRBIJA ===="
-#EXTINF:-1, NOVA S HD
-http://client.nodomain.vip:80/live.ts?channelId=603&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,RTS HD
-http://client.nodomain.vip:80/live.ts?channelId=1189&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,RTS 1
-http://client.nodomain.vip:80/live.ts?channelId=37&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,RTS 2
-http://client.nodomain.vip:80/live.ts?channelId=38&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,RTS 3
-http://client.nodomain.vip:80/live.ts?channelId=544&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,RTS DRAMA
-http://client.nodomain.vip:80/live.ts?channelId=1494&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, RTS KOLO
-http://client.nodomain.vip:80/live.ts?channelId=1499&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, RTS SVET
-http://client.nodomain.vip:80/live.ts?channelId=1496&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, RTS TREZOR
-http://client.nodomain.vip:80/live.ts?channelId=1497&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,RTS ZIVOT
-http://client.nodomain.vip:80/live.ts?channelId=1498&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, RTRS
-http://client.nodomain.vip:80/live.ts?channelId=53&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, B92
-http://client.nodomain.vip:80/live.ts?channelId=58&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, HAPPY
-http://client.nodomain.vip:80/live.ts?channelId=235&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, HAPPY PAROVI 24/7
-http://client.nodomain.vip:80/live.ts?channelId=483&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,HRAM TV
-http://client.nodomain.vip:80/live.ts?channelId=1776&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,KURIR TV
-http://client.nodomain.vip:80/live.ts?channelId=1864&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,K1
-http://client.nodomain.vip:80/live.ts?channelId=1987&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,N1 RS
-http://client.nodomain.vip:80/live.ts?channelId=1457&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,NASA BALKAN TV
-http://client.nodomain.vip:80/live.ts?channelId=1504&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,NOVA RS
-http://client.nodomain.vip:80/live.ts?channelId=1520&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,NOVI PAZAR
-http://client.nodomain.vip:80/live.ts?channelId=132&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,PALMA PLUS
-http://client.nodomain.vip:80/live.ts?channelId=1748&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, PRVA TV
-http://client.nodomain.vip:80/live.ts?channelId=40&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, PRVA FILES
-http://client.nodomain.vip:80/live.ts?channelId=1644&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,PRVA PLUS
-http://client.nodomain.vip:80/live.ts?channelId=42&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,PRVA KICK
-http://client.nodomain.vip:80/live.ts?channelId=1375&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,PRVA MAX
-http://client.nodomain.vip:80/live.ts?channelId=1374&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,PRVA WORLD
-http://client.nodomain.vip:80/live.ts?channelId=543&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,RTV BOR
-http://client.nodomain.vip:80/live.ts?channelId=1887&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,RTV VOJVODINA 1
-http://client.nodomain.vip:80/live.ts?channelId=1456&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,SANDZAK TV
-http://client.nodomain.vip:80/live.ts?channelId=455&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,SANDZACKA TV MREZA
-http://client.nodomain.vip:80/live.ts?channelId=1500&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, SOS
-http://client.nodomain.vip:80/live.ts?channelId=153&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, TV LOTEL
-http://client.nodomain.vip:80/live.ts?channelId=1912&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, TV ISTOK
-http://client.nodomain.vip:80/live.ts?channelId=1985&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,TV KLADOVO
-http://client.nodomain.vip:80/live.ts?channelId=1986&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,RTS 1
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/1
-#EXTINF:-1,RTS 2
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/2
-#EXTINF:-1,RTS 3
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/3
-#EXTINF:-1,RTS HD
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/6389
+#EXTINF:-1,RTS 1 HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/42
+#EXTINF:-1,RTS 2 HD/FHD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/43
+#EXTINF:-1,RTS 3 HD/FHD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/44
 #EXTINF:-1,RTS Svet
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/6337
-#EXTINF:-1,RTS Muzika
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/38345
-#EXTINF:-1,RTS Kolo
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/21084
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/45
+#EXTINF:-1,RTS Å½ivot
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/46
 #EXTINF:-1,RTS Drama
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/21083
-#EXTINF:-1,RTS Trezor
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/21086
-#EXTINF:-1,RTS Zivot
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/23475
-#EXTINF:-1,RTS Poletarac
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/33447
-#EXTINF:-1,RTV 1
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/4
-#EXTINF:-1,RTV 2
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/5297
-#EXTINF:-1,Prva
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/5
-#EXTINF:-1,Prva Plus
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/6
-#EXTINF:-1,Prva Max
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/6336
-#EXTINF:-1,Prva World
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/11
-#EXTINF:-1,Prva Kick
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/23631
-#EXTINF:-1,Prva Files
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/33422
-#EXTINF:-1,Prva Life
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/23638
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/47
+#EXTINF:-1,B92
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/48
+#EXTINF:-1,Happy TV
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/49
 #EXTINF:-1,Pink 1
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/7
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/50
+#EXTINF:-1,Pink 2
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/51
+#EXTINF:-1,Pink 3 Info
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/52
+#EXTINF:-1,Pink Plus
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/53
+#EXTINF:-1,N1 SRB
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/54
 #EXTINF:-1,Nova S
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/4826
-#EXTINF:-1,N1
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/47
-#EXTINF:-1,Star TV
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/33459
-#EXTINF:-1,SuperStar TV
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/33453
-#EXTINF:-1,Al Jezzera Balkans
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/16
-#EXTINF:-1,O2 TV
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/10
-#EXTINF:-1,Vesti
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/9
-#EXTINF:-1,Red TV
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/8
-#EXTINF:-1,Happy
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/13
-#EXTINF:-1,Happy :) Parovi Uzivo 24h Kanal 1
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/30019
-#EXTINF:-1,Happy :) Parovi Uzivo 24h Kanal 2
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/31376
-#EXTINF:-1,K1
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/38343
-#EXTINF:-1,Kurir TV
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/38344
-#EXTINF:-1,Zadruga 1
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/35832
-#EXTINF:-1,Zadruga 2
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/35833
-#EXTINF:-1,Zadruga 3
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/35834
-#EXTINF:-1,Zadruga 4
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/35835
-#EXTINF:-1,SOS
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/14
-#EXTINF:-1,KCN 1
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/232
-#EXTINF:-1,KCN 2
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/233
-#EXTINF:-1,KCN 3
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/234
-#EXTINF:-1,Bell Amie
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/23643
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/55
+#EXTINF:-1,Prva TV HD/FHD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/56
+#EXTINF:-1,Prva Max
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/57
+#EXTINF:-1,Prva Plus
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/58
+#EXTINF:-1,Prva Kick
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/59
+#EXTINF:-1,Prva World
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/60
+#EXTINF:-1,Prva Files
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/61
+#EXTINF:-1,RTV Vojvodina
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/62
+#EXTINF:-1,RTV Vojvodina 2
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/63
+#EXTINF:-1,K::CN 1
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/64
 #EXTINF:-1,RTV Novi Pazar
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/3291
-#EXTINF:-1,TV Vikom
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/4832
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/65
+#EXTINF:-1,Hram
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/66
+#EXTINF:-1,Studio B
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/68
+#EXTINF:-1,Belle Amie TV
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/70
+#EXTINF:-1,Pink World
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/74
+#EXTINF:-1,Pink Ha Ha
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/75
+#EXTINF:-1,Happy TV-Parovi 24h
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/76
+#EXTINF:-1,Pink Reality
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/77
+#EXTINF:-1,Zadruga Live 1
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/78
+#EXTINF:-1,Zadruga Live 2
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/79
+#EXTINF:-1,Zadruga Live 3
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/80
 #EXTINF:-1,"==== CRNA GORA- MATORČEVIĆ ===="
-http://client.nodomain.vip:80/live.ts?channelId=1774&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, NOVA M
-http://client.nodomain.vip:80/live.ts?channelId=335&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, RTCG 1
-http://client.nodomain.vip:80/live.ts?channelId=315&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,RTCG 2
-http://client.nodomain.vip:80/live.ts?channelId=1643&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,RTCG SAT
-http://client.nodomain.vip:80/live.ts?channelId=1783&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,PRVA TV CG
-http://client.nodomain.vip:80/live.ts?channelId=1784&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,TV VIJESTI CG
-http://client.nodomain.vip:80/live.ts?channelId=1645&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,Prva CG
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/23249
-#EXTINF:-1,Nova M
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/32956
-#EXTINF:-1,RTCG Sat
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/7947
 #EXTINF:-1,RTCG 1
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/7948
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/116
 #EXTINF:-1,RTCG 2
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/7949
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/117
+#EXTINF:-1,RTCG Sat
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/118
+#EXTINF:-1,Prva TV CG
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/119
+#EXTINF:-1,Nova M
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/120
+#EXTINF:-1,Pink M
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/121
 #EXTINF:-1,TV Vijesti
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/7950
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/122
 #EXTINF:-1,"==== HRVATSKI KANALI- MATORČEVIĆ ===="
-#EXTINF:-1, HTV 1
-http://client.nodomain.vip:80/live.ts?channelId=2&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, HTV 1 HD
-http://client.nodomain.vip:80/live.ts?channelId=1489&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, HTV 2
-http://client.nodomain.vip:80/live.ts?channelId=3&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, HTV 2 HD
-http://client.nodomain.vip:80/live.ts?channelId=1463&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, HTV 3
-http://client.nodomain.vip:80/live.ts?channelId=188&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, HTV 3 HD
-http://client.nodomain.vip:80/live.ts?channelId=1490&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, HTV 4
-http://client.nodomain.vip:80/live.ts?channelId=277&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, HTV 4 HD
-http://client.nodomain.vip:80/live.ts?channelId=1491&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, HTV INT.
-http://client.nodomain.vip:80/live.ts?channelId=606&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, NOVA TV
-http://client.nodomain.vip:80/live.ts?channelId=5&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, NOVA TV HD
-http://client.nodomain.vip:80/live.ts?channelId=1176&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, NOVA TV CINEMA
-http://client.nodomain.vip:80/live.ts?channelId=1952&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, NOVA TV FAMILY
-http://client.nodomain.vip:80/live.ts?channelId=1953&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, DOMA TV
-http://client.nodomain.vip:80/live.ts?channelId=7&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, DOMA TV HD
-http://client.nodomain.vip:80/live.ts?channelId=1391&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, RTL TV
-http://client.nodomain.vip:80/live.ts?channelId=4&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, RTL TV HD
-http://client.nodomain.vip:80/live.ts?channelId=1777&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, RTL 2
-http://client.nodomain.vip:80/live.ts?channelId=6&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, RTL 2 HD
-http://client.nodomain.vip:80/live.ts?channelId=1778&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, RTL KOCKICA
-http://client.nodomain.vip:80/live.ts?channelId=8&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, RTL KOCKICA HD
-http://client.nodomain.vip:80/live.ts?channelId=1779&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, RTL ADRIA
-http://client.nodomain.vip:80/live.ts?channelId=1804&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, RTL CRIME
-http://client.nodomain.vip:80/live.ts?channelId=313&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, RTL LIVING
-http://client.nodomain.vip:80/live.ts?channelId=261&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, RTL PASSION
-http://client.nodomain.vip:80/live.ts?channelId=356&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, RTL CROATIA WORLD
-http://client.nodomain.vip:80/live.ts?channelId=1231&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, KLASIK TV
-http://client.nodomain.vip:80/live.ts?channelId=45&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, CROTV HD
-http://client.nodomain.vip:80/live.ts?channelId=1964&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, DOMACI TV
-http://client.nodomain.vip:80/live.ts?channelId=1936&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,DUBROVNIK TV
-http://client.nodomain.vip:80/live.ts?channelId=1382&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, GB TV
-http://client.nodomain.vip:80/live.ts?channelId=1233&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, JABUKA TV
-http://client.nodomain.vip:80/live.ts?channelId=1236&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, KANAL RI
-http://client.nodomain.vip:80/live.ts?channelId=1232&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, KREATOR TV
-http://client.nodomain.vip:80/live.ts?channelId=1433&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, LAUDATO TV
-http://client.nodomain.vip:80/live.ts?channelId=604&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, LIBERTAS TV
-http://client.nodomain.vip:80/live.ts?channelId=1437&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, MARY TV MEDJUGORJE
-http://client.nodomain.vip:80/live.ts?channelId=1793&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, MREZA TV
-http://client.nodomain.vip:80/live.ts?channelId=1234&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, N1 HR
-http://client.nodomain.vip:80/live.ts?channelId=1458&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, OSJECKA TV
-http://client.nodomain.vip:80/live.ts?channelId=342&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, POLJOPRIVREDNA TV
-http://client.nodomain.vip:80/live.ts?channelId=1237&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, PRIGROSKA TV
-http://client.nodomain.vip:80/live.ts?channelId=1958&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, SB TV
-http://client.nodomain.vip:80/live.ts?channelId=1865&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, SLAVONSKA TV
-http://client.nodomain.vip:80/live.ts?channelId=538&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, SPORTSKA TV
-http://client.nodomain.vip:80/live.ts?channelId=1673&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, TREND TV KARLOVAC
-http://client.nodomain.vip:80/live.ts?channelId=1280&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, TV AURORA
-http://client.nodomain.vip:80/live.ts?channelId=1238&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, TV JADRAN
-http://client.nodomain.vip:80/live.ts?channelId=1230&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, TV MEDJUGORJE
-http://client.nodomain.vip:80/live.ts?channelId=1790&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, TV NOVA PULA
-http://client.nodomain.vip:80/live.ts?channelId=1959&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, VINKOVACKA TV
-http://client.nodomain.vip:80/live.ts?channelId=539&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, VTV VARAZDIN
-http://client.nodomain.vip:80/live.ts?channelId=1216&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, ZDRAVA TV
-http://client.nodomain.vip:80/live.ts?channelId=1235&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, Z1
-http://client.nodomain.vip:80/live.ts?channelId=540&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/81
 #EXTINF:-1,HRT 1
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/55
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/82
 #EXTINF:-1,HRT 2
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/56
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/83
 #EXTINF:-1,HRT 3
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/57
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/84
 #EXTINF:-1,HRT 4
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/58
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/85
 #EXTINF:-1,HRT Int.
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/26223
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/86
 #EXTINF:-1,Nova TV
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/59
-#EXTINF:-1,Nova World
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/38340
-#EXTINF:-1,Nova Cinema
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/38341
-#EXTINF:-1,Nova Family
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/38342
-#EXTINF:-1,RTL Televizija
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/60
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/87
+#EXTINF:-1,RTL
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/88
 #EXTINF:-1,RTL 2
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/61
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/89
 #EXTINF:-1,RTL Crime
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/62
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/90
 #EXTINF:-1,RTL Living
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/63
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/91
 #EXTINF:-1,RTL Passion
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/64
-#EXTINF:-1,N1 Hr
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/15948
-#EXTINF:-1,Klasik TV
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/71
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/92
 #EXTINF:-1,Doma TV
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/72
-#EXTINF:-1,Aurora
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/12
-#EXTINF:-1,TV Dubrovnik
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/10254
-#EXTINF:-1,TV Jadran
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/23577
-#EXTINF:-1,TV Å ibenik
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/11352
-#EXTINF:-1,TV Istra
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/16044
-#EXTINF:-1,TV Zapad
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/1292
-#EXTINF:-1,MreÅ¾a Split
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/1290
-#EXTINF:-1,Jabuka
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/21085
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/93
+#EXTINF:-1,N1 HR
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/94
+#EXTINF:-1,Slavonska televizija
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/95
+#EXTINF:-1,Laudato TV
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/96
+#EXTINF:-1,Jabuka TV
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/97
 #EXTINF:-1,Z1
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/1486
-#EXTINF:-1,Kanal Ri
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/31023
-#EXTINF:-1,Slavonska TV
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/66
-#EXTINF:-1,Osjecka TV
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/67
-#EXTINF:-1,Vinkovacka TV
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/1473
-#EXTINF:-1,Trend TV
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/17410
-#EXTINF:-1,Kreator HD
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/17371
-#EXTINF:-1,Narodni TV
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/17373
-#EXTINF:-1,Laudato
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/29805
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/98
+#EXTINF:-1,OsjeÄka TV
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/99
+#EXTINF:-1,Banovina TV
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/100
+#EXTINF:-1,VinkovaÄka TV
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/101
+#EXTINF:-1,TV Jadran
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/102
+#EXTINF:-1,DubrovaÄka TV
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/103
+#EXTINF:-1,VTV VaraÅ¾din
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/105
+#EXTINF:-1,Libertas TV
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/107
+#EXTINF:-1,Kanal-Ri
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/108
+#EXTINF:-1,Zdrava TV
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/111
+#EXTINF:-1,Poljoprivredna TV
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/112
+#EXTINF:-1,Aurora TV
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/113
 #EXTINF:-1,"==== BOSNA I HERCEGOVINA KANALI- MATORČEVIĆ ===="
-#EXTINF:-1, NOVA BH
-http://client.nodomain.vip:80/live.ts?channelId=36&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, NOVA BH HD
-http://client.nodomain.vip:80/live.ts?channelId=1509&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, BHT
-http://client.nodomain.vip:80/live.ts?channelId=47&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, BHT HD
-http://client.nodomain.vip:80/live.ts?channelId=1188&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, OBN
-http://client.nodomain.vip:80/live.ts?channelId=51&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, BN SAT
-http://client.nodomain.vip:80/live.ts?channelId=48&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, BN 2
-http://client.nodomain.vip:80/live.ts?channelId=1925&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, FTV
-http://client.nodomain.vip:80/live.ts?channelId=1&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, HAYAT
-http://client.nodomain.vip:80/live.ts?channelId=39&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, ALFA TV
-http://client.nodomain.vip:80/live.ts?channelId=310&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, AL JAZEERA
-http://client.nodomain.vip:80/live.ts?channelId=117&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, ATV
-http://client.nodomain.vip:80/live.ts?channelId=104&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, B1 TV HD
-http://client.nodomain.vip:80/live.ts?channelId=1441&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, BIR TV
-http://client.nodomain.vip:80/live.ts?channelId=1835&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, BOSANSKO POSAVSKA TV
-http://client.nodomain.vip:80/live.ts?channelId=1583&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, CITY TV MOSTAR
-http://client.nodomain.vip:80/live.ts?channelId=1454&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, DOBRA TV ISLAM
-http://client.nodomain.vip:80/live.ts?channelId=1517&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, FACE TV
-http://client.nodomain.vip:80/live.ts?channelId=54&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, HAYAT PLUS
-http://client.nodomain.vip:80/live.ts?channelId=103&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, KANAL 6
-http://client.nodomain.vip:80/live.ts?channelId=1440&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, MEKKA TV
-http://client.nodomain.vip:80/live.ts?channelId=1516&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, MTV IGMAN
-http://client.nodomain.vip:80/live.ts?channelId=116&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, N1 BOSNA
-http://client.nodomain.vip:80/live.ts?channelId=52&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, O KANAL
-http://client.nodomain.vip:80/live.ts?channelId=56&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, PODRINJE TV
-http://client.nodomain.vip:80/live.ts?channelId=1875&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, RTV 7
-http://client.nodomain.vip:80/live.ts?channelId=348&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, RTV BPK
-http://client.nodomain.vip:80/live.ts?channelId=1807&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, RTV BUGOJNO
-http://client.nodomain.vip:80/live.ts?channelId=1373&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,RTV CAZIN
-http://client.nodomain.vip:80/live.ts?channelId=1798&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, RTV HERCEG BOSNE
-http://client.nodomain.vip:80/live.ts?channelId=1434&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, RTV HIT BRCKO
-http://client.nodomain.vip:80/live.ts?channelId=1962&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, RTV SANA
-http://client.nodomain.vip:80/live.ts?channelId=1838&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, RTV USK
-http://client.nodomain.vip:80/live.ts?channelId=350&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, RTV VISOKO
-http://client.nodomain.vip:80/live.ts?channelId=1931&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, RTV ZENICA
-http://client.nodomain.vip:80/live.ts?channelId=311&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, TELEVIZIJA 5
-http://client.nodomain.vip:80/live.ts?channelId=484&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, TK TUZLA
-http://client.nodomain.vip:80/live.ts?channelId=59&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, TV K3
-http://client.nodomain.vip:80/live.ts?channelId=347&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, TV SARAJEVO
-http://client.nodomain.vip:80/live.ts?channelId=339&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, TV SLON
-http://client.nodomain.vip:80/live.ts?channelId=323&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, TATABRADA TV
-http://client.nodomain.vip:80/live.ts?channelId=1974&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,Nova BH
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/31558
 #EXTINF:-1,BHT 1
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/42
-#EXTINF:-1,BN TV
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/36
-#EXTINF:-1,OBN
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/43
-#EXTINF:-1,TV Sarajevo
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/46
-#EXTINF:-1,Face TV
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/48
-#EXTINF:-1,TV USK
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/4448
-#EXTINF:-1,Federalna TV
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/49
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/2
 #EXTINF:-1,RTRS
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/17
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/3
+#EXTINF:-1,Federalna TV
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4
+#EXTINF:-1,Nova BiH
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/5
+#EXTINF:-1,Pink BiH
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/6
+#EXTINF:-1,OBN
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/7
+#EXTINF:-1,ATV
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/8
+#EXTINF:-1,BN TV
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/9
+#EXTINF:-1,BN Sat
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/10
 #EXTINF:-1,RTRS Plus
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/8595
-#EXTINF:-1,Glas Drine
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/10388
-#EXTINF:-1,Alternativna
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/18
-#EXTINF:-1,TV 1
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/17635
-#EXTINF:-1,Hayat
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/50
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/11
+#EXTINF:-1,O Kanal
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/12
+#EXTINF:-1,Face Tv
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/13
+#EXTINF:-1,Hayat BiH HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/14
 #EXTINF:-1,Hayat Plus
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/51
-#EXTINF:-1,Hayat Folk
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/53
-#EXTINF:-1,Hayat Music
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/52
-#EXTINF:-1,N1 Info Bih HD
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/31169
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/15
+#EXTINF:-1,N1 BiH
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/16
+#EXTINF:-1,Al Jazeera Balkans HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/17
+#EXTINF:-1,Posavina TV
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/18
+#EXTINF:-1,K3 Prnjavor
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/19
+#EXTINF:-1,TV Sarajevo HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/20
+#EXTINF:-1,Herceg Bosna TV
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/21
+#EXTINF:-1,RTV Slon Extra
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/22
+#EXTINF:-1,RTV TK Tuzla
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/23
+#EXTINF:-1,USK
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/24
+#EXTINF:-1,Zenica TV
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/25
+#EXTINF:-1,HIT TV BrÄko
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/26
+#EXTINF:-1,B1 TV GradaÄac
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/27
+#EXTINF:-1,SandÅ¾ak TV
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/28
+#EXTINF:-1,Alfa TV
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/29
+#EXTINF:-1,City TV Mostar
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/30
+#EXTINF:-1,Kanal 6
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/31
+#EXTINF:-1,Hema TV
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/32
+#EXTINF:-1,RTV 7 Tuzla
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/33
+#EXTINF:-1,Televizija 5
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/35
+#EXTINF:-1,RTV Islam
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/38
+#EXTINF:-1,Mekka TV
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/39
 #EXTINF:-1,MTV Igman
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/224
-#EXTINF:-1,Izvorna TV
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/225
-#EXTINF:-1,Posavina
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/4860
-#EXTINF:-1,TV Zenica
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/4823
-#EXTINF:-1,RTV Sevdah
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/4824
-#EXTINF:-1,OTV Valentinovo
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/4825
-#EXTINF:-1,Valentino Etno
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/5304
-#EXTINF:-1,TV Sehara
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/5289
-#EXTINF:-1,RTV Sana
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/5285
-#EXTINF:-1,Smart TV Tesanj
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/5291
-#EXTINF:-1,RTV Herceg Bosne
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/5288
-#EXTINF:-1,Kanal 5
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/5293
-#EXTINF:-1,Osm Bh
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/17372
-#EXTINF:-1,Hit Televizija Brcko
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/5292
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/40
+#EXTINF:-1,Elta TV 1  HD (TEST)
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4952
+#EXTINF:-1,Elta TV 2 (TEST)
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4953
 #EXTINF:-1,"==== MUZIČKI- MATORČEVIĆ  ===="
-#EXTINF:-1, BANOVINA TV
-http://client.nodomain.vip:80/live.ts?channelId=443&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, BALKANIKA
-http://client.nodomain.vip:80/live.ts?channelId=307&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, BN MUSIC
-http://client.nodomain.vip:80/live.ts?channelId=131&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, CMC
-http://client.nodomain.vip:80/live.ts?channelId=1799&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,CMC HD
-http://client.nodomain.vip:80/live.ts?channelId=110&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, DMC TV
-http://client.nodomain.vip:80/live.ts?channelId=1750&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, DM SAT
-http://client.nodomain.vip:80/live.ts?channelId=43&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, DUGA TV
-http://client.nodomain.vip:80/live.ts?channelId=226&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, GLAS DRINE
-http://client.nodomain.vip:80/live.ts?channelId=1453&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, GRAND TV
-http://client.nodomain.vip:80/live.ts?channelId=95&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, GRAND TV 2
-http://client.nodomain.vip:80/live.ts?channelId=493&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, HAYAT FOLK
-http://client.nodomain.vip:80/live.ts?channelId=149&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, HAYAT MUSIC
-http://client.nodomain.vip:80/live.ts?channelId=1963&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, IDJ TV
-http://client.nodomain.vip:80/live.ts?channelId=485&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, IZVORNA TV
-http://client.nodomain.vip:80/live.ts?channelId=295&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, JUGOTON TV
-http://client.nodomain.vip:80/live.ts?channelId=542&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, KCN
-http://client.nodomain.vip:80/live.ts?channelId=338&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, MTV
-http://client.nodomain.vip:80/live.ts?channelId=85&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,MTV HITS
-http://client.nodomain.vip:80/live.ts?channelId=595&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, MTV BASE
-http://client.nodomain.vip:80/live.ts?channelId=1881&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, MTV CLASSIC
-http://client.nodomain.vip:80/live.ts?channelId=1882&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, MTV DANCE
-http://client.nodomain.vip:80/live.ts?channelId=1883&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, NARODNA TV
-http://client.nodomain.vip:80/live.ts?channelId=1432&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, OTV
-http://client.nodomain.vip:80/live.ts?channelId=269&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, OTV FOLK
-http://client.nodomain.vip:80/live.ts?channelId=1885&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, OTV ETNO
-http://client.nodomain.vip:80/live.ts?channelId=1886&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, PRVA HERCEGOVACKA
-http://client.nodomain.vip:80/live.ts?channelId=1884&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,PINK FOLK 1
-http://client.nodomain.vip:80/live.ts?channelId=349&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, PINK FOLK 2
-http://client.nodomain.vip:80/live.ts?channelId=148&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, POSAVINA TV
-http://client.nodomain.vip:80/live.ts?channelId=309&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, RTS MUZIKA
-http://client.nodomain.vip:80/live.ts?channelId=1495&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, TOP SOUND
-http://client.nodomain.vip:80/live.ts?channelId=1587&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, TOXIC TV
-http://client.nodomain.vip:80/live.ts?channelId=1914&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, VH1
-http://client.nodomain.vip:80/live.ts?channelId=594&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, VH1 CLASSIC
-http://client.nodomain.vip:80/live.ts?channelId=1781&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/277
 #EXTINF:-1,DM Sat
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/35
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/278
 #EXTINF:-1,BN Music
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/37
-#EXTINF:-1,Grand TV
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/38
-#EXTINF:-1,Grand 2 TV
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/5857
-#EXTINF:-1,iDJ TV
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/8728
-#EXTINF:-1,Toxic TV
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/37566
-#EXTINF:-1,CMC
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/74
-#EXTINF:-1,Duga TV
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/39
-#EXTINF:-1,Balkanika
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/5305
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/279
+#EXTINF:-1,Grand Narodna TV
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/280
+#EXTINF:-1,Grand 2
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/281
+#EXTINF:-1,IDJ TV
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/282
+#EXTINF:-1,Hayat Folk
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/283
+#EXTINF:-1,Pink Folk 1
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/284
+#EXTINF:-1,Pink Folk 2
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/285
+#EXTINF:-1,Pink Music 1
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/286
+#EXTINF:-1,Pink Music 2
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/287
+#EXTINF:-1,Pink Hits 1
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/288
+#EXTINF:-1,Pink Show
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/290
+#EXTINF:-1,Pink Koncert
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/291
+#EXTINF:-1,Pink Zabava
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/292
+#EXTINF:-1,Pink Bravo
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/293
+#EXTINF:-1,Pink Extra
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/294
 #EXTINF:-1,MTV Adria
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/23477
-#EXTINF:-1,VH1 
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/295
+#EXTINF:-1,MTV Hits
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/296
+#EXTINF:-1,MTV Rocks
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/299
+#EXTINF:-1,VH1
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/300
+#EXTINF:-1,VH1 Classic TV
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/301
+#EXTINF:-1,OTV Valentino
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/302
+#EXTINF:-1,Hayat Music
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/304
+#EXTINF:-1,CMC
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/305
+#EXTINF:-1,Izvorna TV
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/306
+#EXTINF:-1,Jugoton TV
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/307
+#EXTINF:-1,K::CN 2
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/308
+#EXTINF:-1,K::CN 3
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/309
+#EXTINF:-1,Sevdah TV
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/310
+#EXTINF:-1,Narodna TV
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/312
+#EXTINF:-1,Balkanika TV
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/313
+#EXTINF:-1,TV Sehara
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/314
+#EXTINF:-1,Top Sound
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/315
+#EXTINF:-1,Glas Drine
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/316
+#EXTINF:-1,YU Planet
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/317
+#EXTINF:-1,Vikom TV
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/318
+#EXTINF:-1,Duga+
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/319
+#EXTINF:-1,RTS Kolo
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/322
+#EXTINF:-1,DMC TV
 http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/23478
 #EXTINF:-1, S televizija 
 https://sradio.ipradio.rs/sradio/radiostv/chunklist_w484271802.m3u8 
 #EXTINF:-1,"==== DOKUMENTARNI- MATORČEVIĆ===="
-#EXTINF:-1, 24 KITCHEN
-http://client.nodomain.vip:80/live.ts?channelId=9&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, AGRO TV
-http://client.nodomain.vip:80/live.ts?channelId=1961&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, ANIMAL PLANET
-http://client.nodomain.vip:80/live.ts?channelId=108&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, BALKAN TRIP
-http://client.nodomain.vip:80/live.ts?channelId=1915&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, BBC EARTH
-http://client.nodomain.vip:80/live.ts?channelId=1430&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, COMEDY CENTRAL EXTRA
-http://client.nodomain.vip:80/live.ts?channelId=1340&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, CRIME INVESTIGATION
-http://client.nodomain.vip:80/live.ts?channelId=236&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, DA VINCI LEARNING
-http://client.nodomain.vip:80/live.ts?channelId=573&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, DISCOVERY
-http://client.nodomain.vip:80/live.ts?channelId=105&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, DISCOVERY SCIENCE
-http://client.nodomain.vip:80/live.ts?channelId=1672&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, DOKU TV
-http://client.nodomain.vip:80/live.ts?channelId=1839&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, DTX HD
-http://client.nodomain.vip:80/live.ts?channelId=1662&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, E!
-http://client.nodomain.vip:80/live.ts?channelId=118&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, FASHION TV
-http://client.nodomain.vip:80/live.ts?channelId=1929&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, FOOD NETWORK
-http://client.nodomain.vip:80/live.ts?channelId=1661&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, HGTV
-http://client.nodomain.vip:80/live.ts?channelId=1960&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, HISTORY
-http://client.nodomain.vip:80/live.ts?channelId=84&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, HISTORY 2
-http://client.nodomain.vip:80/live.ts?channelId=467&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, INVESTIGATION DISCOVERY
-http://client.nodomain.vip:80/live.ts?channelId=1502&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,LOV I RIBOLOV
-http://client.nodomain.vip:80/live.ts?channelId=130&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, NATIONAL GEOGRAPHIC
-http://client.nodomain.vip:80/live.ts?channelId=10&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, NAT GEO WILD
-http://client.nodomain.vip:80/live.ts?channelId=263&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, FINE LIVING
-http://client.nodomain.vip:80/live.ts?channelId=469&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, TLC
-http://client.nodomain.vip:80/live.ts?channelId=373&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, TRAVEL CHANNEL
-http://client.nodomain.vip:80/live.ts?channelId=468&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, VIASAT EXPLORE
-http://client.nodomain.vip:80/live.ts?channelId=1153&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,VIASAT HISTORY
-http://client.nodomain.vip:80/live.ts?channelId=587&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, VIASAT NATURE
-http://client.nodomain.vip:80/live.ts?channelId=1663&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, WOMAN TV
-http://client.nodomain.vip:80/live.ts?channelId=1932&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
 #EXTINF:-1,Discovery Channel
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/94
-#EXTINF:-1,Discovery Science HD
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/8615
-#EXTINF:-1,HGTV
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/10251
-#EXTINF:-1,ID Discovery
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/95
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/188
 #EXTINF:-1,National Geographic
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/93
-#EXTINF:-1,National Geographic WILD
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/4838
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/189
+#EXTINF:-1,Nat Geo Wild
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/190
+#EXTINF:-1,Viasat Explore
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/191
 #EXTINF:-1,History Channel
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/90
-#EXTINF:-1,History 2
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/91
-#EXTINF:-1,Entertainment !
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/40
-#EXTINF:-1,Animal Planet
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/92
-#EXTINF:-1,24 Kitchen
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/96
-#EXTINF:-1,TLC
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/1118
-#EXTINF:-1,Crime & Investigation Network
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/73
-#EXTINF:-1,Food Network
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/8617
-#EXTINF:-1,Cbs Reality
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/1499
-#EXTINF:-1,Woman TV
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/17656
-#EXTINF:-1,DR. FIT
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/17619
-#EXTINF:-1,Viasat Explorer
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/222
-#EXTINF:-1,Viasat Nature
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/4835
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/192
+#EXTINF:-1,History Channel 2
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/193
 #EXTINF:-1,Viasat History
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/223
-#EXTINF:-1,Travel Channel HD
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/8618
-#EXTINF:-1,BBC Earth HD
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/31053
-#EXTINF:-1,Discovery Dtx
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/31052
-#EXTINF:-1,Docubox
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/8619
-#EXTINF:-1,Pink Kuvar
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/1500
-#EXTINF:-1,"==== PINKOVI BEKAP- MATORČEVIĆ  ===="
-#EXTINF:-1, PINK ZADRUGA 1 24/7
-http://client.nodomain.vip:80/live.ts?channelId=1486&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,PINK ZADRUGA 2 24/7
-http://client.nodomain.vip:80/live.ts?channelId=1743&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,PINK ZADRUGA 3 24/7
-http://client.nodomain.vip:80/live.ts?channelId=1744&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,PINK ZADRUGA 4 24/7
-http://client.nodomain.vip:80/live.ts?channelId=1745&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,PINK
-http://client.nodomain.vip:80/live.ts?channelId=64&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,PINK BH
-http://client.nodomain.vip:80/live.ts?channelId=1383&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,PINK M
-http://client.nodomain.vip:80/live.ts?channelId=1385&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,RED TV (ex.Pink 2)
-http://client.nodomain.vip:80/live.ts?channelId=57&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,VESTI TV (ex.Pink 3)
-http://client.nodomain.vip:80/live.ts?channelId=60&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,PINK ACTION
-http://client.nodomain.vip:80/live.ts?channelId=32&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,PINK CLASSIC
-http://client.nodomain.vip:80/live.ts?channelId=494&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,PINK COMEDY
-http://client.nodomain.vip:80/live.ts?channelId=50&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,PINK CRIME MYSTERY
-http://client.nodomain.vip:80/live.ts?channelId=34&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, PINK EXTRA
-http://client.nodomain.vip:80/live.ts?channelId=227&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,PINK FAMILY
-http://client.nodomain.vip:80/live.ts?channelId=1281&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, PINK FILM
-http://client.nodomain.vip:80/live.ts?channelId=120&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,PINK HITS 2
-http://client.nodomain.vip:80/live.ts?channelId=182&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,PINK HAHA
-http://client.nodomain.vip:80/live.ts?channelId=1283&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,PINK HORROR
-http://client.nodomain.vip:80/live.ts?channelId=223&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,PINK KIDS
-http://client.nodomain.vip:80/live.ts?channelId=147&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,PINK LOL
-http://client.nodomain.vip:80/live.ts?channelId=1282&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,PINK KUVAR
-http://client.nodomain.vip:80/live.ts?channelId=527&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,PINK MOVIES
-http://client.nodomain.vip:80/live.ts?channelId=532&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,PINK PLUS
-http://client.nodomain.vip:80/live.ts?channelId=55&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,PINK PREMIUM
-http://client.nodomain.vip:80/live.ts?channelId=31&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,PINK REALITY
-http://client.nodomain.vip:80/live.ts?channelId=63&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,PINK ROMANCE
-http://client.nodomain.vip:80/live.ts?channelId=46&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,PINK SCI-FI FANTASY
-http://client.nodomain.vip:80/live.ts?channelId=66&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,PINK SERIJE
-http://client.nodomain.vip:80/live.ts?channelId=336&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,PINK SOAP
-http://client.nodomain.vip:80/live.ts?channelId=181&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,PINK THRILLER
-http://client.nodomain.vip:80/live.ts?channelId=33&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,PINK WESTERN
-http://client.nodomain.vip:80/live.ts?channelId=119&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,PINK WORLD
-http://client.nodomain.vip:80/live.ts?channelId=154&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,PINK ZABAVA
-http://client.nodomain.vip:80/live.ts?channelId=155&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,PINK PEDIA
-http://client.nodomain.vip:80/live.ts?channelId=1913&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,Discovery Channel
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/94
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/194
+#EXTINF:-1,Travel Channel
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/195
+#EXTINF:-1,Viasat Nature
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/196
+#EXTINF:-1,Animal Planet
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/197
+#EXTINF:-1,RTS Trezor
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/198
+#EXTINF:-1,24 Kitchen
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/199
+#EXTINF:-1,Crime & Investigation
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/200
+#EXTINF:-1,Da Vinci Learning
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/201
+#EXTINF:-1,Discovery ID
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/202
 #EXTINF:-1,Discovery Science HD
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/8615
-#EXTINF:-1,HGTV
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/10251
-#EXTINF:-1,ID Discovery
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/95
-#EXTINF:-1,National Geographic
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/93
-#EXTINF:-1,National Geographic WILD
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/4838
-#EXTINF:-1,History Channel
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/90
-#EXTINF:-1,History 2
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/91
-#EXTINF:-1,Entertainment !
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/40
-#EXTINF:-1,Animal Planet
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/92
-#EXTINF:-1,24 Kitchen
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/96
-#EXTINF:-1,TLC
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/1118
-#EXTINF:-1,Crime & Investigation Network
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/73
-#EXTINF:-1,Food Network
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/8617
-#EXTINF:-1,Cbs Reality
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/1499
-#EXTINF:-1,Woman TV
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/17656
-#EXTINF:-1,DR. FIT
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/17619
-#EXTINF:-1,Viasat Explorer
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/222
-#EXTINF:-1,Viasat Nature
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/4835
-#EXTINF:-1,Viasat History
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/223
-#EXTINF:-1,Travel Channel HD
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/8618
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/203
+#EXTINF:-1,Discovery TLC
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/205
+#EXTINF:-1,CBS Reality
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/206
+#EXTINF:-1,DocuBOX FHD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/207
+#EXTINF:-1,Planet Earth
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/208
 #EXTINF:-1,BBC Earth HD
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/31053
-#EXTINF:-1,Discovery Dtx
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/31052
-#EXTINF:-1,Docubox
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/8619
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/209
+#EXTINF:-1,Food Network
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/211
+#EXTINF:-1,E!
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/212
+#EXTINF:-1,Fine Living
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/213
+#EXTINF:-1,DokuTV HD/FHD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4954
 #EXTINF:-1,Pink Kuvar
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/1500
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/214
+#EXTINF:-1,Pink LOL
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/215
+#EXTINF:-1,Pink Style
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/216
+#EXTINF:-1,Pink Pedia
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/217
 #EXTINF:-1,"==== DEČIJI- MATORČEVIĆ ===="
-#EXTINF:-1, DOKTORICA PLISKO 24/7
-http://client.nodomain.vip:80/live.ts?channelId=1937&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,DORA ISTRAZUJE 24/7
-http://client.nodomain.vip:80/live.ts?channelId=1973&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, MASA I MEDO 24/7
-http://client.nodomain.vip:80/live.ts?channelId=1386&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,PEPA PRASE 24/7
-http://client.nodomain.vip:80/live.ts?channelId=1869&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, PSICI U OPHODNJI 24/7
-http://client.nodomain.vip:80/live.ts?channelId=1975&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, PUSTOLOVINE BUBAMARE I CRNOG MACKA 24/7
-http://client.nodomain.vip:80/live.ts?channelId=1938&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,ROBO VLAKOVI 24/7
-http://client.nodomain.vip:80/live.ts?channelId=1966&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, SOFIJA PRVA 24/7
-http://client.nodomain.vip:80/live.ts?channelId=1965&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, KIDS
-http://client.nodomain.vip:80/live.ts?channelId=125&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, KIDS MIX 1
-http://client.nodomain.vip:80/live.ts?channelId=282&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, KIDS MIX 2
-http://client.nodomain.vip:80/live.ts?channelId=283&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, BOOMERANG
-http://client.nodomain.vip:80/live.ts?channelId=1169&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, DEXY TV
-http://client.nodomain.vip:80/live.ts?channelId=1989&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,HAYATOVCI
-http://client.nodomain.vip:80/live.ts?channelId=109&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, IDJ KIDS
-http://client.nodomain.vip:80/live.ts?channelId=1868&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, MAXCRO SELECT KIDS HD
-http://client.nodomain.vip:80/live.ts?channelId=1670&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, MAXCRO SELECT KIDS 2 HD
-http://client.nodomain.vip:80/live.ts?channelId=1671&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, MINIMAX
-http://client.nodomain.vip:80/live.ts?channelId=1168&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, NICK JR
-http://client.nodomain.vip:80/live.ts?channelId=358&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, NICKELODEON
-http://client.nodomain.vip:80/live.ts?channelId=94&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, PIKABOO
-http://client.nodomain.vip:80/live.ts?channelId=1393&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, TOM AND DZERY 24h
-http://client.nodomain.vip:80/live.ts?channelId=305&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, TOON KIDS
-http://client.nodomain.vip:80/live.ts?channelId=1954&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, VAVOOM TV
-http://client.nodomain.vip:80/live.ts?channelId=1467&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,Baby TV
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/33306
-#EXTINF:-1,Minimax
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/8635
-#EXTINF:-1,Disney Junior
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/8637
-#EXTINF:-1,Disney Channel
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/8636
-#EXTINF:-1,Boomerang
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/8620
-#EXTINF:-1,Pink Super Kids
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/229
-#EXTINF:-1,Cartoon Network
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/17636
-#EXTINF:-1,Ginix
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/31177
-#EXTINF:-1,Mini TV
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/68
-#EXTINF:-1,Pikaboo
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/30823
+#EXTINF:-1,Nickelodeon SR
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/325
+#EXTINF:-1,Nickelodeon HR
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/326
+#EXTINF:-1,Nick Jr. SR
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/327
+#EXTINF:-1,Nick Jr. HR
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/328
 #EXTINF:-1,RTL Kockica
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/65
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/329
 #EXTINF:-1,Hayatovci
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/54
-#EXTINF:-1,Toon Kids
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/1497
-#EXTINF:-1,Nickelodeon
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/69
-#EXTINF:-1,Nick Jr.
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/70
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/330
+#EXTINF:-1,Cartoon Network
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/331
+#EXTINF:-1,Baby TV
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/332
+#EXTINF:-1,Boomerang
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/333
+#EXTINF:-1,Disney Channel
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/334
+#EXTINF:-1,Mini TV
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/335
+#EXTINF:-1,Ultra TV
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/336
+#EXTINF:-1,TNT Kids
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/337
+#EXTINF:-1,Pikaboo
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/338
+#EXTINF:-1,Minimax
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/339
+#EXTINF:-1,Pink Super Kids
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/340
+#EXTINF:-1,Pink Kids
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/341
+#EXTINF:-1,Tom and Jerry 24h
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/343
+#EXTINF:-1,Tropik TV
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/345
+#EXTINF:-1,Masa i Medo
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/346
 #EXTINF:-1,"==== FILMSKI- MATORČEVIĆ  ===="
-#EXTINF:-1,  ANDRIJA I ANDJELKA 24/7
-http://client.nodomain.vip:80/live.ts?channelId=1867&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, LUD ZBUNJEN NORMALAN 24/7
-http://client.nodomain.vip:80/live.ts?channelId=1866&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, FILMSKI MARATON
-http://client.nodomain.vip:80/live.ts?channelId=1870&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, MAXCRO SELECT 1 HD
-http://client.nodomain.vip:80/live.ts?channelId=1248&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, MAXCRO SELECT 2 HD
-http://client.nodomain.vip:80/live.ts?channelId=1249&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,MAXCRO SELECT 3 HD
-http://client.nodomain.vip:80/live.ts?channelId=1250&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, MAXCRO SELECT 4 HD
-http://client.nodomain.vip:80/live.ts?channelId=1251&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, MAXCRO SELECT 5 HD
-http://client.nodomain.vip:80/live.ts?channelId=1252&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, MAXCRO SELECT 6 HD
-http://client.nodomain.vip:80/live.ts?channelId=1253&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, MAXCRO SELECT 7 HD
-http://client.nodomain.vip:80/live.ts?channelId=1254&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, MAXCRO SELECT 8 HD
-http://client.nodomain.vip:80/live.ts?channelId=1255&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, MAXCRO SELECT 9 HD
-http://client.nodomain.vip:80/live.ts?channelId=1256&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, MAXCRO SELECT 10 HD
-http://client.nodomain.vip:80/live.ts?channelId=1257&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, MAXCRO SELECT 11 HD
-http://client.nodomain.vip:80/live.ts?channelId=1669&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, AMC
-http://client.nodomain.vip:80/live.ts?channelId=611&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, AXN
-http://client.nodomain.vip:80/live.ts?channelId=122&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, AXN SPIN
-http://client.nodomain.vip:80/live.ts?channelId=612&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, CINESTAR TV
-http://client.nodomain.vip:80/live.ts?channelId=224&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, CINESTAR TV 2
-http://client.nodomain.vip:80/live.ts?channelId=1814&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, CINESTAR ACTION
-http://client.nodomain.vip:80/live.ts?channelId=268&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,CINESTAR COMEDY
-http://client.nodomain.vip:80/live.ts?channelId=1805&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,CINESTAR FANTASY
-http://client.nodomain.vip:80/live.ts?channelId=607&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, CINESTAR PREMIERE 1
-http://client.nodomain.vip:80/live.ts?channelId=12&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, CINESTAR PREMIERE 2
-http://client.nodomain.vip:80/live.ts?channelId=13&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, CINEMAX 1
-http://client.nodomain.vip:80/live.ts?channelId=14&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, CINEMAX 2
-http://client.nodomain.vip:80/live.ts?channelId=15&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,DIVA TV
-http://client.nodomain.vip:80/live.ts?channelId=1405&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,EPIC DRAMA
-http://client.nodomain.vip:80/live.ts?channelId=1402&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, FILMBOX EXTRA
-http://client.nodomain.vip:80/live.ts?channelId=586&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, FILMBOX STARS
-http://client.nodomain.vip:80/live.ts?channelId=525&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, FILMBOX PREMIUM
-http://client.nodomain.vip:80/live.ts?channelId=1445&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, FILM KLUB
-http://client.nodomain.vip:80/live.ts?channelId=1845&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, HBO
-http://client.nodomain.vip:80/live.ts?channelId=44&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, HBO 2
-http://client.nodomain.vip:80/live.ts?channelId=16&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, HBO 3
-http://client.nodomain.vip:80/live.ts?channelId=73&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, KINO TV
-http://client.nodomain.vip:80/live.ts?channelId=608&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, M1 GOLD
-http://client.nodomain.vip:80/live.ts?channelId=1593&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, M1 FILM
-http://client.nodomain.vip:80/live.ts?channelId=379&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, SCI FI
-http://client.nodomain.vip:80/live.ts?channelId=609&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, TV 1000
-http://client.nodomain.vip:80/live.ts?channelId=480&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, FOX
-http://client.nodomain.vip:80/live.ts?channelId=17&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, FOX LIFE
-http://client.nodomain.vip:80/live.ts?channelId=19&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, FOX CRIME
-http://client.nodomain.vip:80/live.ts?channelId=18&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,FOX MOVIES
-http://client.nodomain.vip:80/live.ts?channelId=111&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, PICKBOX TV
-http://client.nodomain.vip:80/live.ts?channelId=1211&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, SUPER STAR TV
-http://client.nodomain.vip:80/live.ts?channelId=1503&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,HBO 1
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/83
-#EXTINF:-1,HBO 2
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/84
-#EXTINF:-1,HBO 3
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/1508
-#EXTINF:-1,Cinemax 1
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/101
-#EXTINF:-1,Cinemax 2
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/102
-#EXTINF:-1,Cinestar TV
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/97
-#EXTINF:-1,CineStar Action & Thriller
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/98
+#EXTINF:-1,HBO Adria HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/219
+#EXTINF:-1,HBO 2 HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/220
+#EXTINF:-1,HBO 3 HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/221
+#EXTINF:-1,Cinemax 1 HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/223
+#EXTINF:-1,Cinemax 2 HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/224
+#EXTINF:-1,CineStar Action
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/225
 #EXTINF:-1,CineStar Fantasy
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/8609
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/226
 #EXTINF:-1,CineStar Premiere 1
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/99
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/227
 #EXTINF:-1,CineStar Premiere 2
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/100
-#EXTINF:-1,Fox
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/19
-#EXTINF:-1,Fox Crime
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/22
-#EXTINF:-1,Fox Life
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/21
-#EXTINF:-1,Fox Movies
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/20
-#EXTINF:-1,Film Klub Extra
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/10253
-#EXTINF:-1,M1 Film
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/85
-#EXTINF:-1,Kino TV
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/1462
-#EXTINF:-1,Sci-Fi
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/6045
-#EXTINF:-1,Axn Adria
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/86
-#EXTINF:-1,Axn Spin
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/8611
-#EXTINF:-1,Amc Eastern Europe
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/10389
-#EXTINF:-1,Diva Channel
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/6338
-#EXTINF:-1,Film Box Extra HD
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/7931
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/228
+#EXTINF:-1,CineStar TV
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/229
 #EXTINF:-1,Cinemania
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/1498
-#EXTINF:-1,Mf Movies Smile
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/32738
-#EXTINF:-1,PickBox Tv
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/32733
-#EXTINF:-1,Super Star TV
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/33449
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/230
+#EXTINF:-1,Diva
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/231
+#EXTINF:-1,Film Klub
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/232
+#EXTINF:-1,FOX HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/234
+#EXTINF:-1,FOX Crime HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/235
+#EXTINF:-1,FOX Life HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/236
+#EXTINF:-1,FOX Movies HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/237
 #EXTINF:-1,TV 1000
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/34586
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/238
+#EXTINF:-1,SuperStar
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/239
+#EXTINF:-1,Kino TV
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/240
+#EXTINF:-1,Klasik TV
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/241
+#EXTINF:-1,M1 Film HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/242
+#EXTINF:-1,SciFi
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/243
+#EXTINF:-1,AMC
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/244
+#EXTINF:-1,AXN
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/245
+#EXTINF:-1,AXN Spin
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/246
+#EXTINF:-1,M1 Family
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4942
+#EXTINF:-1,M1 Film GOLD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4943
+#EXTINF:-1,CineStar TV 2
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4944
+#EXTINF:-1,Cinestar Comedy
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4945
+#EXTINF:-1,SuperStar 2
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4933
+#EXTINF:-1,Pink Action
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/247
+#EXTINF:-1,Pink Comedy
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/248
+#EXTINF:-1,Pink Crime & Mystery
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/249
+#EXTINF:-1,Pink Film
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/250
+#EXTINF:-1,Pink Movies
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/251
+#EXTINF:-1,Pink Premium
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/252
+#EXTINF:-1,Pink Romance
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/253
+#EXTINF:-1,Pink Horror
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/254
+#EXTINF:-1,Pink SciFi & Fantasy
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/255
+#EXTINF:-1,Pink Family
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/256
+#EXTINF:-1,Pink Thriler
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/257
+#EXTINF:-1,Pink Serije
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/258
+#EXTINF:-1,Pink Soap
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/259
+#EXTINF:-1,Pink Western
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/260
+#EXTINF:-1,Pink World Cinema
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/261
+#EXTINF:-1,Pink Classic
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/262
+#EXTINF:-1,Pickbox 1 HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/263
+#EXTINF:-1,CroMax SELECT 1 HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/264
+#EXTINF:-1,CroMax SELECT 2 HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/265
+#EXTINF:-1,CroMax SELECT 3 HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/266
+#EXTINF:-1,CroMax SELECT 4 HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/267
+#EXTINF:-1,CroMax SELECT 5 HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/268
+#EXTINF:-1,CroMax SELECT 6 HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/269
+#EXTINF:-1,CroMax SELECT 7 HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/270
+#EXTINF:-1,CroMax SELECT 8 HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/271
+#EXTINF:-1,CroMax SELECT 9 HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/272
+#EXTINF:-1,CroMax SELECT Gold HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/273
+#EXTINF:-1,CroMax SELECT Premium HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/274
 #EXTINF:-1,"==== SPORTSKI- MATORČEVIĆ  ===="
-#EXTINF:-1, NOVA TV SPORT
-http://client.nodomain.vip:80/live.ts?channelId=1780&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, PLANET SPORT 1 HD
-http://client.nodomain.vip:80/live.ts?channelId=1335&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, PLANET SPORT 2 HD
-http://client.nodomain.vip:80/live.ts?channelId=1341&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, PLANET SPORT 3 HD
-http://client.nodomain.vip:80/live.ts?channelId=1351&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, PLANET SPORT 4 HD
-http://client.nodomain.vip:80/live.ts?channelId=1387&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, PLANET SPORT 5 HD
-http://client.nodomain.vip:80/live.ts?channelId=1388&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, ARENA SPORT 1X2
-http://client.nodomain.vip:80/live.ts?channelId=1955&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, ARENA FIGHT
-http://client.nodomain.vip:80/live.ts?channelId=1956&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, ARENA ESPORT
-http://client.nodomain.vip:80/live.ts?channelId=1957&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, ARENA HD 1 HR
-http://client.nodomain.vip:80/live.ts?channelId=20&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, ARENA HD 2 HR
-http://client.nodomain.vip:80/live.ts?channelId=21&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, ARENA HD 3 HR
-http://client.nodomain.vip:80/live.ts?channelId=22&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, ARENA HD 4 HR
-http://client.nodomain.vip:80/live.ts?channelId=23&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, ARENA HD 5 HR
-http://client.nodomain.vip:80/live.ts?channelId=123&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, ARENA HD 6 HR
-http://client.nodomain.vip:80/live.ts?channelId=464&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, ARENA FHD 1 HR
-http://client.nodomain.vip:80/live.ts?channelId=1858&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, ARENA FHD 2 HR
-http://client.nodomain.vip:80/live.ts?channelId=1859&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, ARENA FHD 3 HR
-http://client.nodomain.vip:80/live.ts?channelId=1860&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, ARENA FHD 4 HR
-http://client.nodomain.vip:80/live.ts?channelId=1861&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,ARENA FHD 5 HR
-http://client.nodomain.vip:80/live.ts?channelId=1862&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,ARENA FHD 6 HR
-http://client.nodomain.vip:80/live.ts?channelId=1979&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,ARENA FHD 7 HR
-http://client.nodomain.vip:80/live.ts?channelId=1980&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, ARENA FHD 8 HR
-http://client.nodomain.vip:80/live.ts?channelId=1981&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, ARENA FHD 9 HR
-http://client.nodomain.vip:80/live.ts?channelId=1982&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, ARENA FHD 10 HR
-http://client.nodomain.vip:80/live.ts?channelId=1983&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, ARENA 1 SRB
-http://client.nodomain.vip:80/live.ts?channelId=100&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, ARENA 2 SRB
-http://client.nodomain.vip:80/live.ts?channelId=101&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, ARENA 3 SRB
-http://client.nodomain.vip:80/live.ts?channelId=102&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, ARENA 4 SRB
-http://client.nodomain.vip:80/live.ts?channelId=35&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,ARENA 5 SRB
-http://client.nodomain.vip:80/live.ts?channelId=121&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, ARENA 1 HD BIH
-http://client.nodomain.vip:80/live.ts?channelId=1873&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, ARENA 1 HD SRB
-http://client.nodomain.vip:80/live.ts?channelId=1336&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, ARENA 2 HD SRB
-http://client.nodomain.vip:80/live.ts?channelId=1337&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, ARENA 3 HD SRB
-http://client.nodomain.vip:80/live.ts?channelId=1338&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, ARENA 4 HD SRB
-http://client.nodomain.vip:80/live.ts?channelId=1339&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, ARENA 5 HD SRB
-http://client.nodomain.vip:80/live.ts?channelId=1930&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, Sportk klub HD
-http://client.nodomain.vip:80/live.ts?channelId=1613&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,Sport klub 1
-http://client.nodomain.vip:80/live.ts?channelId=1614&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, Sport klub 2
-http://client.nodomain.vip:80/live.ts?channelId=1615&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, Sport klub 4
-http://client.nodomain.vip:80/live.ts?channelId=1616&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, Sport klub 5
-http://client.nodomain.vip:80/live.ts?channelId=1617&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, Sport klub 6
-http://client.nodomain.vip:80/live.ts?channelId=1618&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,Sport klub 7
-http://client.nodomain.vip:80/live.ts?channelId=1619&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,Sport klub 8
-http://client.nodomain.vip:80/live.ts?channelId=1620&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, Sport klub 9
-http://client.nodomain.vip:80/live.ts?channelId=1621&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, Sport klub 10
-http://client.nodomain.vip:80/live.ts?channelId=1622&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, SPORTS 11 HD 
-http://client.nodomain.vip:80/live.ts?channelId=1623&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, SPORTS 12 HD 
-http://client.nodomain.vip:80/live.ts?channelId=1624&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, SPORTS 13 HD 
-http://client.nodomain.vip:80/live.ts?channelId=1625&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, SPORTS 14 HD 
-http://client.nodomain.vip:80/live.ts?channelId=1626&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, SPORTS 15 HD 
-http://client.nodomain.vip:80/live.ts?channelId=1627&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,  SPORTS 16 HD 
-http://client.nodomain.vip:80/live.ts?channelId=1628&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, EUROSPORT
-http://client.nodomain.vip:80/live.ts?channelId=128&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, EUROSPORT 2
-http://client.nodomain.vip:80/live.ts?channelId=129&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, FIGHT CHANNEL
-http://client.nodomain.vip:80/live.ts?channelId=1674&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, HNTV
-http://client.nodomain.vip:80/live.ts?channelId=481&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, MNE SPORT 1 CG
-http://client.nodomain.vip:80/live.ts?channelId=1856&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, MOJA TV PREMIJER LIGA BH
-http://client.nodomain.vip:80/live.ts?channelId=1675&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, ZVEZDA TV
-http://client.nodomain.vip:80/live.ts?channelId=1888&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, BEIN SPORTS 1 HD FR
-http://client.nodomain.vip:80/live.ts?channelId=1676&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, BEIN SPORTS 2 HD FR
-http://client.nodomain.vip:80/live.ts?channelId=1677&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, BEIN SPORTS 3 HD FR
-http://client.nodomain.vip:80/live.ts?channelId=1678&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, BEIN SPORTS 4 HD FR
-http://client.nodomain.vip:80/live.ts?channelId=1679&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, RMC SPORT 1 FR
-http://client.nodomain.vip:80/live.ts?channelId=1976&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, RMC SPORT 2 FR
-http://client.nodomain.vip:80/live.ts?channelId=1977&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, RMC SPORT 3 FR
-http://client.nodomain.vip:80/live.ts?channelId=1978&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, BEIN SPORTS 1 HD TR
-http://client.nodomain.vip:80/live.ts?channelId=1680&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, BEIN SPORTS 2 HD TR
-http://client.nodomain.vip:80/live.ts?channelId=1681&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, BEIN SPORTS 3 HD TR
-http://client.nodomain.vip:80/live.ts?channelId=1682&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, BEIN SPORTS 4 HD TR
-http://client.nodomain.vip:80/live.ts?channelId=1683&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, CANAL+ SPORT FR
-http://client.nodomain.vip:80/live.ts?channelId=1684&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, NBA TV HD
-http://client.nodomain.vip:80/live.ts?channelId=1685&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, EUROSPORT 1 DE
-http://client.nodomain.vip:80/live.ts?channelId=1686&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, EUROSPORT 2 DE
-http://client.nodomain.vip:80/live.ts?channelId=1687&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, EUROSPORT 2 XTRA DE
-http://client.nodomain.vip:80/live.ts?channelId=1688&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, ORF SPORT +
-http://client.nodomain.vip:80/live.ts?channelId=1742&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, SPORT 1 DE
-http://client.nodomain.vip:80/live.ts?channelId=1689&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, SKY SPORT AUSTRIA 1 HD
-http://client.nodomain.vip:80/live.ts?channelId=1720&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,SKY SPORT BUNDESLIGA 1 DE
-http://client.nodomain.vip:80/live.ts?channelId=11&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,SKY SPORT BUNDESLIGA 2 DE
-http://client.nodomain.vip:80/live.ts?channelId=580&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, SKY SPORT BUNDESLIGA 3 DE
-http://client.nodomain.vip:80/live.ts?channelId=581&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, SKY SPORT BUNDESLIGA 4 DE
-http://client.nodomain.vip:80/live.ts?channelId=582&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, SKY SPORT BUNDESLIGA 5 DE
-http://client.nodomain.vip:80/live.ts?channelId=583&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, SKY SPORT BUNDESLIGA 6 DE
-http://client.nodomain.vip:80/live.ts?channelId=1417&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, SKY SPORT BUNDESLIGA 7 DE
-http://client.nodomain.vip:80/live.ts?channelId=1418&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, SKY SPORT BUNDESLIGA 8 DE
-http://client.nodomain.vip:80/live.ts?channelId=1419&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, SKY SPORT NEWS DE
-http://client.nodomain.vip:80/live.ts?channelId=1789&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, SKY SPORT 1 HD DE
-http://client.nodomain.vip:80/live.ts?channelId=92&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, SKY SPORT 2 HD DE
-http://client.nodomain.vip:80/live.ts?channelId=93&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, SKY SPORT 3 HD DE
-http://client.nodomain.vip:80/live.ts?channelId=1657&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, SKY SPORT 4 HD DE
-http://client.nodomain.vip:80/live.ts?channelId=1658&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, SKY SPORT 5 HD DE
-http://client.nodomain.vip:80/live.ts?channelId=1659&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, SKY SPORT 6 HD DE
-http://client.nodomain.vip:80/live.ts?channelId=1660&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, AUTO MOTOR SPORT DE
-http://client.nodomain.vip:80/live.ts?channelId=1690&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,FC BAYERN HD DE
-http://client.nodomain.vip:80/live.ts?channelId=1691&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, BT SPORT 1
-http://client.nodomain.vip:80/live.ts?channelId=1694&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, BT SPORT 2
-http://client.nodomain.vip:80/live.ts?channelId=1695&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, BT SPORT 3
-http://client.nodomain.vip:80/live.ts?channelId=1696&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,BT SPORT ESPN
-http://client.nodomain.vip:80/live.ts?channelId=1697&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,EIR SPORT 1
-http://client.nodomain.vip:80/live.ts?channelId=1698&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, EIR SPORT 2
-http://client.nodomain.vip:80/live.ts?channelId=1699&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, ELEVEN SPORT 1 PL
-http://client.nodomain.vip:80/live.ts?channelId=1700&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,ELEVEN SPORT 2 PL
-http://client.nodomain.vip:80/live.ts?channelId=1701&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,ESPN US
-http://client.nodomain.vip:80/live.ts?channelId=1703&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, LIVERPOOL FC TV UK
-http://client.nodomain.vip:80/live.ts?channelId=1704&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, PREMIER SPORTS UK
-http://client.nodomain.vip:80/live.ts?channelId=1800&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,PREMIER SPORTS 2 UK
-http://client.nodomain.vip:80/live.ts?channelId=1818&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, SKY SPORT F1 UK
-http://client.nodomain.vip:80/live.ts?channelId=1706&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, SKY SPORT F1 DE
-http://client.nodomain.vip:80/live.ts?channelId=1994&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,SKY SPORT ARENA UK
-http://client.nodomain.vip:80/live.ts?channelId=1707&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, SKY SPORT FOOTBALL UK
-http://client.nodomain.vip:80/live.ts?channelId=1984&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, SKY SPORT GOLF UK
-http://client.nodomain.vip:80/live.ts?channelId=1709&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, SKY SPORT MAIN EVENT UK
-http://client.nodomain.vip:80/live.ts?channelId=1710&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, SKY SPORT MIX UK
-http://client.nodomain.vip:80/live.ts?channelId=1708&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, SKY SPORT PREMIER LEAGUE UK
-http://client.nodomain.vip:80/live.ts?channelId=1711&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, RAI SPORT 1
-http://client.nodomain.vip:80/live.ts?channelId=1717&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, SKY SPORT 1 HD IT
-http://client.nodomain.vip:80/live.ts?channelId=1718&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, SKY SPORT 2 HD IT
-http://client.nodomain.vip:80/live.ts?channelId=1719&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, SKY MOTO GP HD IT
-http://client.nodomain.vip:80/live.ts?channelId=1753&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,DIGI SPORT 1 HD RO
-http://client.nodomain.vip:80/live.ts?channelId=1832&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, DIGI SPORT 2 HD RO
-http://client.nodomain.vip:80/live.ts?channelId=1831&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,DIGI SPORT 3 HD RO
-http://client.nodomain.vip:80/live.ts?channelId=1833&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, DIGI SPORT 4 HD RO
-http://client.nodomain.vip:80/live.ts?channelId=1834&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, FOX SPORTS 1
-http://client.nodomain.vip:80/live.ts?channelId=1721&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, FOX SPORTS 2
-http://client.nodomain.vip:80/live.ts?channelId=1722&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, FOX SPORTS 3
-http://client.nodomain.vip:80/live.ts?channelId=1723&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, FOX SPORTS 4
-http://client.nodomain.vip:80/live.ts?channelId=1724&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, C MORE FOTBALL SE
-http://client.nodomain.vip:80/live.ts?channelId=1725&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, C MORE GOLF SE
-http://client.nodomain.vip:80/live.ts?channelId=1726&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, C MORE HOCKEY SE
-http://client.nodomain.vip:80/live.ts?channelId=1727&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, C MORE SPORT SE
-http://client.nodomain.vip:80/live.ts?channelId=1728&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, C MORE LIVE 1
-http://client.nodomain.vip:80/live.ts?channelId=1840&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, C MORE LIVE 2
-http://client.nodomain.vip:80/live.ts?channelId=1841&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, C MORE LIVE 3
-http://client.nodomain.vip:80/live.ts?channelId=1842&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, C MORE LIVE 4
-http://client.nodomain.vip:80/live.ts?channelId=1843&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, C MORE LIVE 5
-http://client.nodomain.vip:80/live.ts?channelId=1844&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, TV3 SPORT SE
-http://client.nodomain.vip:80/live.ts?channelId=1731&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, VIASAT FOTBOLL SE
-http://client.nodomain.vip:80/live.ts?channelId=1732&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, VIASAT GOLF SE
-http://client.nodomain.vip:80/live.ts?channelId=1733&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, VIASAT MOTOR SE
-http://client.nodomain.vip:80/live.ts?channelId=1735&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, VIASAT SPORT SE
-http://client.nodomain.vip:80/live.ts?channelId=1736&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,VIASAT SPORT PREMIUM SE
-http://client.nodomain.vip:80/live.ts?channelId=1737&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,SUPER SPORT 1 ALB
-http://client.nodomain.vip:80/live.ts?channelId=1738&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,SUPER SPORT 2 ALB
-http://client.nodomain.vip:80/live.ts?channelId=1739&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,SUPER SPORT 3 ALB
-http://client.nodomain.vip:80/live.ts?channelId=1740&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, SUPER SPORT 4 ALB
-http://client.nodomain.vip:80/live.ts?channelId=1741&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,Planet Sport 1
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/30798
-#EXTINF:-1,Planet Sport 2
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/30911
-#EXTINF:-1,Planet Sport 3
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/30912
-#EXTINF:-1,Planet Sport 4
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/30913
-#EXTINF:-1,Planet Sport 5
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/31367
-#EXTINF:-1,Nova Sport HD
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/37716
-#EXTINF:-1,Arena Fight HD
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/37717
-#EXTINF:-1,Arena Sport 1
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/29
-#EXTINF:-1,Arena Sport 2
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/30
-#EXTINF:-1,Arena Sport 3
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/31
-#EXTINF:-1,Arena Sport 4
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/32
-#EXTINF:-1,Arena Sport 5
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/33
-#EXTINF:-1,Arena Sport 5 Premier liga
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/23641
-#EXTINF:-1,Arena Sport 1 HD Srb/Bih
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/9617
-#EXTINF:-1,Arena Sport 1 HD
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/23642
-#EXTINF:-1,Arena Sport 2 HD
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/9618
-#EXTINF:-1,Arena Sport 3 HD
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/9619
-#EXTINF:-1,Arena Sport 4 HD
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/9620
-#EXTINF:-1,Arena Sport 1 HR
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/75
-#EXTINF:-1,Arena Sport 2 HR
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/76
-#EXTINF:-1,Arena Sport 3 HR
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/77
-#EXTINF:-1,Arena Sport 4 HR
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/78
-#EXTINF:-1,Arena Sport 5 HR
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/79
-#EXTINF:-1,Arena Sport 6 HR
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/8626
-#EXTINF:-1,Eurosport 1
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/23
-#EXTINF:-1,Eurosport 2
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/24
-#EXTINF:-1,Sport Klub Golf
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/25
-#EXTINF:-1,SK HD
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/8621
-#EXTINF:-1,Sport Klub 1
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/26
-#EXTINF:-1,Sport Klub 2
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/27
-#EXTINF:-1,Sport Klub 3
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/28
-#EXTINF:-1,Sport Klub 4
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/1058
-#EXTINF:-1,Sport Klub 5
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/1502
-#EXTINF:-1,Sport Klub 6
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/1503
-#EXTINF:-1,Sport Klub 7
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/32068
-#EXTINF:-1,Sport Klub 8
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/32069
-#EXTINF:-1,Sport Klub 9
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/32070
+#EXTINF:-1,EUROSPORT 1 HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/124
+#EXTINF:-1,EUROSPORT 2 HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/125
+#EXTINF:-1,Nova Sport
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/126
+#EXTINF:-1,Sport Klub HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/127
 #EXTINF:-1,Sport Klub 1 HR
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/80
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/128
 #EXTINF:-1,Sport Klub 2 HR
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/23639
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/129
 #EXTINF:-1,Sport Klub 3 HR
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/23640
-#EXTINF:-1,Sport Klub 1 SLO
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/6385
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/130
+#EXTINF:-1,Sport Klub 1
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/131
+#EXTINF:-1,Sport Klub 2
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/132
+#EXTINF:-1,Sport Klub 3
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/133
+#EXTINF:-1,Sport Klub 4
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/134
+#EXTINF:-1,Sport Klub 5
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/135
+#EXTINF:-1,Sport Klub 6
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/136
+#EXTINF:-1,Sport Klub 7
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/137
+#EXTINF:-1,Sport Klub 8
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/138
+#EXTINF:-1,Sport Klub 9
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/139
+#EXTINF:-1,Sport Klub 10
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/140
+#EXTINF:-1,Arena Sport 1 HD/FHD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/144
+#EXTINF:-1,Arena Sport 2 HD/FHD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/145
+#EXTINF:-1,Arena Sport 3 HD/FHD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/146
+#EXTINF:-1,Arena Sport 4 HD/FHD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/147
+#EXTINF:-1,Arena Sport 5 HD/FHD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/148
+#EXTINF:-1,Arena Sport 1 SD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/149
+#EXTINF:-1,Arena Sport 2 SD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/150
+#EXTINF:-1,Arena Sport 3 SD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/151
+#EXTINF:-1,Arena Sport 4 SD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/152
+#EXTINF:-1,Arena Sport 1 HR HD/FHD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/153
+#EXTINF:-1,Arena Sport 2 HR HD/FHD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/154
+#EXTINF:-1,Arena Sport 3 HR HD/FHD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/155
+#EXTINF:-1,Arena Sport 4 HR HD/FHD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/156
+#EXTINF:-1,Arena Sport 5 HR HD/FHD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/157
+#EXTINF:-1,Arena Sport 6 HR HD/FHD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/158
+#EXTINF:-1,Moja TV Premier Liga BiH
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/159
+#EXTINF:-1,DAZN 1 Bar
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/160
+#EXTINF:-1,DAZN 2 Bar
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/161
+#EXTINF:-1,BeIN Sports 1 HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/162
+#EXTINF:-1,BeIN Sports 2 HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/163
+#EXTINF:-1,BeIN Sports 3 HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/164
+#EXTINF:-1,BeIN Sports 4 HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/165
+#EXTINF:-1,BeIN Sports 5 HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/166
+#EXTINF:-1,BeIN Sports 6 HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/167
+#EXTINF:-1,BeIN Sports 7 HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/168
+#EXTINF:-1,BeIN Sports 8 HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/169
+#EXTINF:-1,BeIN Sports 9 HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/170
+#EXTINF:-1,BeIN Sports 10 HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/171
+#EXTINF:-1,BT Sport 1
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/173
+#EXTINF:-1,BT Sport 2
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/174
+#EXTINF:-1,UFC Fight Pass
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/175
+#EXTINF:-1,NBA TV
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/176
 #EXTINF:-1,Fight Channel
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/10248
-#EXTINF:-1,Fight Channel World
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/10249
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/177
+#EXTINF:-1,HNTV
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/178
+#EXTINF:-1,Kreator TV
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/179
+#EXTINF:-1,Lov i Ribolov
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/180
+#EXTINF:-1,Sport Digital HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/181
+#EXTINF:-1,Real Madrid TV
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/182
+#EXTINF:-1,Barca TV
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/183
+#EXTINF:-1,Bayern TV
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/184
 #EXTINF:-1,Sportska TV
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/1480
-#EXTINF:-1,HnTv
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/11343
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/185
+#EXTINF:-1,SOS
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/186
 #EXTINF:-1,Zvezda TV
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/35854
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1827
+#EXTINF:-1,TV Partizan
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1828
+#EXTINF:-1,Arena Sport 7 HR HD/FHD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4946
+#EXTINF:-1,Arena Sport 8 HR HD/FHD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4947
+#EXTINF:-1,Arena Sport 9 HR HD/FHD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4948
+#EXTINF:-1,Arena Sport 10 HR HD/FHD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4949
+#EXTINF:-1,Sky Sport Crcket HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4950
+#EXTINF:-1,Sky Sport Football HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4951
+#EXTINF:-1,Elta TV 1  HD (TEST)
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4952
+#EXTINF:-1,Elta TV 2 (TEST)
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4953
+#EXTINF:-1,DokuTV HD/FHD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4954
+#EXTINF:-1,Sky Sport Newz DE HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4955
+#EXTINF:-1,Sky Sport AT HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4956
+#EXTINF:-1,Sky Sport Golf HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4957
+#EXTINF:-1,RMC Sport 1 HD/FHD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4958
+#EXTINF:-1,RMC Sport 2 HD/FHD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4959
+#EXTINF:-1,RMC Sport 3 HD/FHD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4960
+#EXTINF:-1,RMC Sport 4 HD/FHD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4961
+#EXTINF:-1,RMC Sport 5 HD/FHD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4962
+#EXTINF:-1,ESPN 1
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4963
+#EXTINF:-1,ESPN 2 HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4964
+#EXTINF:-1,ESPN 3 HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4965
+#EXTINF:-1,ESPN 4 HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4966
+#EXTINF:-1,ESPN 5 HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4967
+#EXTINF:-1,Eleven Sports 1 HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4968
+#EXTINF:-1,Eleven Sports 2 HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4969
+#EXTINF:-1,Eleven Sports 3 HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4970
+#EXTINF:-1,Eleven Sports 4 HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4971
+#EXTINF:-1,Ziggo Sport Golf NL
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4972
+#EXTINF:-1,Digi Sport 4 RO
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4973
+#EXTINF:-1,Super Sports 1 HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4974
+#EXTINF:-1,Super Sports 2 HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4975
+#EXTINF:-1,Manchester United TV
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4976
 #EXTINF:-1,"==== PORNIĆI - MATORČEVIĆ ===="
-#EXTINF:-1, XXX 1
-http://client.nodomain.vip:80/live.ts?channelId=41&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, XXX 2
-http://client.nodomain.vip:80/live.ts?channelId=164&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, XXX 3
-http://client.nodomain.vip:80/live.ts?channelId=162&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, XXX 4
-http://client.nodomain.vip:80/live.ts?channelId=1514&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, XXX 5
-http://client.nodomain.vip:80/live.ts?channelId=1564&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, XXX 6
-http://client.nodomain.vip:80/live.ts?channelId=1565&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, XXX 7
-http://client.nodomain.vip:80/live.ts?channelId=1566&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, XXX 8
-http://client.nodomain.vip:80/live.ts?channelId=1567&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, BALKAN EROTIC
-http://client.nodomain.vip:80/live.ts?channelId=1474&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, DORCEL TV
-http://client.nodomain.vip:80/live.ts?channelId=1513&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, PINK EROTIC 1
-http://client.nodomain.vip:80/live.ts?channelId=96&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, PINK EROTIC 2
-http://client.nodomain.vip:80/live.ts?channelId=97&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1, PINK EROTIC 3
-http://client.nodomain.vip:80/live.ts?channelId=98&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
-#EXTINF:-1,  PINK EROTIC 4
-http://client.nodomain.vip:80/live.ts?channelId=99&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
+#EXTINF:-1,XXX: Hustler TV
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1571
+#EXTINF:-1,XXX: Playboy TV
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1572
+#EXTINF:-1,XXX: Redlight TV
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1573
+#EXTINF:-1,XXX: Dorcel TV
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1574
+#EXTINF:-1,XXX: Penthouse TV
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1575
+#EXTINF:-1,XXX: Penthouse Quickies HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1576
+#EXTINF:-1,XXX: Brazzers TV Europe
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1577
+#EXTINF:-1,XXX: Pink Erotic 1
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1578
+#EXTINF:-1,XXX: Pink Erotic 2
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1579
+#EXTINF:-1,XXX: Pink Erotic 3
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1580
+#EXTINF:-1,XXX: Pink Erotic 4
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1581
+#EXTINF:-1,XXX: Pink Erotic 5
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1582
+#EXTINF:-1,XXX: Pink Erotic 6
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1583
+#EXTINF:-1,XXX: Pink Erotic 7
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1584
+#EXTINF:-1,XXX: Pink Erotic 8
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1585
+#EXTINF:-1,XXX: Brazzers Alba 3
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1872
+#EXTINF:-1,XXX: Brazzers Alba 5
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1873
+#EXTINF:-1,XXX: Brazzers Alba 6
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1874
+#EXTINF:-1,XXX: Erox
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1875
+#EXTINF:-1,XXX: Blue Hustler
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1876
+#EXTINF:-1,XXX: Adult MIX XXX 3
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1877
+#EXTINF:-1,XXX: DUSK HD
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1879
+#EXTINF:-1,XXX: Adult MIX XXX 1
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1586
+#EXTINF:-1,XXX: Adult MIX XXX 2
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1587
+#EXTINF:-1,XXX: Brazzers Alba 1
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1588
+#EXTINF:-1,XXX: Brazzers Alba 2
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1589
+#EXTINF:-1,XXX: Brazzers Alba 4
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1590
+#EXTINF:-1,XXX: Adult MIX XXX 3
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1591
+#EXTINF:-1,XXX: Adult MIX XXX 4
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1592
+#EXTINF:-1,XXX: Orgy Channel
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1593
 #EXTINF:-1, Jasmin HD (18+)
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1, Visit-X HD (18+)
@@ -1788,6 +1062,470 @@ http://78.46.64.6:8080/;*.mp3
 http://212.83.150.15:8058/;*.mp3
 #EXTINF:-1, Radio Karolina - Lagani NonStoP
 https://streaming.karolina.rs/karolinabezreklama.mp3
+#EXTINF:-1,Skala Radio
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1595
+#EXTINF:-1,DiV Radio Prijedor
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1596
+#EXTINF:-1,Radio DM Bijeljina
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1597
+#EXTINF:-1,Radio Doboj Istok
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1598
+#EXTINF:-1,Radio Dobre Vibracije Mostar
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1599
+#EXTINF:-1,Radio Donji Vakuf
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1600
+#EXTINF:-1,DrukÄiji Radio Novi Travnik
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1601
+#EXTINF:-1,Radio DÅ¾ungla Doboj
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1602
+#EXTINF:-1,Radio DÅ¾ungla 2 Doboj
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1603
+#EXTINF:-1,Radio Feniks Kozarska Dubica
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1604
+#EXTINF:-1,Feral Radio Kalesija
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1605
+#EXTINF:-1,Free Radio Caffe Prijedor
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1606
+#EXTINF:-1,Free Radio Prijedor
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1607
+#EXTINF:-1,Radio Fresh Tuzla
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1608
+#EXTINF:-1,Radio Glas Drine Sapna
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1609
+#EXTINF:-1,Radio Glas Drine Studio Onyx ÄŒeliÄ‡
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1610
+#EXTINF:-1,Radio GradaÄac
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1611
+#EXTINF:-1,Gradski Radio Banja Luka
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1612
+#EXTINF:-1,Radio Grude
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1613
+#EXTINF:-1,Radio HajduÄki Inat
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1614
+#EXTINF:-1,Hrvatski Radio Herceg Bosne
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1615
+#EXTINF:-1,Radio Hule Zvornik
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1616
+#EXTINF:-1,Radio IlijaÅ¡
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1617
+#EXTINF:-1,Radio Jugosloveni
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1618
+#EXTINF:-1,Radio Kakanj
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1619
+#EXTINF:-1,Kalman Plus Radio Sarajevo
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1620
+#EXTINF:-1,Kameleon Radio
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1621
+#EXTINF:-1,Radio PraÄa
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1622
+#EXTINF:-1,Kiss FM BiH
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1623
+#EXTINF:-1,Radio 8 Sarajevo
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1624
+#EXTINF:-1,Radio Active Zenica
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1625
+#EXTINF:-1,Antena Radio Jelah
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1626
+#EXTINF:-1,Radio Antena Sarajevo
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1627
+#EXTINF:-1,Radio Avaz VraÅ¾iÄ‡i
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1628
+#EXTINF:-1,Radio Balkan DJ
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1629
+#EXTINF:-1,Balkan Hip-Hop Radio
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1630
+#EXTINF:-1,Radio Bambi Zvornik
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1631
+#EXTINF:-1,Radio BerkoviÄ‡i
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1632
+#EXTINF:-1,Radio Bet Fratello GradaÄac
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1633
+#EXTINF:-1,Radio BIH GradaÄac
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1634
+#EXTINF:-1,Radio Big 1
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1635
+#EXTINF:-1,Radio Big 2
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1636
+#EXTINF:-1,Radio Big 3
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1637
+#EXTINF:-1,Radio Big 4 DomaÄ‡ica
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1638
+#EXTINF:-1,Radio Big Rock
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1639
+#EXTINF:-1,Radio Big Folk
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1640
+#EXTINF:-1,Radio Big Balade
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1641
+#EXTINF:-1,Radio BihaÄ‡
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1642
+#EXTINF:-1,Radio Bir Sarajevo
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1643
+#EXTINF:-1,Radio BN
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1644
+#EXTINF:-1,Bobar Radio
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1645
+#EXTINF:-1,Radio Bobovac VareÅ¡
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1646
+#EXTINF:-1,Radio Bosanska Posavina
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1647
+#EXTINF:-1,Radio Bosanski Brod
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1648
+#EXTINF:-1,Radio BrÄko Distrikta
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1649
+#EXTINF:-1,Radio Breza
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1650
+#EXTINF:-1,Buban Radio
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1651
+#EXTINF:-1,Koprivljanski Radio
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1652
+#EXTINF:-1,Radio ÄŒapljina
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1653
+#EXTINF:-1,Radio ÄŒarÅ¡ija
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1654
+#EXTINF:-1,Radio Kontakt
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1655
+#EXTINF:-1,College Radio
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1656
+#EXTINF:-1,DaÅ¡ Radio
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1657
+#EXTINF:-1,Radio Derventa
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1658
+#EXTINF:-1,Koprivljanski Radio Izvorni
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1659
+#EXTINF:-1,Radio Krajina
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1660
+#EXTINF:-1,KrajiÅ¡ki Radio Dubica
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1661
+#EXTINF:-1,KupreÅ¡ki Radio
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1662
+#EXTINF:-1,Lipovac Radio BrÄko
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1663
+#EXTINF:-1,Radio Ljubavi OdÅ¾ak
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1664
+#EXTINF:-1,Radio LjubiÄ‡
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1665
+#EXTINF:-1,Radio Lukavac
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1666
+#EXTINF:-1,Radio M Sarajevo
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1667
+#EXTINF:-1,Radio Magic MiliÄ‡i
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1668
+#EXTINF:-1,Radio Marija Sarajevo
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1669
+#EXTINF:-1,Radio Mir MeÄ‘ugorje
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1670
+#EXTINF:-1,Radio MIX
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1671
+#EXTINF:-1,Narodni Radio BIH
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1672
+#EXTINF:-1,Narodni Radio Tuzla
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1673
+#EXTINF:-1,Narodni Radio Zenica
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1674
+#EXTINF:-1,Radio Narodnjak
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1675
+#EXTINF:-1,Nes Radio
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1676
+#EXTINF:-1,Radio Novi Grad
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1677
+#EXTINF:-1,Radio OdÅ¾ak
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1678
+#EXTINF:-1,Radio Orlovo Polje
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1679
+#EXTINF:-1,Radio Ozrensko Srce
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1680
+#EXTINF:-1,Pakao Radio
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1681
+#EXTINF:-1,Pan Radio
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1682
+#EXTINF:-1,Party Radio
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1683
+#EXTINF:-1,Pop FM
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1684
+#EXTINF:-1,Radio Postaja OraÅ¡je
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1685
+#EXTINF:-1,Radio PosuÅ¡je
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1686
+#EXTINF:-1,Radio Postaja Å½epÄe
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1687
+#EXTINF:-1,Radio Rujnica
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1688
+#EXTINF:-1,Radio San RaÅ¾ljevo
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1689
+#EXTINF:-1,Radio Sarajevo
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1690
+#EXTINF:-1,Radio Sehara Sarajevo
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1691
+#EXTINF:-1,Sevdah Radio Å eherÄani
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1692
+#EXTINF:-1,Radio Å iroki Brijeg
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1693
+#EXTINF:-1,Slobomir Radio
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1694
+#EXTINF:-1,Radio Srbac
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1695
+#EXTINF:-1,Radio Srebrenik
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1696
+#EXTINF:-1,Radio Stari Grad
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1697
+#EXTINF:-1,Radio Stjepkovica
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1698
+#EXTINF:-1,Radio Zenica
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1699
+#EXTINF:-1,Radio Vikom
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1700
+#EXTINF:-1,Radio TNT Travnik
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1701
+#EXTINF:-1,Radio Tomislavgrad
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1702
+#EXTINF:-1,Radio VogoÅ¡Ä‡a
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1703
+#EXTINF:-1,Radio Trebinje
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1704
+#EXTINF:-1,Radio Å½epÄe
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1705
+#EXTINF:-1,Radio AS FM Novi Sad
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1706
+#EXTINF:-1,Radio KISS
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1707
+#EXTINF:-1,Radio Luna UÅ¾ice
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1708
+#EXTINF:-1,Radio Lux Smederevo
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1709
+#EXTINF:-1,Radio MAX FM Jagodina
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1710
+#EXTINF:-1,Naxi 80-e Radio
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1711
+#EXTINF:-1,Radio Naxi
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1712
+#EXTINF:-1,Naxi Boem Radio
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1713
+#EXTINF:-1,Naxi Cafe Radio
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1714
+#EXTINF:-1,Naxi Classic Radio
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1715
+#EXTINF:-1,Naxi Clubbing Radio
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1716
+#EXTINF:-1,Naxi Dance Radio
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1717
+#EXTINF:-1,Naxi Evergreen Radio
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1718
+#EXTINF:-1,Naxi House Radio
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1719
+#EXTINF:-1,Naxi Jazz Radio
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1720
+#EXTINF:-1,Naxi Kids Radio
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1721
+#EXTINF:-1,Naxi Love Radio
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1722
+#EXTINF:-1,Naxi M Radio
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1723
+#EXTINF:-1,Radio Naxi Max
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1724
+#EXTINF:-1,Radio PanÄevo
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1725
+#EXTINF:-1,Pink Radio
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1726
+#EXTINF:-1,Radio Play FM Arilje
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1727
+#EXTINF:-1,Radio S1
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1728
+#EXTINF:-1,Radio S2
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1729
+#EXTINF:-1,Radio S3
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1730
+#EXTINF:-1,Radio S4
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1731
+#EXTINF:-1,Radio Å abac
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1732
+#EXTINF:-1,Ritam Radio
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1733
+#EXTINF:-1,Radio SKAY NiÅ¡
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1734
+#EXTINF:-1,Sistem Radio Novi Sad
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1735
+#EXTINF:-1,Radio Sokolica
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1736
+#EXTINF:-1,TDI Radio
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1737
+#EXTINF:-1,TOP Radio
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1738
+#EXTINF:-1,Radio TOP FM
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1739
+#EXTINF:-1,Radio TOP FM Dance Hits
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1740
+#EXTINF:-1,Radio Tri
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1741
+#EXTINF:-1,Radio Tempo ZajeÄar
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1742
+#EXTINF:-1,Radio Stara Pazova
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1743
+#EXTINF:-1,Radio Srce Prokuplje
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1744
+#EXTINF:-1,UÅ¡Ä‡e Shopping Radio
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1745
+#EXTINF:-1,Radio ZveÄka KruÅ¡evac
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1746
+#EXTINF:-1,Vip Radio
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1747
+#EXTINF:-1,Radio Vladix
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1748
+#EXTINF:-1,Radio Zlatibor
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1749
+#EXTINF:-1,Radio 101 Rock
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1750
+#EXTINF:-1,Radio 101 FM
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1751
+#EXTINF:-1,Radio Antena Hit Zagreb
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1752
+#EXTINF:-1,Radio Antena Zadar
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1753
+#EXTINF:-1,Antena Radio Zagreb
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1754
+#EXTINF:-1,Antena Radio Rock
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1755
+#EXTINF:-1,DeeJay Radio
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1756
+#EXTINF:-1,Radio DM Osijek
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1757
+#EXTINF:-1,Radio Äakovo
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1758
+#EXTINF:-1,Radio Dalmacija
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1759
+#EXTINF:-1,Radio DELTA MetkoviÄ‡
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1760
+#EXTINF:-1,Radio Enter Zagreb
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1761
+#EXTINF:-1,Drava Radio
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1762
+#EXTINF:-1,Radio Gorski Kotar
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1763
+#EXTINF:-1,Radio KorÄula
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1764
+#EXTINF:-1,Radio KriÅ¾evci
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1765
+#EXTINF:-1,Radio Istra Pazin
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1766
+#EXTINF:-1,Radio Labin
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1767
+#EXTINF:-1,Radio Otok Krk
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1768
+#EXTINF:-1,Radio Moslavina
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1769
+#EXTINF:-1,Radio Samobor
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1770
+#EXTINF:-1,Radio Slunj
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1771
+#EXTINF:-1,Radio Val
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1772
+#EXTINF:-1,Radio Tranzistor
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1773
+#EXTINF:-1,Radio Sunce Split
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1774
+#EXTINF:-1,Trend Radio 047
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1775
+#EXTINF:-1,Radio Vragolica
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1776
+#EXTINF:-1,Radio Vrbovec
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1777
+#EXTINF:-1,Zabavni Radio
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1778
+#EXTINF:-1,Radio Zabok
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1779
+#EXTINF:-1,Zagorski Radio Krapina
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1780
+#EXTINF:-1,Radio Zlatar
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1781
+#EXTINF:-1,Radio Soundset PoÅ¾ega
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1782
+#EXTINF:-1,Radio Bijelo Polje
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1783
+#EXTINF:-1,Radio Herceg Novi
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1784
+#EXTINF:-1,Skala Radio Kotor
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1785
+#EXTINF:-1,TDI Radio CG
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1786
+#EXTINF:-1,Radio Titograd
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1787
+#EXTINF:-1,Urban Radio
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1788
+#EXTINF:-1,Radio Zeta
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1789
+#EXTINF:-1,Radio 105 Bombarder Bitola
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1790
+#EXTINF:-1,Radio 5 FM Veles
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1791
+#EXTINF:-1,Radio Akord KiÄevo
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1792
+#EXTINF:-1,Zona M1 Radio
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1793
+#EXTINF:-1,Play FM Radio Struga
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1794
+#EXTINF:-1,Radio Kavadarci
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1795
+#EXTINF:-1,Radio Fortuna Skoplje
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1796
+#EXTINF:-1,Radio 3Ton Ljubljana
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1797
+#EXTINF:-1,Radio Tednik Ptuj
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1798
+#EXTINF:-1,Radio Max PrleÅ¡ki Val
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1799
+#EXTINF:-1,KoroÅ¡ki Radio
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1800
+#EXTINF:-1,Radio Avlija NjemaÄka
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1801
+#EXTINF:-1,Radio Balkan EU Austrija
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1802
+#EXTINF:-1,Balkan Radio NjemaÄka
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1803
+#EXTINF:-1,Radio BH Dijaspore Holandija
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1804
+#EXTINF:-1,Radio Bombonica Austrija
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1805
+#EXTINF:-1,Radio BrÄko DC USA
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1806
+#EXTINF:-1,Radio Folk Fantazija Å vajcarska
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1807
+#EXTINF:-1,Hule Radio Slovenija
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1808
+#EXTINF:-1,Radio Facebook Slovenija
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1809
+#EXTINF:-1,Radio Dijaspora Austrija
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1810
+#EXTINF:-1,Kitt Radio Austrija
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1811
+#EXTINF:-1,Radio Glas Krajine Australija
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1812
+#EXTINF:-1,Radio Dvojka ÄŒikago USA
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1813
+#EXTINF:-1,Radio Dernek USA
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1814
+#EXTINF:-1,Radio SpreÄa NjemaÄka
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1815
+#EXTINF:-1,Radio Royal NjemaÄka
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1816
+#EXTINF:-1,Radio Nostalgija Francuska
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1817
+#EXTINF:-1,Radio Radioteka USA
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1818
+#EXTINF:-1,Radio Niagara Kanada
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1819
+#EXTINF:-1,Pinki Radio Austrija
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1820
+#EXTINF:-1,Radio Urnebes Slovenija
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1821
+#EXTINF:-1,Radio Vesela DruÅ¾ina Å vajcarska
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1822
+#EXTINF:-1,Vip Radio NjemaÄka
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1823
+#EXTINF:-1,YUTREF Radio Å vajcarska
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1824
+#EXTINF:-1,ZaM Radio Å vajcarska
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1825
+#EXTINF:-1,Radio Zoran Italija
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/18
 #EXTINF:-1,"==== VIDEOTEKA- MATORČEVIĆ ===="
 #EXTINF:-1,Black Water Abyss (2020)
 http://videoteka1.dvrcam.info:25461/movie/mmaxvod1/mmaxvvod2/4146.mkv
