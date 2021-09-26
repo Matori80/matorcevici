@@ -1,6 +1,6 @@
 #EXTINF:-1,"==== KANALI - TV MATORCEVIĆ - PUDARCI ===="
 #EXTINF:-1,N1 SRB
-http://client.nodomain.vip:80/live.ts?channelId=1457&uid=14852&deviceUser=27edinalibe&devicePass=27edinalibe
+http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/54
 #EXTINF:-1, RS: N1 FHD
 http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/47
 #EXTINF:-1, N1 (beckup
