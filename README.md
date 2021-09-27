@@ -3,8 +3,6 @@
 http://185.134.22.131:8080/Terry123/Terry123/37597
 #EXTINF:-1,NOVA S
 http://5.39.72.165:8000/live?channelId=246&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1,NOVA S (Beckup)
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/55
 #EXTINF:-1,Nova S BackUP
 http://185.134.22.131:8080/Terry123/Terry123/37582
 #EXTINF:-1,Aljazeera
