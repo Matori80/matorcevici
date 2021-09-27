@@ -1,14 +1,14 @@
 #EXTINF:-1,"==== KANALI - TV MATORCEVIĆ - PUDARCI ===="
 #EXTINF:-1,N1 SRB
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/54
+http://185.134.22.131:8080/Terry123/Terry123/37597
 #EXTINF:-1,NOVA S
 http://5.39.72.165:8000/live?channelId=246&uid=78&deviceMac=00:1A:79:2A:5A:CF
 #EXTINF:-1,NOVA S (Beckup)
 http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/55
 #EXTINF:-1,Nova S BackUP
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4932
+http://185.134.22.131:8080/Terry123/Terry123/37582
 #EXTINF:-1,Aljazeera
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/17
+http://185.134.22.131:8080/Terry123/Terry123/37712
 #EXTINF:-1,Euronews Srbija HD
 https://d2o6nnfvbbufka.cloudfront.net/app-19518-0855/ngrp:RWxI5IQr_all/chunklist_w861709104_b6256000.m3u8
 #EXTINF:-1,Euronews Srbija (low)
