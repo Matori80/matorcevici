@@ -18,7 +18,7 @@ https://d2o6nnfvbbufka.cloudfront.net/app-19518-0855/ngrp:RWxI5IQr_all/chunklist
 #EXTINF:0,Kurir 
 https://kurir-tv.haste-cdn.net/providus/live2805_hq/index.m3u8 
 #EXTINF:-1,K1 HD 
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4278
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/10263
 #EXTINF:-1,: Rts 1 HD
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3882
 #EXTINF:-1, Srpska dijaspora 
@@ -344,7 +344,7 @@ http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/1093
 #EXTINF:-1,EUROSPORT 2 HD
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/1094
 #EXTINF:-1,Nova Sport
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/126
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/9288
 #EXTINF:-1,Sport Klub HD
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/1095
 #EXTINF:-1,Sport Klub 1 HR
