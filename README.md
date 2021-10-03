@@ -20,7 +20,7 @@ https://kurir-tv.haste-cdn.net/providus/live2805_hq/index.m3u8
 #EXTINF:-1,K1 HD 
 http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4278
 #EXTINF:-1,: Rts 1 HD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/42
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3882
 #EXTINF:-1, Srpska dijaspora 
 https://live.tsd-tv.com/live/tsd.m3u8 
 #EXTINF:-1, RTK 2
