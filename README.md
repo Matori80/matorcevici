@@ -68,6 +68,8 @@ http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3883
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3885
 #EXTINF:-1,RTS 3 HD/FHD
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3887
+#EXTINF:-1,SR | RTS SVET
+http://185.134.22.131:8080/Terry123/Terry123/37656
 #EXTINF:-1,RTS Å½ivot
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3896
 #EXTINF:-1,RTS Drama
@@ -205,71 +207,47 @@ http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3978
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/5882
 #EXTINF:-1,VH1
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/676
-#EXTINF:-1,VH1 Classic TV
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/301
-#EXTINF:-1,OTV Valentino
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/302
-#EXTINF:-1,Hayat Music
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/304
-#EXTINF:-1,CMC
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/305
-#EXTINF:-1,Izvorna TV
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/306
-#EXTINF:-1,Jugoton TV
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/307
-#EXTINF:-1,K::CN 2
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/308
-#EXTINF:-1,K::CN 3
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/309
-#EXTINF:-1,Sevdah TV
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/310
-#EXTINF:-1,Narodna TV
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/312
-#EXTINF:-1,Balkanika TV
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/313
-#EXTINF:-1,TV Sehara
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/314
+#EXTINF:-1,HR | MTV ADRIA
+http://185.134.22.131:8080/Terry123/Terry123/37698
 #EXTINF:-1,Top Sound
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/315
-#EXTINF:-1,Glas Drine
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/316
-#EXTINF:-1,YU Planet
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/317
-#EXTINF:-1,Vikom TV
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/318
-#EXTINF:-1,Duga+
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/319
-#EXTINF:-1,RTS Kolo
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/322
-#EXTINF:-1,DMC TV
-http://maxpanel.xyz:8000/mihailo987@gmail.com/N16eq9r5Bw/23478
+http://185.134.22.131:8080/Terry123/Terry123/37670
+#EXTINF:-1,SR | JUGOTON TV
+http://185.134.22.131:8080/Terry123/Terry123/37585
+#EXTINF:-1,SR | KCN 2
+http://185.134.22.131:8080/Terry123/Terry123/37587
+#EXTINF:-1,SR | KCN 3
+http://185.134.22.131:8080/Terry123/Terry123/37588
+#EXTINF:-1,SR | IDJ TV
+http://185.134.22.131:8080/Terry123/Terry123/37581
 #EXTINF:-1, S televizija 
-https://sradio.ipradio.rs/sradio/radiostv/chunklist_w484271802.m3u8 
+https://sradio.ipradio.rs/sradio/radiostv/chunklist_w484271802.m3u8
+#EXTINF:-1,SR | BALKANIKA
+http://185.134.22.131:8080/Terry123/Terry123/37539
 #EXTINF:-1,"==== DOKUMENTARNI- MATORČEVIĆ===="
 #EXTINF:-1,Discovery Channel
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/188
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3906
 #EXTINF:-1,National Geographic
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/189
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3912
+#EXTINF:-1,National Geographic SD
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3911
 #EXTINF:-1,Nat Geo Wild
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/190
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3910
 #EXTINF:-1,Viasat Explore
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/191
+http://185.134.22.131:8080/Terry123/Terry123/37679
 #EXTINF:-1,History Channel
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/192
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3908
 #EXTINF:-1,History Channel 2
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/193
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3909
 #EXTINF:-1,Viasat History
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/194
+http://185.134.22.131:8080/Terry123/Terry123/37680
+#EXTINF:-1,SR | VIASAT NATURE
+http://185.134.22.131:8080/Terry123/Terry123/37681
 #EXTINF:-1,Travel Channel
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/195
-#EXTINF:-1,Viasat Nature
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/196
+http://185.134.22.131:8080/Terry123/Terry123/37671
 #EXTINF:-1,Animal Planet
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/197
-#EXTINF:-1,RTS Trezor
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/198
+http://185.134.22.131:8080/Terry123/Terry123/37537
 #EXTINF:-1,24 Kitchen
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/199
+http://185.134.22.131:8080/Terry123/Terry123/37535
 #EXTINF:-1,Crime & Investigation
 http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/200
 #EXTINF:-1,Da Vinci Learning
@@ -286,229 +264,117 @@ http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/206
 http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/207
 #EXTINF:-1,Planet Earth
 http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/208
-#EXTINF:-1,BBC Earth HD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/209
 #EXTINF:-1,Food Network
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/211
-#EXTINF:-1,E!
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/212
-#EXTINF:-1,Fine Living
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/213
-#EXTINF:-1,DokuTV HD/FHD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4954
-#EXTINF:-1,Pink Kuvar
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/214
-#EXTINF:-1,Pink LOL
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/215
-#EXTINF:-1,Pink Style
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/216
-#EXTINF:-1,Pink Pedia
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/217
+http://185.134.22.131:8080/Terry123/Terry123/7183
+#EXTINF:-1, Docubox
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3907
 #EXTINF:-1,"==== DEČIJI- MATORČEVIĆ ===="
 #EXTINF:-1,Nickelodeon SR
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/325
-#EXTINF:-1,Nickelodeon HR
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/326
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3914
 #EXTINF:-1,Nick Jr. SR
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/327
-#EXTINF:-1,Nick Jr. HR
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/328
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3913
 #EXTINF:-1,RTL Kockica
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/329
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/33439
+#EXTINF:-1,SR | PIKABOO
+http://185.134.22.131:8080/Terry123/Terry123/37606
 #EXTINF:-1,Hayatovci
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/330
-#EXTINF:-1,Cartoon Network
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/331
-#EXTINF:-1,Baby TV
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/332
-#EXTINF:-1,Boomerang
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/333
-#EXTINF:-1,Disney Channel
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/334
-#EXTINF:-1,Mini TV
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/335
-#EXTINF:-1,Ultra TV
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/336
-#EXTINF:-1,TNT Kids
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/337
-#EXTINF:-1,Pikaboo
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/338
-#EXTINF:-1,Minimax
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/339
-#EXTINF:-1,Pink Super Kids
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/340
-#EXTINF:-1,Pink Kids
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/341
-#EXTINF:-1,Tom and Jerry 24h
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/343
-#EXTINF:-1,Tropik TV
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/345
-#EXTINF:-1,Masa i Medo
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/346
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3920
 #EXTINF:-1,"==== FILMSKI- MATORČEVIĆ  ===="
 #EXTINF:-1,HBO Adria HD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/219
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3923
 #EXTINF:-1,HBO 2 HD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/220
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3924
 #EXTINF:-1,HBO 3 HD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/221
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3925
 #EXTINF:-1,Cinemax 1 HD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/223
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3930
 #EXTINF:-1,Cinemax 2 HD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/224
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3929
 #EXTINF:-1,CineStar Action
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/225
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3933
 #EXTINF:-1,CineStar Fantasy
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/226
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3932
 #EXTINF:-1,CineStar Premiere 1
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/227
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3936
 #EXTINF:-1,CineStar Premiere 2
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/228
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3935
 #EXTINF:-1,CineStar TV
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/229
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3934
 #EXTINF:-1,Cinemania
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/230
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3931
 #EXTINF:-1,Diva
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/231
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3940
 #EXTINF:-1,Film Klub
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/232
+http://185.134.22.131:8080/Terry123/Terry123/37563
 #EXTINF:-1,FOX HD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/234
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3926
 #EXTINF:-1,FOX Crime HD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/235
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3927
 #EXTINF:-1,FOX Life HD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/236
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3928
 #EXTINF:-1,FOX Movies HD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/237
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3939
 #EXTINF:-1,TV 1000
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/238
-#EXTINF:-1,SuperStar
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/239
+http://185.134.22.131:8080/Terry123/Terry123/37672
 #EXTINF:-1,Kino TV
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/240
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3945
 #EXTINF:-1,Klasik TV
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/241
-#EXTINF:-1,M1 Film HD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/242
-#EXTINF:-1,SciFi
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/243
-#EXTINF:-1,AMC
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/244
-#EXTINF:-1,AXN
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/245
-#EXTINF:-1,AXN Spin
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/246
-#EXTINF:-1,M1 Family
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4942
-#EXTINF:-1,M1 Film GOLD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4943
-#EXTINF:-1,CineStar TV 2
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4944
-#EXTINF:-1,Cinestar Comedy
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4945
-#EXTINF:-1,SuperStar 2
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4933
-#EXTINF:-1,Pink Action
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/247
-#EXTINF:-1,Pink Comedy
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/248
-#EXTINF:-1,Pink Crime & Mystery
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/249
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3944
 #EXTINF:-1,Pink Film
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/250
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3982
+#EXTINF:-1,M1 Film HD
+http://185.134.22.131:8080/Terry123/Terry123/37591
+#EXTINF:-1,SciFi
+hhttp://185.134.22.131:8080/Terry123/Terry123/37663
+#EXTINF:-1,Pink Action
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3954
+#EXTINF:-1,Pink Comedy
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3955
+#EXTINF:-1,Pink Crime & Mystery
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3953
 #EXTINF:-1,Pink Movies
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/251
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3972
 #EXTINF:-1,Pink Premium
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/252
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3951
 #EXTINF:-1,Pink Romance
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/253
-#EXTINF:-1,Pink Horror
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/254
-#EXTINF:-1,Pink SciFi & Fantasy
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/255
-#EXTINF:-1,Pink Family
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/256
-#EXTINF:-1,Pink Thriler
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/257
-#EXTINF:-1,Pink Serije
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/258
-#EXTINF:-1,Pink Soap
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/259
-#EXTINF:-1,Pink Western
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/260
-#EXTINF:-1,Pink World Cinema
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/261
-#EXTINF:-1,Pink Classic
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/262
-#EXTINF:-1,Pickbox 1 HD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/263
-#EXTINF:-1,CroMax SELECT 1 HD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/264
-#EXTINF:-1,CroMax SELECT 2 HD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/265
-#EXTINF:-1,CroMax SELECT 3 HD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/266
-#EXTINF:-1,CroMax SELECT 4 HD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/267
-#EXTINF:-1,CroMax SELECT 5 HD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/268
-#EXTINF:-1,CroMax SELECT 6 HD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/269
-#EXTINF:-1,CroMax SELECT 7 HD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/270
-#EXTINF:-1,CroMax SELECT 8 HD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/271
-#EXTINF:-1,CroMax SELECT 9 HD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/272
-#EXTINF:-1,CroMax SELECT Gold HD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/273
-#EXTINF:-1,CroMax SELECT Premium HD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/274
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3949
 #EXTINF:-1,"==== SPORTSKI- MATORČEVIĆ  ===="
 #EXTINF:-1,EUROSPORT 1 HD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/124
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/1093
 #EXTINF:-1,EUROSPORT 2 HD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/125
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/1094
 #EXTINF:-1,Nova Sport
 http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/126
 #EXTINF:-1,Sport Klub HD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/127
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/1095
 #EXTINF:-1,Sport Klub 1 HR
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/128
+hhttp://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/1095
 #EXTINF:-1,Sport Klub 2 HR
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/129
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/1096
 #EXTINF:-1,Sport Klub 3 HR
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/130
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/1097
 #EXTINF:-1,Sport Klub 1
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/131
+http://185.134.22.131:8080/Terry123/Terry123/43092
 #EXTINF:-1,Sport Klub 2
 http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/132
 #EXTINF:-1,Sport Klub 3
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/133
+http://185.134.22.131:8080/Terry123/Terry123/43093
 #EXTINF:-1,Sport Klub 4
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/134
+hhttp://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/1098
 #EXTINF:-1,Sport Klub 5
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/135
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/1099
 #EXTINF:-1,Sport Klub 6
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/136
-#EXTINF:-1,Sport Klub 7
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/137
-#EXTINF:-1,Sport Klub 8
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/138
-#EXTINF:-1,Sport Klub 9
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/139
-#EXTINF:-1,Sport Klub 10
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/140
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/1100
 #EXTINF:-1,Arena Sport 1 HD/FHD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/144
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4575
 #EXTINF:-1,Arena Sport 2 HD/FHD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/145
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4576
 #EXTINF:-1,Arena Sport 3 HD/FHD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/146
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4577
 #EXTINF:-1,Arena Sport 4 HD/FHD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/147
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4868
 #EXTINF:-1,Arena Sport 5 HD/FHD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/148
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4869
 #EXTINF:-1,Arena Sport 1 SD
 http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/149
 #EXTINF:-1,Arena Sport 2 SD
@@ -529,126 +395,42 @@ http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/156
 http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/157
 #EXTINF:-1,Arena Sport 6 HR HD/FHD
 http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/158
-#EXTINF:-1,Moja TV Premier Liga BiH
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/159
-#EXTINF:-1,DAZN 1 Bar
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/160
-#EXTINF:-1,DAZN 2 Bar
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/161
-#EXTINF:-1,BeIN Sports 1 HD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/162
-#EXTINF:-1,BeIN Sports 2 HD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/163
-#EXTINF:-1,BeIN Sports 3 HD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/164
-#EXTINF:-1,BeIN Sports 4 HD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/165
-#EXTINF:-1,BeIN Sports 5 HD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/166
-#EXTINF:-1,BeIN Sports 6 HD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/167
-#EXTINF:-1,BeIN Sports 7 HD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/168
-#EXTINF:-1,BeIN Sports 8 HD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/169
-#EXTINF:-1,BeIN Sports 9 HD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/170
-#EXTINF:-1,BeIN Sports 10 HD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/171
-#EXTINF:-1,BT Sport 1
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/173
-#EXTINF:-1,BT Sport 2
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/174
-#EXTINF:-1,UFC Fight Pass
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/175
-#EXTINF:-1,NBA TV
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/176
-#EXTINF:-1,Fight Channel
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/177
-#EXTINF:-1,HNTV
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/178
-#EXTINF:-1,Kreator TV
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/179
-#EXTINF:-1,Lov i Ribolov
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/180
-#EXTINF:-1,Sport Digital HD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/181
-#EXTINF:-1,Real Madrid TV
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/182
-#EXTINF:-1,Barca TV
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/183
-#EXTINF:-1,Bayern TV
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/184
-#EXTINF:-1,Sportska TV
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/185
-#EXTINF:-1,SOS
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/186
-#EXTINF:-1,Zvezda TV
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1827
-#EXTINF:-1,TV Partizan
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/1828
-#EXTINF:-1,Arena Sport 7 HR HD/FHD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4946
-#EXTINF:-1,Arena Sport 8 HR HD/FHD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4947
-#EXTINF:-1,Arena Sport 9 HR HD/FHD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4948
-#EXTINF:-1,Arena Sport 10 HR HD/FHD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4949
-#EXTINF:-1,Sky Sport Crcket HD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4950
-#EXTINF:-1,Sky Sport Football HD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4951
-#EXTINF:-1,Elta TV 1  HD (TEST)
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4952
-#EXTINF:-1,Elta TV 2 (TEST)
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4953
-#EXTINF:-1,DokuTV HD/FHD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4954
-#EXTINF:-1,Sky Sport Newz DE HD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4955
-#EXTINF:-1,Sky Sport AT HD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4956
-#EXTINF:-1,Sky Sport Golf HD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4957
-#EXTINF:-1,RMC Sport 1 HD/FHD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4958
-#EXTINF:-1,RMC Sport 2 HD/FHD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4959
-#EXTINF:-1,RMC Sport 3 HD/FHD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4960
-#EXTINF:-1,RMC Sport 4 HD/FHD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4961
-#EXTINF:-1,RMC Sport 5 HD/FHD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4962
-#EXTINF:-1,ESPN 1
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4963
-#EXTINF:-1,ESPN 2 HD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4964
-#EXTINF:-1,ESPN 3 HD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4965
-#EXTINF:-1,ESPN 4 HD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4966
-#EXTINF:-1,ESPN 5 HD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4967
-#EXTINF:-1,Eleven Sports 1 HD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4968
-#EXTINF:-1,Eleven Sports 2 HD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4969
-#EXTINF:-1,Eleven Sports 3 HD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4970
-#EXTINF:-1,Eleven Sports 4 HD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4971
-#EXTINF:-1,Ziggo Sport Golf NL
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4972
-#EXTINF:-1,Digi Sport 4 RO
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4973
-#EXTINF:-1,Super Sports 1 HD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4974
-#EXTINF:-1,Super Sports 2 HD
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4975
-#EXTINF:-1,Manchester United TV
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4976
+#EXTINF:-1,DE | S SPORT 1
+http://185.134.22.131:8080/Terry123/Terry123/54676
+#EXTINF:-1,DE | S SPORT 2
+http://185.134.22.131:8080/Terry123/Terry123/54677
+#EXTINF:-1,DE | S SPORT 3 HD (LIVE EVENT)
+http://185.134.22.131:8080/Terry123/Terry123/54678
+#EXTINF:-1,DE | S SPORT 4 HD (LIVE EVENT)
+http://185.134.22.131:8080/Terry123/Terry123/54679
+#EXTINF:-1,DE | S SPORT 5 HD (LIVE EVENT)
+http://185.134.22.131:8080/Terry123/Terry123/54680
+#EXTINF:-1,DE | S SPORT 6 HD (LIVE EVENT)
+http://185.134.22.131:8080/Terry123/Terry123/54681
+#EXTINF:-1,DE | S SPORT 7 HD (LIVE EVENT)
+http://185.134.22.131:8080/Terry123/Terry123/54682
+#EXTINF:-1,DE | S SPORT 8 HD (LIVE EVENT)
+http://185.134.22.131:8080/Terry123/Terry123/54683
+#EXTINF:-1,DE | S SPORT 9 HD (LIVE EVENT)
+http://185.134.22.131:8080/Terry123/Terry123/54684
+#EXTINF:-1,DE | S SPORT AUSTRIA
+http://185.134.22.131:8080/Terry123/Terry123/54685
+#EXTINF:-1,DE | S SPORT BUNDESLIGA 1
+http://185.134.22.131:8080/Terry123/Terry123/54686
+#EXTINF:-1,DE | S SPORT BUNDESLIGA 2 HD (LIVE EVENT)
+http://185.134.22.131:8080/Terry123/Terry123/54687
+#EXTINF:-1,DE | S SPORT BUNDESLIGA 3 HD (LIVE EVENT)
+http://185.134.22.131:8080/Terry123/Terry123/54688
+#EXTINF:-1,DE | SKY SPORT BUNDESLIGA 4 HD (LIVE EVENT)
+http://185.134.22.131:8080/Terry123/Terry123/54689
+#EXTINF:-1,DE | S SPORT BUNDESLIGA 5 HD (LIVE EVENT)
+http://185.134.22.131:8080/Terry123/Terry123/54690
+#EXTINF:-1,DE | SKY SPORT BUNDESLIGA 6 HD (LIVE EVENT)
+http://185.134.22.131:8080/Terry123/Terry123/54691
+#EXTINF:-1,DE | S SPORT NEWS
+http://185.134.22.131:8080/Terry123/Terry123/54692
+#EXTINF:-1,DE | S SPORT NEWS
+http://185.134.22.131:8080/Terry123/Terry123/54693
 #EXTINF:-1,"==== PORNIĆI - MATORČEVIĆ ===="
 #EXTINF:-1, A SUMMER IN THE COUNTRY
 http://185.134.22.131:8080/Terry123/Terry123/53267
