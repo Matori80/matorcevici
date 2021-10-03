@@ -1,6 +1,6 @@
 #EXTINF:-1,"==== KANALI - TV MATORCEVIĆ - PUDARCI ===="
 #EXTINF:-1,N1 SRB
-http://185.134.22.131:8080/Terry123/Terry123/37597
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/9271
 #EXTINF:-1,N1(Beckup)
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3893
 #EXTINF:-1,NOVA S
@@ -108,7 +108,116 @@ http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3640
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3959
 #EXTINF:-1,Pink Ha Ha
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3979
+#EXTINF:-1,RTS 1 HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/521
+#EXTINF:-1,RTS 2 HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/520
+#EXTINF:-1,RTS 1
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/6886
+#EXTINF:-1,RTS 2
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/9353
+#EXTINF:-1,RTS 3
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/519
+#EXTINF:-1,RTS Svet HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/516
+#EXTINF:-1,RTS Drama
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/518
+#EXTINF:-1,RTS Zivot
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/517
+#EXTINF:-1,RTS Kolo
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/6399
+#EXTINF:-1,RTS Muzika
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/6398
+#EXTINF:-1,RTS Trezor
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/6400
+#EXTINF:-1,Kurir TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/9305
+#EXTINF:-1,K1 HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/10263
+#EXTINF:-1,Agro TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8865
+#EXTINF:-1,Happy TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/567
+#EXTINF:-1,HAPPY PAROVI 24 SATA
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/568
+#EXTINF:-1,ZADRUGA LIVE 1
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/6334
+#EXTINF:-1,ZADRUGA LIVE 2
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8217
+#EXTINF:-1,ZADRUGA LIVE 3
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8218
+#EXTINF:-1,ZADRUGA LIVE 4
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8501
+#EXTINF:-1,B92 TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8022
+#EXTINF:-1,B92 TV HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/594
+#EXTINF:-1,Prva TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8021
+#EXTINF:-1,Prva HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/539
+#EXTINF:-1,Prva Max
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/538
+#EXTINF:-1,Prva Plus
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/537
+#EXTINF:-1,Prva Kick
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/3649
+#EXTINF:-1,Prva World
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/536
+#EXTINF:-1,Prva Files
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/545
+#EXTINF:-1,N1 SRB
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/9271
+#EXTINF:-1,NOVA S
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/9274
+#EXTINF:-1,K::CN 1
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/400
+#EXTINF:-1,K::CN 2
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/399
+#EXTINF:-1,K::CN 3
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/398
+#EXTINF:-1,Super Sat HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12101
+#EXTINF:-1,RTV Vojvodina
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/513
+#EXTINF:-1,Studio B
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/3650
+#EXTINF:-1,Palma Plus
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/3666
+#EXTINF:-1,Belle Amie
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/3665
+#EXTINF:-1,BK
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/6524
+#EXTINF:-1,Puls TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/515
+#EXTINF:-1,Hram TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8227
+#EXTINF:-1,Televizija Srpske Dijaspore
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/10266
+#EXTINF:-1,RTV Novi Pazar
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/512
 #EXTINF:-1,"==== CRNA GORA- MATORČEVIĆ ===="
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/6485
+#EXTINF:-1,RTCG 1
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/534
+#EXTINF:-1,RTCG 2
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/533
+#EXTINF:-1,RTCG Sat
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/535
+#EXTINF:-1,Prva TV CG
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/532
+#EXTINF:-1,Vijesti 24
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/531
+#EXTINF:-1,PINK M
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/6429
+#EXTINF:-1,NOVA M
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/9281
+#EXTINF:-1,Montenegro Luxemburg
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/7330
+#EXTINF:-1,Rozaje TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8574
+#EXTINF:-1,Islam Montenegro
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8575
 #EXTINF:-1,Pink M
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3973
 #EXTINF:-1,"==== HRVATSKI KANALI- MATORČEVIĆ ===="
@@ -145,6 +254,136 @@ http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3336
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3346
 #EXTINF:-1,Aurora TV
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3337
+#EXTINF:-1,HRT 1 HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/560
+#EXTINF:-1,HRT 2 HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/6049
+#EXTINF:-1,HRT 3 HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/558
+#EXTINF:-1,HRT 4 HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/557
+#EXTINF:-1,HRT 1
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/6858
+#EXTINF:-1,HRT 2
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/559
+#EXTINF:-1,HRT 3
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/6859
+#EXTINF:-1,HRT 4
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/6860
+#EXTINF:-1,HRT 5
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/556
+#EXTINF:-1,HRT 1 HD (Hevc)
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12097
+#EXTINF:-1,HRT 2 HD (Hevc)
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12100
+#EXTINF:-1,HRT 3 HD (Hevc)
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12098
+#EXTINF:-1,HRT 4 HD (Hevc)
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12099
+#EXTINF:-1,Rtl Croatia World
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/10165
+#EXTINF:-1,RTL Adria
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8629
+#EXTINF:-1,RTL HR
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/7516
+#EXTINF:-1,RTL HR HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8220
+#EXTINF:-1,RTL HR HD (Hevc)
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12092
+#EXTINF:-1,RTL 2 HR
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/7519
+#EXTINF:-1,RTL 2 HR HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8298
+#EXTINF:-1,RTL 2 HR HD (Hevc)
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12093
+#EXTINF:-1,RTL Passion
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/7518
+#EXTINF:-1,RTL Passion FHD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8281
+#EXTINF:-1,RTL Crime
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/7517
+#EXTINF:-1,RTL Crime FHD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8299
+#EXTINF:-1,RTL Living
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8001
+#EXTINF:-1,RTL Living FHD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8301
+#EXTINF:-1,N1 HR
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/9272
+#EXTINF:-1,NOVA TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/9270
+#EXTINF:-1,NOVA TV HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/9278
+#EXTINF:-1,NOVA TV HD (Hevc)
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12090
+#EXTINF:-1,DOMA TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/9286
+#EXTINF:-1,DOMA TV HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/9287
+#EXTINF:-1,DOMA TV HD (Hevc)
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12091
+#EXTINF:-1,Z1
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/499
+#EXTINF:-1,Laudato TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/553
+#EXTINF:-1,Mreza Zagreb
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8041
+#EXTINF:-1,Mreza Split
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8042
+#EXTINF:-1,Banovina TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/593
+#EXTINF:-1,Prigorska TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8863
+#EXTINF:-1,Osjecka TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/554
+#EXTINF:-1,Vinkovacka TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/5845
+#EXTINF:-1,TV SIBENIK
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8855
+#EXTINF:-1,TV KARLOVAC
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8856
+#EXTINF:-1,Posavina TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/397
+#EXTINF:-1,Slavonska Televizija
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/555
+#EXTINF:-1,Jabuka TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/6331
+#EXTINF:-1,KanalR
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/6330
+#EXTINF:-1,Libertas TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/6329
+#EXTINF:-1,Poljoprivredna TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/6328
+#EXTINF:-1,SBTV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/6326
+#EXTINF:-1,Srce TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/6324
+#EXTINF:-1,TV Dubrovnik
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/6323
+#EXTINF:-1,Dubrovacka Televizija
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/6322
+#EXTINF:-1,TV Istra
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/6321
+#EXTINF:-1,TV Jadran
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/6320
+#EXTINF:-1,Capital TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/6502
+#EXTINF:-1,Zdrava TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8886
+#EXTINF:-1,Klape i Tambure
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/10237
+#EXTINF:-1,VTV TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/10245
+#EXTINF:-1,TV TREND KARLOVAC
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/10246
+#EXTINF:-1,MARY TV MEDJUGORJE
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/10247
+#EXTINF:-1,MARS TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/10248
+#EXTINF:-1,OTV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/10249
+#EXTINF:-1,CRO TV HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/10497
 #EXTINF:-1,"==== BOSNA I HERCEGOVINA KANALI- MATORČEVIĆ ===="
 #EXTINF:-1,BHT 1
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3616
@@ -184,6 +423,168 @@ http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3636
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3641
 #EXTINF:-1,Alfa TV
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3632
+#EXTINF:-1,Federalna TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/572
+#EXTINF:-1,BHT 1 HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/592
+#EXTINF:-1,RTRS
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/523
+#EXTINF:-1,RTRS Plus
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/7274
+#EXTINF:-1,Al Jazeera Balkans HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/600
+#EXTINF:-1,OBN
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/541
+#EXTINF:-1,OBN.
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/9237
+#EXTINF:-1,Face Tv HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/573
+#EXTINF:-1,Hayat HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/566
+#EXTINF:-1,Hayat Plus
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/563
+#EXTINF:-1,NOVA BH
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/9279
+#EXTINF:-1,NOVA BH.
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/9280
+#EXTINF:-1,N1 BIH
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/9273
+#EXTINF:-1,ATV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/597
+#EXTINF:-1,BN TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/590
+#EXTINF:-1,BN TV.
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8847
+#EXTINF:-1,BN 2 TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/10233
+#EXTINF:-1,O Kanal
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/508
+#EXTINF:-1,K3 Prnjavor
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/509
+#EXTINF:-1,HIT
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/5749
+#EXTINF:-1,ELTA
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8849
+#EXTINF:-1,ELTA 2
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8850
+#EXTINF:-1,Neon TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/9192
+#EXTINF:-1,Bosansko Posavska TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/9065
+#EXTINF:-1,RTV HB
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/6762
+#EXTINF:-1,RTV Cazin
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/6901
+#EXTINF:-1,RTV Sana
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8661
+#EXTINF:-1,RTV Podrinje
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/7467
+#EXTINF:-1,RTV Vogosca
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/5748
+#EXTINF:-1,RTV Krajina
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/9066
+#EXTINF:-1,TV Sarajevo HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/511
+#EXTINF:-1,PRVA HERCEGOVACKA
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/10250
+#EXTINF:-1,SUPER TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/10251
+#EXTINF:-1,KANAL 6 HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/10252
+#EXTINF:-1,CITY TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/10253
+#EXTINF:-1,NTV 101
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/10264
+#EXTINF:-1,RTV Lukavac
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/10265
+#EXTINF:-1,Alfa TV Sarajevo
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/5600
+#EXTINF:-1,TV TK
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/3687
+#EXTINF:-1,TV 7 Tuzla
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8901
+#EXTINF:-1,USK HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/506
+#EXTINF:-1,Bugojno TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/7429
+#EXTINF:-1,Glas Drine
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/5596
+#EXTINF:-1,B1 Gradacac
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/6736
+#EXTINF:-1,NTV IC Kakanj
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/5603
+#EXTINF:-1,TV Zenica
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/5598
+#EXTINF:-1,RTV Slon Extra
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/510
+#EXTINF:-1,MIR TV HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/6457
+#EXTINF:-1,MTV Igman
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/3795
+#EXTINF:-1,VIKOM
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8852
+#EXTINF:-1,HEMA
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/5660
+#EXTINF:-1,TV 5 HD Islam
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/5477
+#EXTINF:-1,Mekka TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/5602
+#EXTINF:-1,BIR TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8899
+#EXTINF:-1,Sandzak TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/6026
+#EXTINF:-1,Sehara TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/5366
+#EXTINF:-1,TV Visoko
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/395
+#EXTINF:-1,TATABRADA TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/10267
+#EXTINF:-1,==== DOBRA TV ====
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8585
+#EXTINF:-1,DOBRA BALKANSKA
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8576
+#EXTINF:-1,DOBRA BOSNJACKA
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8577
+#EXTINF:-1,DOBRA CINEMA
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8578
+#EXTINF:-1,DOBRA CRNOGORSKA
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8579
+#EXTINF:-1,DOBRA DJECIJA
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8580
+#EXTINF:-1,DOBRA DUHOVNOST
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8581
+#EXTINF:-1,DOBRA EXCLUSIVE
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8582
+#EXTINF:-1,DOBRA HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8583
+#EXTINF:-1,DOBRA HRVATSKA
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8584
+#EXTINF:-1,DOBRA ISLAMSKA
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8586
+#EXTINF:-1,DOBRA MUZICKA
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8587
+#EXTINF:-1,DOBRA NASHEED
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8588
+#EXTINF:-1,DOBRA PLUS
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8589
+#EXTINF:-1,DOBRA PRAVOSLAVNA
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8590
+#EXTINF:-1,DOBRA RUSKA
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8591
+#EXTINF:-1,DOBRA S. MAKEDONSKA
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8592
+#EXTINF:-1,DOBRA SEVDAH
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8593
+#EXTINF:-1,DOBRA SPORTSKA
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8594
+#EXTINF:-1,DOBRA SRPSKA
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8595
+#EXTINF:-1,DOBRA SVADBA
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8596
+#EXTINF:-1,DOBRA TRAVEL
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8597
+#EXTINF:-1,DOBRA WORLD MUSIC
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8598
 #EXTINF:-1,"==== MUZIČKI- MATORČEVIĆ  ===="
 #EXTINF:-1,DM Sat
 http://beams-tv.stream:80/madturnip07@yahoo.com/8832554033/988
@@ -223,6 +624,55 @@ http://185.134.22.131:8080/Terry123/Terry123/37581
 https://sradio.ipradio.rs/sradio/radiostv/chunklist_w484271802.m3u8
 #EXTINF:-1,SR | BALKANIKA
 http://185.134.22.131:8080/Terry123/Terry123/37539
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/9064
+#EXTINF:-1,Balkanika TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/391
+#EXTINF:-1,MTV Adria
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/551
+#EXTINF:-1,MTV Hits
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/394
+#EXTINF:-1,MTV Dance
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/392
+#EXTINF:-1,MTV BASE
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/10260
+#EXTINF:-1,MTV ROCKS
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/10261
+#EXTINF:-1,MTV MUSIC
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/10262
+#EXTINF:-1,VH1 Classic TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/504
+#EXTINF:-1,CMC
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/588
+#EXTINF:-1,BN Music
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/591
+#EXTINF:-1,IDJ TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/9283
+#EXTINF:-1,Grand
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/9275
+#EXTINF:-1,Grand 2
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/9276
+#EXTINF:-1,DM Sat
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/406
+#EXTINF:-1,YU Planet
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/9038
+#EXTINF:-1,Top Sound
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8864
+#EXTINF:-1,Duga TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/5416
+#EXTINF:-1,Izvorna TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/402
+#EXTINF:-1,Jugoton TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/401
+#EXTINF:-1,Narodna TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/393
+#EXTINF:-1,OTV Valentino
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/540
+#EXTINF:-1,Hayat Music
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/564
+#EXTINF:-1,Sevdah TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/396
+#EXTINF:-1,Hayat Folk
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/565
 #EXTINF:-1,"==== DOKUMENTARNI- MATORČEVIĆ===="
 #EXTINF:-1,Discovery Channel
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3906
@@ -268,6 +718,75 @@ http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/208
 http://185.134.22.131:8080/Terry123/Terry123/7183
 #EXTINF:-1, Docubox
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3907
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/1545
+#EXTINF:-1,NOVA DOKU
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/10319
+#EXTINF:-1,National Geographic
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/6303
+#EXTINF:-1,National Geographic HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/546
+#EXTINF:-1,Animal Planet
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/598
+#EXTINF:-1,Animal Planet HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8848
+#EXTINF:-1,Nat Geo Wild
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/547
+#EXTINF:-1,Discovery Channel
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/583
+#EXTINF:-1,Discovery Science HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/581
+#EXTINF:-1,Discovery ID
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/7275
+#EXTINF:-1,Discovery TLC
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/579
+#EXTINF:-1,Discovery Turbo Xtra
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/578
+#EXTINF:-1,Entertaimment +
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/3664
+#EXTINF:-1,CBS Reality
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/589
+#EXTINF:-1,Crime & Investigation
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/585
+#EXTINF:-1,Da Vinci Learning
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/584
+#EXTINF:-1,Viasat Explore
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/503
+#EXTINF:-1,Viasat History HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/502
+#EXTINF:-1,Viasat Nature
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/501
+#EXTINF:-1,Balkan Trip
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/10270
+#EXTINF:-1,DR FIT
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/524
+#EXTINF:-1,Woman TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8866
+#EXTINF:-1,Travel XP HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8867
+#EXTINF:-1,HGTV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/6298
+#EXTINF:-1,Travel Channel HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/3651
+#EXTINF:-1,Planet Earth
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/5389
+#EXTINF:-1,BBC Earth HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/5677
+#EXTINF:-1,DOKU TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/5673
+#EXTINF:-1,Docu Box HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/577
+#EXTINF:-1,History Channel
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/561
+#EXTINF:-1,History Channel 2
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/569
+#EXTINF:-1,Food Network
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/6314
+#EXTINF:-1,24 Kitchen
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/601
+#EXTINF:-1,Fashion TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/587
+#EXTINF:-1,Nova Documentary
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12082
 #EXTINF:-1,"==== DEČIJI- MATORČEVIĆ ===="
 #EXTINF:-1,Nickelodeon SR
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3914
@@ -279,6 +798,65 @@ http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/33439
 http://185.134.22.131:8080/Terry123/Terry123/37606
 #EXTINF:-1,Hayatovci
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3920
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/390
+#EXTINF:-1,MINIMAX
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/384
+#EXTINF:-1,MINIMAX SRB
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/6545
+#EXTINF:-1,Nickelodeon
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/382
+#EXTINF:-1,Nickelodeon SRB
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/6864
+#EXTINF:-1,Dexy TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/10269
+#EXTINF:-1,Nick Jr.
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/383
+#EXTINF:-1,Nicktoons
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8861
+#EXTINF:-1,Nick Hits
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8862
+#EXTINF:-1,Hayatovci
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/562
+#EXTINF:-1,Mini TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/9282
+#EXTINF:-1,Pikaboo
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/9285
+#EXTINF:-1,Baby TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/388
+#EXTINF:-1,RTL KOCKICA
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/7520
+#EXTINF:-1,Cartoon Network
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/389
+#EXTINF:-1,VAVOOM
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/10255
+#EXTINF:-1,DUCK TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/10256
+#EXTINF:-1,Nova Kids
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12085
+#EXTINF:-1,GORA KIDS HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/10259
+#EXTINF:-1,CROMAX SELECT KIDS HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/10257
+#EXTINF:-1,CROMAX SELECT KIDS 2 HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/10258
+#EXTINF:-1,Ginx TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/10268
+#EXTINF:-1,Disney channel
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/386
+#EXTINF:-1,Boomerang
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/387
+#EXTINF:-1,Pink Super Kids
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8048
+#EXTINF:-1,Pink Panter TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8232
+#EXTINF:-1,Grizzy & the Lemmings
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8233
+#EXTINF:-1,Tom and Jerry
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8046
+#EXTINF:-1,PEPA PRASE
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/10029
+#EXTINF:-1,MASA I MEDVJED
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/5671
 #EXTINF:-1,"==== FILMSKI- MATORČEVIĆ  ===="
 #EXTINF:-1,HBO Adria HD
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3923
@@ -338,6 +916,135 @@ http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3972
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3951
 #EXTINF:-1,Pink Romance
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3949
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/436
+#EXTINF:-1,NOVA PREMIUM HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8219
+#EXTINF:-1,HBO 1 HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/419
+#EXTINF:-1,HBO 2 HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/418
+#EXTINF:-1,HBO 3 HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/417
+#EXTINF:-1,Cinemax 1 HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/435
+#EXTINF:-1,Cinemax 2 HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/434
+#EXTINF:-1,CineStar Premiere 1
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/6543
+#EXTINF:-1,CineStar Premiere 2
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/6542
+#EXTINF:-1,CineStar Premiere 1 HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/431
+#EXTINF:-1,CineStar Premiere 2 HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/430
+#EXTINF:-1,CineStar TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/429
+#EXTINF:-1,CineStar TV 2 HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8304
+#EXTINF:-1,CineStar Fantasy
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/432
+#EXTINF:-1,Cinestar Action
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/433
+#EXTINF:-1,Cinestar Comedy
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/10320
+#EXTINF:-1,Cinemania HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/9284
+#EXTINF:-1,FOX
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/423
+#EXTINF:-1,FOX Crime
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/422
+#EXTINF:-1,FOX Life
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/421
+#EXTINF:-1,FOX Movies
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/420
+#EXTINF:-1,FOX HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/6305
+#EXTINF:-1,FOX LIFE HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/6307
+#EXTINF:-1,FOX CRIME HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/6306
+#EXTINF:-1,FOX MOVIES HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/6308
+#EXTINF:-1,FOX BUSINES HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8851
+#EXTINF:-1,FOX PREMIUM FAMILY HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/10254
+#EXTINF:-1,SUPER STAR TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/6270
+#EXTINF:-1,Superstar 2
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/6748
+#EXTINF:-1,TV 1000
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/408
+#EXTINF:-1,Film Box Plus
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/5510
+#EXTINF:-1,Film Box Extra HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/424
+#EXTINF:-1,Epic Drama
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/6656
+#EXTINF:-1,AMC
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/599
+#EXTINF:-1,Diva
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/576
+#EXTINF:-1,SciFi
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/409
+#EXTINF:-1,AXN
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/596
+#EXTINF:-1,AXN Spin
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/595
+#EXTINF:-1,Comedy Central Extra
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/586
+#EXTINF:-1,Klasik Tv
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/415
+#EXTINF:-1,Film Klub
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8303
+#EXTINF:-1,Kino TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/416
+#EXTINF:-1,M1 Film
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/414
+#EXTINF:-1,M1 Gold
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8900
+#EXTINF:-1,PickBox TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8563
+#EXTINF:-1,Nova Cinema 2K
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12086
+#EXTINF:-1,Nova Cinema 1
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/10188
+#EXTINF:-1,Nova Cinema 2
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/10189
+#EXTINF:-1,Nova Family
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12084
+#EXTINF:-1,CROMAX Balkan 1 HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/9343
+#EXTINF:-1,CROMAX Balkan 2 HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/9342
+#EXTINF:-1,CROMAX KINO HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/6274
+#EXTINF:-1,MAX FILMS HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/6273
+#EXTINF:-1,CROMAX Select (Gold) HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/3799
+#EXTINF:-1,CROMAX Select (Premium) HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/3798
+#EXTINF:-1,CROMAX Select (Horor) HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/5467
+#EXTINF:-1,CROMAX Select 1 HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/426
+#EXTINF:-1,CROMAX Select 2 HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/5468
+#EXTINF:-1,CROMAX Select 3 HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/5469
+#EXTINF:-1,CROMAX Select 4 HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/5470
+#EXTINF:-1,CROMAX Select 5 HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/5471
+#EXTINF:-1,CROMAX Select 6 HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/5472
+#EXTINF:-1,CROMAX Select 7 HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/5473
+#EXTINF:-1,CROMAX Select 8 HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/5474
+#EXTINF:-1,CROMAX Select 9 HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/547
 #EXTINF:-1,"==== SPORTSKI- MATORČEVIĆ  ===="
 #EXTINF:-1,EUROSPORT 1 HD
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/1093
@@ -431,6 +1138,214 @@ http://185.134.22.131:8080/Terry123/Terry123/54691
 http://185.134.22.131:8080/Terry123/Terry123/54692
 #EXTINF:-1,DE | S SPORT NEWS
 http://185.134.22.131:8080/Terry123/Terry123/54693
+#EXTINF:-1,Arena Sport 1
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/495
+#EXTINF:-1,Arena Sport 2
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12045
+#EXTINF:-1,Arena Sport 3
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12046
+#EXTINF:-1,Arena Sport 4
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12047
+#EXTINF:-1,Arena Sport 5
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/491
+#EXTINF:-1,Arena Sport 1 HD BIH
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/6776
+#EXTINF:-1,Arena Sport 1 HD SRB
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/490
+#EXTINF:-1,Arena Sport 2 HD SRB
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12051
+#EXTINF:-1,Arena Sport 3 HD SRB
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12050
+#EXTINF:-1,Arena Sport 4 HD SRB
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12049
+#EXTINF:-1,Arena Sport 1 HD HR
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/486
+#EXTINF:-1,Arena Sport 2 HD HR
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/485
+#EXTINF:-1,Arena Sport 3 HD HR
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12052
+#EXTINF:-1,Arena Sport 4 HD HR
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12053
+#EXTINF:-1,Arena Sport 5 HD HR
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/482
+#EXTINF:-1,Arena Sport 6 HD HR
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/481
+#EXTINF:-1,Arena Sport 7 HD HR
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12106
+#EXTINF:-1,Arena Sport 8 HD HR
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12107
+#EXTINF:-1,Arena Sport 9 HD HR
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12108
+#EXTINF:-1,Arena Sport 10 HD HR
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12109
+#EXTINF:-1,Sport Klub HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/9301
+#EXTINF:-1,Sport Klub 1 HD SRB
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12037
+#EXTINF:-1,Sport Klub 2 HD SRB
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12038
+#EXTINF:-1,Sport Klub 3 HD SRB
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12039
+#EXTINF:-1,Sport Klub 4 SRB
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12040
+#EXTINF:-1,Sport Klub 5 SRB
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/9293
+#EXTINF:-1,Sport Klub 6 SRB
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12001
+#EXTINF:-1,Sport Klub 1 HD HR
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12041
+#EXTINF:-1,Sport Klub 2 HD HR
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12042
+#EXTINF:-1,Sport Klub 3 HD HR
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12043
+#EXTINF:-1,Sport Klub 4 HR
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12044
+#EXTINF:-1,Sport Klub 5 HR
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/9299
+#EXTINF:-1,Sport Klub 6 HR
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/9300
+#EXTINF:-1,Sport Klub 7
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12239
+#EXTINF:-1,Sport Klub 8
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12236
+#EXTINF:-1,Sport Klub 9
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12237
+#EXTINF:-1,Sport Klub 10
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12238
+#EXTINF:-1,Nova Sport HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/9288
+#EXTINF:-1,Sport Klub Esport
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/9302
+#EXTINF:-1,Sport Klub Golf
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/9303
+#EXTINF:-1,Sky Sport 1 HD (DE)
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12055
+#EXTINF:-1,Sky Sport 2 HD (DE)
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12056
+#EXTINF:-1,Sky Sport 3 HD (DE)
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12057
+#EXTINF:-1,Sky Sport 4 HD (DE)
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12058
+#EXTINF:-1,Sky Sport 5 HD (DE)
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12059
+#EXTINF:-1,Sky Sport 6 HD (DE)
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12060
+#EXTINF:-1,Sky Sport 7 HD (DE)
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12061
+#EXTINF:-1,Sky Sport 8 HD (DE)
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12062
+#EXTINF:-1,Sky Sport 9 HD (DE)
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12063
+#EXTINF:-1,Sky Sport 10 HD (DE)
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12064
+#EXTINF:-1,Sky Bundesliga 1 HD (DE)
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12065
+#EXTINF:-1,Sky Bundesliga 2 HD (DE)
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12066
+#EXTINF:-1,Sky Bundesliga 3 HD (DE)
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12067
+#EXTINF:-1,Sky Bundesliga 4 HD (DE)
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12068
+#EXTINF:-1,Sky Bundesliga 5 HD (DE)
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12069
+#EXTINF:-1,Sky Bundesliga 6 HD (DE)
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12070
+#EXTINF:-1,SKY Sport News HD (DE)
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12054
+#EXTINF:-1,Sky Sport Austria 1
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12075
+#EXTINF:-1,Sky Sport F1 (DE)
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12078
+#EXTINF:-1,DAZN 1
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12076
+#EXTINF:-1,DAZN 2
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12077
+#EXTINF:-1,BT Sport 1 HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12071
+#EXTINF:-1,BT Sport 2 HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12072
+#EXTINF:-1,BT Sport 3 HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12073
+#EXTINF:-1,Moja TV Premier Liga BiH
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/480
+#EXTINF:-1,Lov i Ribolov
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/9304
+#EXTINF:-1,Extreme Sports
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/10478
+#EXTINF:-1,FIGHT CHANNEL HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/9277
+#EXTINF:-1,SPORT TV 1 HD SLO
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/12074
+#EXTINF:-1,SPORT TV 2 HD SLO
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/214
+#EXTINF:-1,SPORT TV 3 HD SLO
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/213
+#EXTINF:-1,EUROSPORT 1 HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/6540
+#EXTINF:-1,EUROSPORT 2 HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/467
+#EXTINF:-1,ELEVEN SP 1 FHD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/5764
+#EXTINF:-1,ELEVEN SP 2 FHD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/5765
+#EXTINF:-1,ELEVEN SP 3 FHD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/5766
+#EXTINF:-1,TELEKOM FUSSBALL 1 HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/6658
+#EXTINF:-1,EUROSPORT 1 DE
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/6296
+#EXTINF:-1,EUROSPORT 2 DE
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/6297
+#EXTINF:-1,BN_SP1
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/9255
+#EXTINF:-1,BN_SP2
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/9256
+#EXTINF:-1,BN_SP3
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/9257
+#EXTINF:-1,BN_SP4
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/9258
+#EXTINF:-1,BN_SP5
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/9259
+#EXTINF:-1,BN_SP6
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/9260
+#EXTINF:-1,BN_SP7
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/9261
+#EXTINF:-1,BN_SP8
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/9262
+#EXTINF:-1,BN_SP9
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/9263
+#EXTINF:-1,BN_SP10
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/9264
+#EXTINF:-1,Sport Digital HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/461
+#EXTINF:-1,Motorvision HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/327
+#EXTINF:-1,Auto Motor Sport
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/340
+#EXTINF:-1,SOS
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/438
+#EXTINF:-1,Sportska TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/439
+#EXTINF:-1,Partizan TV HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/5508
+#EXTINF:-1,Zvezda TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/8302
+#EXTINF:-1,HNTV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/464
+#EXTINF:-1,Fight Box HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/5509
+#EXTINF:-1,Kreator TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/463
+#EXTINF:-1,NBA TV
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/466
+#EXTINF:-1,Sport1 HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/440
+#EXTINF:-1,FOX Sports 1
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/471
+#EXTINF:-1,FOX Sports 2
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/470
+#EXTINF:-1,Bayern TV HD
+http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/6103
 #EXTINF:-1,"==== PORNIĆI - MATORČEVIĆ ===="
 #EXTINF:-1, A SUMMER IN THE COUNTRY
 http://185.134.22.131:8080/Terry123/Terry123/53267
