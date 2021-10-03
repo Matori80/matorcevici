@@ -27,10 +27,6 @@ https://live.tsd-tv.com/live/tsd.m3u8
 http://195.154.118.192:8000/live?channelId=1513&uid=78&deviceMac=00:1A:79:2A:5A:CF
 #EXTINF:-1, Art 
 rtmp://92.60.237.39/live/test 
-#EXTINF:-1,TV Palma Plus Jagodina
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4275
-#EXTINF:-1,Leskovac TV
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4276
 #EXTINF:-1, Bellame Nis 
 http:\92.60.238.10:1935\live\belleamie\chunklist_w1811501290.m3u8 
 #EXTINF:-1,Jefimija 
@@ -65,18 +61,6 @@ https://dns2.rtvbn.com:8080/live/index.m3u8
 rtmp://77.243.11.114/live/rtvkrajina
 #EXTINF:-1, Puls
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/1991
-#EXTINF:-1,TV Bor
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4935
-#EXTINF:-1,SandzaÄka TV MreÅ¾a
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4936
-#EXTINF:-1,Sezam
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4938
-#EXTINF:-1,RTV AS Sabac
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4939
-#EXTINF:-1,Agro TV
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4940
-#EXTINF:-1,Kragujevac TV 
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/4941
 #EXTINF:-1,BH | AL JAZEERA BALKANS
 http://185.134.22.131:8080/Terry123/Terry123/37712
 #EXTINF:-1,BH | B1
