@@ -6,7 +6,7 @@ http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3893
 #EXTINF:-1,NOVA S
 http://5.39.72.165:8000/live?channelId=246&uid=78&deviceMac=00:1A:79:2A:5A:CF
 #EXTINF:-1,Nova S BackUP
-http://185.134.22.131:8080/Terry123/Terry123/37582
+http://worldiptv.me:8080/carter/GUV1bMq2VK/7034
 #EXTINF:-1,NOVAS
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3894
 #EXTINF:-1,Aljazeera
