@@ -1,6 +1,6 @@
 #EXTINF:-1,"==== KANALI - TV MATORCEVIĆ - PUDARCI ===="
 #EXTINF:-1,N1 SRB
-http://worldiptv.me:8080/carter/GUV1bMq2VK/7893
+http://worldiptv.me:8080/carter/GUV1bMq2VK/74022
 #EXTINF:-1,N1(Beckup)
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3893
 #EXTINF:-1,NOVA S
