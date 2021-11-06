@@ -12,7 +12,7 @@ http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3894
 #EXTINF:-1,Aljazeera
 http://185.134.22.131:8080/Terry123/Terry123/37712
 #EXTINF:-1,Aljazeera (beckup)
-http://razmjena.zapto.org:8181/bbt-skype-lokal/zoFwUZYqcf/816
+https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
 #EXTINF:-1,Euronews Srbija HD
 https://d2o6nnfvbbufka.cloudfront.net/app-19518-0855/ngrp:RWxI5IQr_all/chunklist_w861709104_b6256000.m3u8
 #EXTINF:-1,Euronews Srbija (low)
