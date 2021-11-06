@@ -63,8 +63,8 @@ http://192.99.6.113:1935/live/Tesla_360p/chunklist_w202539152.m3u8
 https://dns2.rtvbn.com:8080/live/index.m3u8 
 #EXTINF:-1,Krajina HD 
 rtmp://77.243.11.114/live/rtvkrajina
-#EXTINF:-1, Puls
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/1991
+#EXTINF:-1, Novi Pazar
+https://rtvnp.rs/hls/rtvnp.m3u8
 #EXTINF:-1,"==== KANALI - TV MATORCEVIĆ -SRBIJA ===="
 #EXTINF:-1,RTS 1 HD
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3883
