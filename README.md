@@ -27,6 +27,8 @@ http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3882
 https://live.tsd-tv.com/live/tsd.m3u8 
 #EXTINF:-1, RTK 2
 http://195.154.118.192:8000/live?channelId=1513&uid=78&deviceMac=00:1A:79:2A:5A:CF
+#EXTINF:-1, Vojvodina 1
+mmsh://212.200.255.151/rtv1
 #EXTINF:-1, Art 
 rtmp://92.60.237.39/live/test 
 #EXTINF:-1, Bellame Nis 
