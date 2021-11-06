@@ -51,6 +51,8 @@ http://5.39.72.165:8000/live?channelId=262&uid=78&deviceMac=00:1A:79:2A:5A:CF
 https://5afd52b55ff79.streamlock.net/MISTV/myStream/chunklist_w675272264.m3u8 
 #EXTINF:-1, TK 
 rtmp://91.148.117.134/tkturist/tkturist 
+#EXTINF:-1, TV AS
+https://srv1.adriatelekom.com/TVAS/index.m3u8
 #EXTINF:-1, Kanal M 
 http://176.67.210.1/hls/kanalm.m3u8 
 #EXTINF:-1, Pruga TV 
