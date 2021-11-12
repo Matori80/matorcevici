@@ -8,9 +8,9 @@ http://5.39.72.165:8000/live?channelId=246&uid=78&deviceMac=00:1A:79:2A:5A:CF
 #EXTINF:-1,Nova S BackUP
 http://worldiptv.me:8080/carter/GUV1bMq2VK/7034
 #EXTINF:-1,NOVAS
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3894
+http://line.4k-iptv.com:80/amel1/amel2/89
 #EXTINF:-1,Aljazeera
-http://185.134.22.131:8080/Terry123/Terry123/37712
+http://line.4k-iptv.com:80/amel1/amel2/38
 #EXTINF:-1,Aljazeera (beckup)
 https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
 #EXTINF:-1,Euronews Srbija HD
@@ -20,9 +20,9 @@ https://d2o6nnfvbbufka.cloudfront.net/app-19518-0855/ngrp:RWxI5IQr_all/chunklist
 #EXTINF:0,Kurir 
 https://kurir-tv.haste-cdn.net/providus/live2805_hq/index.m3u8 
 #EXTINF:-1,K1 HD 
-http://tv.nova-iptv.com:80/calekamenica/MatejaMagdalena2006/10263
+http://line.4k-iptv.com:80/amel1/amel2/14141
 #EXTINF:-1,: Rts 1 HD
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3882
+http://line.4k-iptv.com:80/amel1/amel2/72
 #EXTINF:-1, Srpska dijaspora 
 https://live.tsd-tv.com/live/tsd.m3u8 
 #EXTINF:-1, RTK 2
@@ -68,262 +68,701 @@ rtmp://77.243.11.114/live/rtvkrajina
 #EXTINF:-1, Novi Pazar
 https://rtvnp.rs/hls/rtvnp.m3u8
 #EXTINF:-1,"==== KANALI - TV MATORCEVIĆ -SRBIJA ===="
-#EXTINF:-1,RTS 1 HD
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3883
-#EXTINF:-1,RTS 2 HD/FHD
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3885
-#EXTINF:-1,RTS 3 HD/FHD
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3887
-#EXTINF:-1,SR | RTS SVET
-http://185.134.22.131:8080/Terry123/Terry123/37656
-#EXTINF:-1,RTS Å½ivot
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3896
-#EXTINF:-1,RTS Drama
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3899
-#EXTINF:-1,B92
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3626
-#EXTINF:-1,Happy TV
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3901
-#EXTINF:-1,Pink 1
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3946
-#EXTINF:-1,Pink 2
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3947
-#EXTINF:-1,Pink 3 Info
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3948
-#EXTINF:-1,Pink Plus
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3968
-#EXTINF:-1,Prva TV HD/FHD
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3888
-#EXTINF:-1,Prva Max
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3891
-#EXTINF:-1,Prva Plus
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3890
-#EXTINF:-1,Prva Kick
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3889
-#EXTINF:-1,Prva World
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/60
-#EXTINF:-1,Prva Files
-http://tv.ultra-media.xyz:25461/ErnestoPik/Qtd9YFL4tx/61
-#EXTINF:-1,RTV Vojvodina
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3903
-#EXTINF:-1,RTV Vojvodina 2
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3904
-#EXTINF:-1,RTV Novi Pazar
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3640
-#EXTINF:-1,Pink World
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3959
-#EXTINF:-1,Pink Ha Ha
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3979
+#EXTINF:-1,RTS 1 FHD
+http://line.4k-iptv.com:80/amel1/amel2/71
+#EXTINF:-1,RTS 1
+http://line.4k-iptv.com:80/amel1/amel2/72
+#EXTINF:-1,RTS 2
+http://line.4k-iptv.com:80/amel1/amel2/73
+#EXTINF:-1,RTS 3
+http://line.4k-iptv.com:80/amel1/amel2/74
+#EXTINF:-1,PRVA HD
+http://line.4k-iptv.com:80/amel1/amel2/75
+#EXTINF:-1,PRVA
+http://line.4k-iptv.com:80/amel1/amel2/76
+#EXTINF:-1,TV K1
+http://line.4k-iptv.com:80/amel1/amel2/14141
+#EXTINF:-1,PINK HD
+http://line.4k-iptv.com:80/amel1/amel2/107
+#EXTINF:-1,PRVA PLUS
+http://line.4k-iptv.com:80/amel1/amel2/77
+#EXTINF:-1,PRVA WORLD
+http://line.4k-iptv.com:80/amel1/amel2/78
+#EXTINF:-1,PRVA MAX
+http://line.4k-iptv.com:80/amel1/amel2/79
+#EXTINF:-1,02 TV
+http://line.4k-iptv.com:80/amel1/amel2/80
+#EXTINF:-1,PRVA KICK
+http://line.4k-iptv.com:80/amel1/amel2/81
+#EXTINF:-1,PRVA FILES TEST
+http://line.4k-iptv.com:80/amel1/amel2/82
+#EXTINF:-1,N1 SRBIJA
+http://line.4k-iptv.com:80/amel1/amel2/83
+#EXTINF:-1,HAPPY TV
+http://line.4k-iptv.com:80/amel1/amel2/84
+#EXTINF:-1,HAPPY TV PAROVI LIVE
+http://line.4k-iptv.com:80/amel1/amel2/85
+#EXTINF:-1,Zadruga 4
+http://line.4k-iptv.com:80/amel1/amel2/86
+#EXTINF:-1,Zadruga 2
+http://line.4k-iptv.com:80/amel1/amel2/87
+#EXTINF:-1,Zadruga 3
+http://line.4k-iptv.com:80/amel1/amel2/88
+#EXTINF:-1,RTS SVET
+http://line.4k-iptv.com:80/amel1/amel2/70
+#EXTINF:-1,NOVA S
+http://line.4k-iptv.com:80/amel1/amel2/89
+#EXTINF:-1,RTS ZIVOT
+http://line.4k-iptv.com:80/amel1/amel2/90
+#EXTINF:-1,RTS TREZOR
+http://line.4k-iptv.com:80/amel1/amel2/91
+#EXTINF:-1,RTS MUZIKA
+http://line.4k-iptv.com:80/amel1/amel2/92
+#EXTINF:-1,RTS KOLO
+http://line.4k-iptv.com:80/amel1/amel2/93
+#EXTINF:-1,RTS DRAMA
+http://line.4k-iptv.com:80/amel1/amel2/94
+#EXTINF:-1,RTS POLETARAC
+http://line.4k-iptv.com:80/amel1/amel2/95
+#EXTINF:-1,SANDZAK TV
+http://line.4k-iptv.com:80/amel1/amel2/96
+#EXTINF:-1,SANDZACKA TV MREZA
+http://line.4k-iptv.com:80/amel1/amel2/97
+#EXTINF:-1,NOVI PAZAR
+http://line.4k-iptv.com:80/amel1/amel2/98
+#EXTINF:-1,MLAVA TV
+http://line.4k-iptv.com:80/amel1/amel2/99
+#EXTINF:-1,BELLE AMIE
+http://line.4k-iptv.com:80/amel1/amel2/100
+#EXTINF:-1,NOVA M
+http://line.4k-iptv.com:80/amel1/amel2/101
+#EXTINF:-1,KCN 2 (SR)
+http://line.4k-iptv.com:80/amel1/amel2/102
+#EXTINF:-1,KCN 1
+http://line.4k-iptv.com:80/amel1/amel2/103
+#EXTINF:-1,PALMA PLUS
+http://line.4k-iptv.com:80/amel1/amel2/104
+#EXTINF:-1,RTK (SR)
+http://line.4k-iptv.com:80/amel1/amel2/105
+#EXTINF:-1,PINK
+http://line.4k-iptv.com:80/amel1/amel2/108
+#EXTINF:-1,PINK 2 (RED TV)
+http://line.4k-iptv.com:80/amel1/amel2/109
+#EXTINF:-1,PINK 3 INFO
+http://line.4k-iptv.com:80/amel1/amel2/110
+#EXTINF:-1,PINK ACTION
+http://line.4k-iptv.com:80/amel1/amel2/111
+#EXTINF:-1,PINK BIH
+http://line.4k-iptv.com:80/amel1/amel2/112
+#EXTINF:-1,PINK MEDIA M
+http://line.4k-iptv.com:80/amel1/amel2/113
+#EXTINF:-1,PINK CLASSIC
+http://line.4k-iptv.com:80/amel1/amel2/114
+#EXTINF:-1,PINK haha
+http://line.4k-iptv.com:80/amel1/amel2/115
+#EXTINF:-1,PINK LoL
+http://line.4k-iptv.com:80/amel1/amel2/116
+#EXTINF:-1,PINK COMEDY
+http://line.4k-iptv.com:80/amel1/amel2/117
+#EXTINF:-1,PINK PREMIUM
+http://line.4k-iptv.com:80/amel1/amel2/118
+#EXTINF:-1,PINK CRIME &amp; MYSTERY
+http://line.4k-iptv.com:80/amel1/amel2/119
+#EXTINF:-1,PINK EXTRA
+http://line.4k-iptv.com:80/amel1/amel2/120
+#EXTINF:-1,PINK KUVAR
+http://line.4k-iptv.com:80/amel1/amel2/121
+#EXTINF:-1,PINK FILM
+http://line.4k-iptv.com:80/amel1/amel2/122
+#EXTINF:-1,PINK SOAP
+http://line.4k-iptv.com:80/amel1/amel2/123
+#EXTINF:-1,PINK PEDIA
+http://line.4k-iptv.com:80/amel1/amel2/124
+#EXTINF:-1,PINK SCI-FI-FANTASY
+http://line.4k-iptv.com:80/amel1/amel2/125
+#EXTINF:-1,PINK HORROR
+http://line.4k-iptv.com:80/amel1/amel2/126
+#EXTINF:-1,PINK STYLE
+http://line.4k-iptv.com:80/amel1/amel2/127
+#EXTINF:-1,PINK SHOW
+http://line.4k-iptv.com:80/amel1/amel2/128
+#EXTINF:-1,PINK THRILLER
+http://line.4k-iptv.com:80/amel1/amel2/129
+#EXTINF:-1,PINK WORLD
+http://line.4k-iptv.com:80/amel1/amel2/130
+#EXTINF:-1,PINK ZABAVA
+http://line.4k-iptv.com:80/amel1/amel2/131
+#EXTINF:-1,PINK WORLD CINEMA
+http://line.4k-iptv.com:80/amel1/amel2/132
+#EXTINF:-1,PINK WESTERN
+http://line.4k-iptv.com:80/amel1/amel2/133
+#EXTINF:-1,PINK SUPER KIDS
+http://line.4k-iptv.com:80/amel1/amel2/134
+#EXTINF:-1,PINK SERIJE
+http://line.4k-iptv.com:80/amel1/amel2/135
+#EXTINF:-1,PINK ROMANCE
+http://line.4k-iptv.com:80/amel1/amel2/136
+#EXTINF:-1,PINK REALITY
+http://line.4k-iptv.com:80/amel1/amel2/137
+#EXTINF:-1,PINK PLUS
+http://line.4k-iptv.com:80/amel1/amel2/138
+#EXTINF:-1,PINK N ROLL
+http://line.4k-iptv.com:80/amel1/amel2/139
+#EXTINF:-1,PINK MUSIC 2
+http://line.4k-iptv.com:80/amel1/amel2/140
+#EXTINF:-1,PINK MUSIC 1
+http://line.4k-iptv.com:80/amel1/amel2/141
+#EXTINF:-1,PINK KONCERT
+http://line.4k-iptv.com:80/amel1/amel2/142
+#EXTINF:-1,PINK KIDS
+http://line.4k-iptv.com:80/amel1/amel2/143
+#EXTINF:-1,PINK HITS 2
+http://line.4k-iptv.com:80/amel1/amel2/144
+#EXTINF:-1,PINK HITS
+http://line.4k-iptv.com:80/amel1/amel2/145
+#EXTINF:-1,PINK FOLK 2
+http://line.4k-iptv.com:80/amel1/amel2/146
+#EXTINF:-1,PINK FOLK
+http://line.4k-iptv.com:80/amel1/amel2/147
 #EXTINF:-1,"==== CRNA GORA- MATORČEVIĆ ===="
-#EXTINF:-1,Pink M
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3973
+#EXTINF:-1,|CG| RTV CG 1
+http://line.4k-iptv.com:80/amel1/amel2/4196
+#EXTINF:-1,|CG| RTV CG 2
+http://line.4k-iptv.com:80/amel1/amel2/4197
+#EXTINF:-1,|CG| RTV CG SAT
+http://line.4k-iptv.com:80/amel1/amel2/4198
+#EXTINF:-1,|CG| NOVA M
+http://line.4k-iptv.com:80/amel1/amel2/4199
+#EXTINF:-1,|CG| PRVA CG
+http://line.4k-iptv.com:80/amel1/amel2/4201
+#EXTINF:-1,|CG| HAPPY CG
+http://line.4k-iptv.com:80/amel1/amel2/4202
+#EXTINF:-1,|CG| TV 777 PODGORICA
+http://line.4k-iptv.com:80/amel1/amel2/4203
+#EXTINF:-1,|CG| I PINK MEDIA M
+http://line.4k-iptv.com:80/amel1/amel2/4204
+#EXTINF:-1,|CG| VIJESTI
+http://line.4k-iptv.com:80/amel1/amel2/4205
+#EXTINF:-1,|CG| BOIN TV
+http://line.4k-iptv.com:80/amel1/amel2/4206
 #EXTINF:-1,"==== HRVATSKI KANALI- MATORČEVIĆ ===="
 #EXTINF:-1,HRT 1
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3328
+http://line.4k-iptv.com:80/amel1/amel2/2
+#EXTINF:-1,HRT 1 HD
+http://line.4k-iptv.com:80/amel1/amel2/3
 #EXTINF:-1,HRT 2
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3329
+http://line.4k-iptv.com:80/amel1/amel2/4
+#EXTINF:-1,HRT 2 HD
+http://line.4k-iptv.com:80/amel1/amel2/5
 #EXTINF:-1,HRT 3
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3330
+http://line.4k-iptv.com:80/amel1/amel2/6
+#EXTINF:-1,HRT 3 HD
+http://line.4k-iptv.com:80/amel1/amel2/7
 #EXTINF:-1,HRT 4
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3333
-#EXTINF:-1,Nova TV
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3335
-#EXTINF:-1,RTL
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3331
+http://line.4k-iptv.com:80/amel1/amel2/8
+#EXTINF:-1,HRT 4 HD
+http://line.4k-iptv.com:80/amel1/amel2/9
+#EXTINF:-1,HRT 5
+http://line.4k-iptv.com:80/amel1/amel2/2518
+#EXTINF:-1,NOVA TV HD
+http://line.4k-iptv.com:80/amel1/amel2/11
+#EXTINF:-1,NOVA TV
+http://line.4k-iptv.com:80/amel1/amel2/12
+#EXTINF:-1,Nova Family
+http://line.4k-iptv.com:80/amel1/amel2/17887
+#EXTINF:-1,Nova Cinema
+http://line.4k-iptv.com:80/amel1/amel2/17886
+#EXTINF:-1,DOMA TV HD
+http://line.4k-iptv.com:80/amel1/amel2/13
+#EXTINF:-1,DOMA TV
+http://line.4k-iptv.com:80/amel1/amel2/14
+#EXTINF:-1,RTL HR
+http://line.4k-iptv.com:80/amel1/amel2/15
 #EXTINF:-1,RTL 2
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3338
-#EXTINF:-1,RTL Crime
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3340
-#EXTINF:-1,RTL Living
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3341
-#EXTINF:-1,RTL Passion
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3342
-#EXTINF:-1,Doma TV
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3334
+http://line.4k-iptv.com:80/amel1/amel2/16
+#EXTINF:-1,RTL CRIME
+http://line.4k-iptv.com:80/amel1/amel2/18
+#EXTINF:-1,RTL LIVING
+http://line.4k-iptv.com:80/amel1/amel2/19
+#EXTINF:-1,RTL PASSION
+http://line.4k-iptv.com:80/amel1/amel2/20
 #EXTINF:-1,N1 HR
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3349
-#EXTINF:-1,Slavonska televizija
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3332
-#EXTINF:-1,Z1
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3336
-#EXTINF:-1,OsjeÄka TV
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3346
-#EXTINF:-1,Aurora TV
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3337
+http://line.4k-iptv.com:80/amel1/amel2/21
+#EXTINF:-1,OSJECKA TV
+http://line.4k-iptv.com:80/amel1/amel2/22
+#EXTINF:-1,VINKOVACKA TV
+http://line.4k-iptv.com:80/amel1/amel2/23
+#EXTINF:-1,TV BANOVINA
+http://line.4k-iptv.com:80/amel1/amel2/24
+#EXTINF:-1,Z 1
+http://line.4k-iptv.com:80/amel1/amel2/25
+#EXTINF:-1,LAUDATO TV
+http://line.4k-iptv.com:80/amel1/amel2/26
 #EXTINF:-1,"==== BOSNA I HERCEGOVINA KANALI- MATORČEVIĆ ===="
-#EXTINF:-1,BHT 1
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3616
-#EXTINF:-1,RTRS
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3902
-#EXTINF:-1,Federalna TV
-http://beams-tv.stream:80/madturnip07@yahoo.com/8832554033/986
-#EXTINF:-1,Nova BiH
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3621
-#EXTINF:-1,Pink BiH
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3619
+#EXTINF:-1,BHT HD
+http://line.4k-iptv.com:80/amel1/amel2/28
+#EXTINF:-1,FTV
+http://line.4k-iptv.com:80/amel1/amel2/30
+#EXTINF:-1,HAYAT HD
+http://line.4k-iptv.com:80/amel1/amel2/31
+#EXTINF:-1,HAYAT BIH
+http://line.4k-iptv.com:80/amel1/amel2/32
+#EXTINF:-1,HAYAT PLUS
+http://line.4k-iptv.com:80/amel1/amel2/33
+#EXTINF:-1,NOVA BH
+http://line.4k-iptv.com:80/amel1/amel2/35
+#EXTINF:-1,FACE TV HD
+http://line.4k-iptv.com:80/amel1/amel2/36
+#EXTINF:-1,FACE TV
+http://line.4k-iptv.com:80/amel1/amel2/37
+#EXTINF:-1,AL JAZEERA BALKAN HD
+http://line.4k-iptv.com:80/amel1/amel2/38
+#EXTINF:-1,AL JAZEERA Balkans
+http://line.4k-iptv.com:80/amel1/amel2/39
 #EXTINF:-1,OBN
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3622
-#EXTINF:-1,ATV
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3631
-#EXTINF:-1,BN TV
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3625
-#EXTINF:-1,RTRS Plus
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3900
-#EXTINF:-1,Face Tv
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3630
-#EXTINF:-1,Hayat BiH HD
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3624
-#EXTINF:-1,Hayat Plus
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3623
-#EXTINF:-1,N1 BiH
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3628
-#EXTINF:-1,TV Sarajevo HD
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3635
-#EXTINF:-1,RTV Slon Extra
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3629
-#EXTINF:-1,RTV TK Tuzla
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3633
-#EXTINF:-1,USK
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3636
-#EXTINF:-1,SandÅ¾ak TV
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3641
-#EXTINF:-1,Alfa TV
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3632
+http://line.4k-iptv.com:80/amel1/amel2/41
+#EXTINF:-1,N1 BOSNA
+http://line.4k-iptv.com:80/amel1/amel2/42
+#EXTINF:-1,BN BIH
+http://line.4k-iptv.com:80/amel1/amel2/43
+#EXTINF:-1,BN SAT HD
+http://line.4k-iptv.com:80/amel1/amel2/44
+#EXTINF:-1,RTRS PLUS
+http://line.4k-iptv.com:80/amel1/amel2/45
+#EXTINF:-1,RTRS
+http://line.4k-iptv.com:80/amel1/amel2/46
+#EXTINF:-1,ALTERNATIVNA TV
+http://line.4k-iptv.com:80/amel1/amel2/47
+#EXTINF:-1,TV ZENICA
+http://line.4k-iptv.com:80/amel1/amel2/48
+#EXTINF:-1,TV USK
+http://line.4k-iptv.com:80/amel1/amel2/49
+#EXTINF:-1,RTV CAZIN
+http://line.4k-iptv.com:80/amel1/amel2/50
+#EXTINF:-1,RTV KRAJINA
+http://line.4k-iptv.com:80/amel1/amel2/51
+#EXTINF:-1,TK TV
+http://line.4k-iptv.com:80/amel1/amel2/52
+#EXTINF:-1,TV SARAJEVO
+http://line.4k-iptv.com:80/amel1/amel2/54
+#EXTINF:-1,TV KAKANJ
+http://line.4k-iptv.com:80/amel1/amel2/55
+#EXTINF:-1,TELEVIZIJA 5
+http://line.4k-iptv.com:80/amel1/amel2/56
+#EXTINF:-1,RTV VISOKO
+http://line.4k-iptv.com:80/amel1/amel2/57
+#EXTINF:-1,RTV SLON
+http://line.4k-iptv.com:80/amel1/amel2/58
+#EXTINF:-1,RTV BUGOJNO
+http://line.4k-iptv.com:80/amel1/amel2/59
+#EXTINF:-1,OTV VALENTINO
+http://line.4k-iptv.com:80/amel1/amel2/60
+#EXTINF:-1,MTV IGMAN
+http://line.4k-iptv.com:80/amel1/amel2/61
+#EXTINF:-1,K 3 PRNJAVOR
+http://line.4k-iptv.com:80/amel1/amel2/63
+#EXTINF:-1,HIT TV
+http://line.4k-iptv.com:80/amel1/amel2/64
+#EXTINF:-1,POSAVINA TV
+http://line.4k-iptv.com:80/amel1/amel2/66
+#EXTINF:-1,B1 GRADACAC
+http://line.4k-iptv.com:80/amel1/amel2/67
+#EXTINF:-1,ALFA TV SARAJEVO
+http://line.4k-iptv.com:80/amel1/amel2/68
 #EXTINF:-1,"==== MUZIČKI- MATORČEVIĆ  ===="
-#EXTINF:-1,DM Sat
-http://beams-tv.stream:80/madturnip07@yahoo.com/8832554033/988
-#EXTINF:-1,BN Music
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3645
-#EXTINF:-1,Grand Narodna TV
-http://beams-tv.stream:80/madturnip07@yahoo.com/8832554033/984
-#EXTINF:-1,Grand 2
-http://beams-tv.stream:80/madturnip07@yahoo.com/8832554033/983
-#EXTINF:-1,Pink Folk 1
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3981
-#EXTINF:-1,Pink Folk 2
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3980
-#EXTINF:-1,Pink Music 1
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3971
-#EXTINF:-1,Pink Music 2
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3970
-#EXTINF:-1,Pink Hits 1
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3978
-#EXTINF:-1,MTV Hits
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/5882
-#EXTINF:-1,VH1
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/676
-#EXTINF:-1,HR | MTV ADRIA
-http://185.134.22.131:8080/Terry123/Terry123/37698
-#EXTINF:-1,Top Sound
-http://185.134.22.131:8080/Terry123/Terry123/37670
-#EXTINF:-1,SR | JUGOTON TV
-http://185.134.22.131:8080/Terry123/Terry123/37585
-#EXTINF:-1,SR | KCN 2
-http://185.134.22.131:8080/Terry123/Terry123/37587
-#EXTINF:-1,SR | KCN 3
-http://185.134.22.131:8080/Terry123/Terry123/37588
-#EXTINF:-1,SR | IDJ TV
-http://185.134.22.131:8080/Terry123/Terry123/37581
+#EXTINF:-1,HAYAT  MUSIC
+http://line.4k-iptv.com:80/amel1/amel2/248
+#EXTINF:-1,HAYAT  FOLK
+http://line.4k-iptv.com:80/amel1/amel2/249
+#EXTINF:-1,GRAND 2
+http://line.4k-iptv.com:80/amel1/amel2/250
+#EXTINF:-1,GRAND
+http://line.4k-iptv.com:80/amel1/amel2/251
+#EXTINF:-1,BUJRUM TV
+http://line.4k-iptv.com:80/amel1/amel2/252
+#EXTINF:-1,IDJ TV
+http://line.4k-iptv.com:80/amel1/amel2/253
+#EXTINF:-1,IDJ MUSIC
+http://line.4k-iptv.com:80/amel1/amel2/254
+#EXTINF:-1,DM SAT
+http://line.4k-iptv.com:80/amel1/amel2/255
+#EXTINF:-1,BALKANIKA TV
+http://line.4k-iptv.com:80/amel1/amel2/256
+#EXTINF:-1,BN MUSIC
+http://line.4k-iptv.com:80/amel1/amel2/257
+#EXTINF:-1,CMC MUSIC
+http://line.4k-iptv.com:80/amel1/amel2/258
+#EXTINF:-1,JUGOTON
+http://line.4k-iptv.com:80/amel1/amel2/259
+#EXTINF:-1,IZVORNA TV
+http://line.4k-iptv.com:80/amel1/amel2/260
+#EXTINF:-1,SEVDAH TV
+http://line.4k-iptv.com:80/amel1/amel2/261
+#EXTINF:-1,GLAS DRINE
+http://line.4k-iptv.com:80/amel1/amel2/262
+#EXTINF:-1,YU PLANET
+http://line.4k-iptv.com:80/amel1/amel2/263
+#EXTINF:-1,DUGA TV
+http://line.4k-iptv.com:80/amel1/amel2/264
+#EXTINF:-1,MTV
+http://line.4k-iptv.com:80/amel1/amel2/265
+#EXTINF:-1,MTV BASE
+http://line.4k-iptv.com:80/amel1/amel2/12098
+#EXTINF:-1,MTV DANCE
+http://line.4k-iptv.com:80/amel1/amel2/12097
+#EXTINF:-1,MTV CLASSIC
+http://line.4k-iptv.com:80/amel1/amel2/12096
+#EXTINF:-1,MTV HITS
+http://line.4k-iptv.com:80/amel1/amel2/12095
+#EXTINF:-1,MTV ADRIA
+http://line.4k-iptv.com:80/amel1/amel2/12094
 #EXTINF:-1, S televizija 
 https://sradio.ipradio.rs/sradio/radiostv/chunklist_w484271802.m3u8
-#EXTINF:-1,SR | BALKANIKA
-http://185.134.22.131:8080/Terry123/Terry123/37539
 #EXTINF:-1,"==== DOKUMENTARNI- MATORČEVIĆ===="
-#EXTINF:-1,Discovery Channel
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3906
-#EXTINF:-1,National Geographic
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3912
-#EXTINF:-1,National Geographic SD
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3911
-#EXTINF:-1,Nat Geo Wild
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3910
-#EXTINF:-1,Viasat Explore
-http://185.134.22.131:8080/Terry123/Terry123/37679
-#EXTINF:-1,History Channel
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3908
-#EXTINF:-1,History Channel 2
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3909
-#EXTINF:-1,Viasat History
-http://185.134.22.131:8080/Terry123/Terry123/37680
-#EXTINF:-1,SR | VIASAT NATURE
-http://185.134.22.131:8080/Terry123/Terry123/37681
-#EXTINF:-1,Travel Channel
-http://185.134.22.131:8080/Terry123/Terry123/37671
-#EXTINF:-1,Animal Planet
-http://185.134.22.131:8080/Terry123/Terry123/37537
-#EXTINF:-1,24 Kitchen
-http://185.134.22.131:8080/Terry123/Terry123/37535
+#EXTINF:-1,AGRO HD
+http://line.4k-iptv.com:80/amel1/amel2/179
+#EXTINF:-1,ANIMAL PLANET
+http://line.4k-iptv.com:80/amel1/amel2/180
+#EXTINF:-1,ANIMAL PLANET HD
+http://line.4k-iptv.com:80/amel1/amel2/181
+#EXTINF:-1,24 KITCHEN
+http://line.4k-iptv.com:80/amel1/amel2/182
+#EXTINF:-1,DISCOVERY
+http://line.4k-iptv.com:80/amel1/amel2/183
+#EXTINF:-1,DISCOVERY HD
+http://line.4k-iptv.com:80/amel1/amel2/184
+#EXTINF:-1,DISCOVERY ID
+http://line.4k-iptv.com:80/amel1/amel2/185
+#EXTINF:-1,DISCOVERY ID XTRA  HD
+http://line.4k-iptv.com:80/amel1/amel2/186
+#EXTINF:-1,TRAVEL XP HD
+http://line.4k-iptv.com:80/amel1/amel2/187
+#EXTINF:-1,DA VINCI LEARNING
+http://line.4k-iptv.com:80/amel1/amel2/188
+#EXTINF:-1,DISCOVERY SCIENCE
+http://line.4k-iptv.com:80/amel1/amel2/189
+#EXTINF:-1,CRIME INVESTIGATION
+http://line.4k-iptv.com:80/amel1/amel2/190
+#EXTINF:-1,CBS REALITY
+http://line.4k-iptv.com:80/amel1/amel2/191
+#EXTINF:-1,TLC
+http://line.4k-iptv.com:80/amel1/amel2/192
+#EXTINF:-1,E!
+http://line.4k-iptv.com:80/amel1/amel2/193
+#EXTINF:-1,DOKU TV
+http://line.4k-iptv.com:80/amel1/amel2/194
+#EXTINF:-1,TRAVEL  CHANNEL
+http://line.4k-iptv.com:80/amel1/amel2/195
+#EXTINF:-1,FINE LIVING
+http://line.4k-iptv.com:80/amel1/amel2/196
+#EXTINF:-1,DOCUBOX
+http://line.4k-iptv.com:80/amel1/amel2/197
+#EXTINF:-1,VIASAT NATURE
+http://line.4k-iptv.com:80/amel1/amel2/198
+#EXTINF:-1,VIASAT HISTORY
+http://line.4k-iptv.com:80/amel1/amel2/199
+#EXTINF:-1,VIASAT EXPLORER
+http://line.4k-iptv.com:80/amel1/amel2/200
+#EXTINF:-1,NATIONAL GEOGRAPHIC WILD
+http://line.4k-iptv.com:80/amel1/amel2/201
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://line.4k-iptv.com:80/amel1/amel2/202
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://line.4k-iptv.com:80/amel1/amel2/203
+#EXTINF:-1,NAT GEO WILD HD
+http://line.4k-iptv.com:80/amel1/amel2/204
+#EXTINF:-1,LOV I RIBOLOV HD
+http://line.4k-iptv.com:80/amel1/amel2/205
+#EXTINF:-1,HISTORY HD
+http://line.4k-iptv.com:80/amel1/amel2/206
+#EXTINF:-1,HISTORY 2 HD
+http://line.4k-iptv.com:80/amel1/amel2/207
+#EXTINF:-1,HISTORY 2
+http://line.4k-iptv.com:80/amel1/amel2/208
+#EXTINF:-1,HISTORY
+http://line.4k-iptv.com:80/amel1/amel2/209
+#EXTINF:-1,FOOD NETWORK (HR)
+http://line.4k-iptv.com:80/amel1/amel2/210
 #EXTINF:-1,"==== DEČIJI- MATORČEVIĆ ===="
-#EXTINF:-1,Nickelodeon SR
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3914
-#EXTINF:-1,Nick Jr. SR
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3913
-#EXTINF:-1,RTL Kockica
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/33439
-#EXTINF:-1,SR | PIKABOO
-http://185.134.22.131:8080/Terry123/Terry123/37606
-#EXTINF:-1,Hayatovci
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3920
+#EXTINF:-1,IDJ KIDS
+http://line.4k-iptv.com:80/amel1/amel2/213
+#EXTINF:-1,MASA I MEDO
+http://line.4k-iptv.com:80/amel1/amel2/214
+#EXTINF:-1,TOM & JERRY
+http://line.4k-iptv.com:80/amel1/amel2/215
+#EXTINF:-1,HAYATOVCI
+http://line.4k-iptv.com:80/amel1/amel2/216
+#EXTINF:-1,TNT KIDS
+http://line.4k-iptv.com:80/amel1/amel2/218
+#EXTINF:-1,RTL KOCKICA
+http://line.4k-iptv.com:80/amel1/amel2/219
+#EXTINF:-1,MINI TV
+http://line.4k-iptv.com:80/amel1/amel2/220
+#EXTINF:-1,MINIMAX
+http://line.4k-iptv.com:80/amel1/amel2/221
+#EXTINF:-1,PIKABOO
+http://line.4k-iptv.com:80/amel1/amel2/222
+#EXTINF:-1,NICKELODEON SR
+http://line.4k-iptv.com:80/amel1/amel2/223
+#EXTINF:-1,NICKELODEON HR
+http://line.4k-iptv.com:80/amel1/amel2/224
+#EXTINF:-1,NICK JR SR
+http://line.4k-iptv.com:80/amel1/amel2/225
+#EXTINF:-1,NICK JR HR
+http://line.4k-iptv.com:80/amel1/amel2/226
+#EXTINF:-1,BABY TV
+http://line.4k-iptv.com:80/amel1/amel2/227
 #EXTINF:-1,"==== FILMSKI- MATORČEVIĆ  ===="
-#EXTINF:-1,HBO Adria HD
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3923
+#EXTINF:-1,HBO HD
+http://line.4k-iptv.com:80/amel1/amel2/149
 #EXTINF:-1,HBO 2 HD
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3924
-#EXTINF:-1,HBO 3 HD
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3925
-#EXTINF:-1,Cinemax 1 HD
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3930
-#EXTINF:-1,Cinemax 2 HD
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3929
-#EXTINF:-1,CineStar Action
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3933
-#EXTINF:-1,CineStar Fantasy
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3932
-#EXTINF:-1,CineStar Premiere 1
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3936
-#EXTINF:-1,CineStar Premiere 2
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3935
-#EXTINF:-1,CineStar TV
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3934
-#EXTINF:-1,Cinemania
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3931
-#EXTINF:-1,Diva
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3940
-#EXTINF:-1,Film Klub
-http://185.134.22.131:8080/Terry123/Terry123/37563
-#EXTINF:-1,FOX HD
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3926
-#EXTINF:-1,FOX Crime HD
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3927
-#EXTINF:-1,FOX Life HD
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3928
-#EXTINF:-1,FOX Movies HD
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3939
+http://line.4k-iptv.com:80/amel1/amel2/150
+#EXTINF:-1,HBO 3 (HR)
+http://line.4k-iptv.com:80/amel1/amel2/151
+#EXTINF:-1,EPIC DRAMA HD
+http://line.4k-iptv.com:80/amel1/amel2/153
+#EXTINF:-1,STAR TV
+http://line.4k-iptv.com:80/amel1/amel2/154
 #EXTINF:-1,TV 1000
-http://185.134.22.131:8080/Terry123/Terry123/37672
-#EXTINF:-1,Kino TV
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3945
-#EXTINF:-1,Klasik TV
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3944
-#EXTINF:-1,Pink Film
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3982
-#EXTINF:-1,M1 Film HD
-http://185.134.22.131:8080/Terry123/Terry123/37591
+http://line.4k-iptv.com:80/amel1/amel2/155
+#EXTINF:-1,SUPER STAR TV
+http://line.4k-iptv.com:80/amel1/amel2/156
+#EXTINF:-1,CINESTAR TV
+http://line.4k-iptv.com:80/amel1/amel2/158
+#EXTINF:-1,CINESTAR ACTION TV
+http://line.4k-iptv.com:80/amel1/amel2/159
+#EXTINF:-1,CINESTAR FANTASY
+http://line.4k-iptv.com:80/amel1/amel2/160
+#EXTINF:-1,CINESTAR PREMIERE 1
+http://line.4k-iptv.com:80/amel1/amel2/161
+#EXTINF:-1,CINESTAR PREMIERE 2
+http://line.4k-iptv.com:80/amel1/amel2/162
+#EXTINF:-1,CINEMAX 1
+http://line.4k-iptv.com:80/amel1/amel2/163
+#EXTINF:-1,CINEMAX 2
+http://line.4k-iptv.com:80/amel1/amel2/164
+#EXTINF:-1,KLASIK TV
+http://line.4k-iptv.com:80/amel1/amel2/165
+#EXTINF:-1,M1 FILM
+http://line.4k-iptv.com:80/amel1/amel2/166
+#EXTINF:-1,M1 GOLD
+http://line.4k-iptv.com:80/amel1/amel2/167
+#EXTINF:-1,AXN ADRIA
+http://line.4k-iptv.com:80/amel1/amel2/168
+#EXTINF:-1,KINO TV
+http://line.4k-iptv.com:80/amel1/amel2/169
+#EXTINF:-1,FOX FHD
+http://line.4k-iptv.com:80/amel1/amel2/170
+#EXTINF:-1,FOX LIFE FHD
+http://line.4k-iptv.com:80/amel1/amel2/171
+#EXTINF:-1,FOX CRIME FHD
+http://line.4k-iptv.com:80/amel1/amel2/172
+#EXTINF:-1,FOX MOVIES FHD
+http://line.4k-iptv.com:80/amel1/amel2/173
+#EXTINF:-1,FOX
+http://line.4k-iptv.com:80/amel1/amel2/174
+#EXTINF:-1,FOX LIFE
+http://line.4k-iptv.com:80/amel1/amel2/175
+#EXTINF:-1,FOX CRIME
+http://line.4k-iptv.com:80/amel1/amel2/176
+#EXTINF:-1,FOX MOVIES
+http://line.4k-iptv.com:80/amel1/amel2/177
+#EXTINF:-1,AMC
+http://line.4k-iptv.com:80/amel1/amel2/299
 #EXTINF:-1,SciFi
-hhttp://185.134.22.131:8080/Terry123/Terry123/37663
-#EXTINF:-1,Pink Action
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3954
-#EXTINF:-1,Pink Comedy
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3955
-#EXTINF:-1,Pink Crime & Mystery
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3953
-#EXTINF:-1,Pink Movies
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3972
-#EXTINF:-1,Pink Premium
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3951
-#EXTINF:-1,Pink Romance
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3949
+http://line.4k-iptv.com:80/amel1/amel2/300
+#EXTINF:-1,MAXCRO SELECT PREMIERE HD
+http://line.4k-iptv.com:80/amel1/amel2/7623
+#EXTINF:-1,MAXCRO SELECT 1 HD
+http://line.4k-iptv.com:80/amel1/amel2/7625
+#EXTINF:-1,MAXCRO SELECT 2 HD
+http://line.4k-iptv.com:80/amel1/amel2/7626
+#EXTINF:-1,MAXCRO SELECT 3 HD
+http://line.4k-iptv.com:80/amel1/amel2/7627
+#EXTINF:-1,MAXCRO SELECT 4 HD
+http://line.4k-iptv.com:80/amel1/amel2/7628
+#EXTINF:-1,MAXCRO SELECT 5 HD
+http://line.4k-iptv.com:80/amel1/amel2/7629
+#EXTINF:-1,MAXCRO SELECT 6 HD
+http://line.4k-iptv.com:80/amel1/amel2/7630
+#EXTINF:-1,MAXCRO SELECT 7 HD
+http://line.4k-iptv.com:80/amel1/amel2/7631
+#EXTINF:-1,MAXCRO SELECT 8 HD
+http://line.4k-iptv.com:80/amel1/amel2/7632
+#EXTINF:-1,MAXCRO SELECT 9 HD
+http://line.4k-iptv.com:80/amel1/amel2/7633
+#EXTINF:-1,MAXCRO SELECT 10 HD
+http://line.4k-iptv.com:80/amel1/amel2/7634
+#EXTINF:-1,MAXCRO SELECT 11 HD
+http://line.4k-iptv.com:80/amel1/amel2/7635
+#EXTINF:-1,MAXCRO SELECT 12 HD
+http://line.4k-iptv.com:80/amel1/amel2/7636
+#EXTINF:-1,MAXCRO SELECT 13 HD
+http://line.4k-iptv.com:80/amel1/amel2/7637
+#EXTINF:-1,PINK PANTER TV
+http://line.4k-iptv.com:80/amel1/amel2/7638
+#EXTINF:-1,DUCK TV
+http://line.4k-iptv.com:80/amel1/amel2/7639
+#EXTINF:-1,LOONEY TUNES TV HD
+http://line.4k-iptv.com:80/amel1/amel2/7640
+#EXTINF:-1,TOM & JERRY CHANNEL HD
+http://line.4k-iptv.com:80/amel1/amel2/7641
+#EXTINF:-1,TOM & JERRY CHANNEL 3
+http://line.4k-iptv.com:80/amel1/amel2/7642
+#EXTINF:-1,TOM & JERRY CHANNEL 4 HD
+http://line.4k-iptv.com:80/amel1/amel2/7643
+#EXTINF:-1,MASA I MEDO HD
+http://line.4k-iptv.com:80/amel1/amel2/7644
+#EXTINF:-1,MAXCRO SELECT KIDS HD
+http://line.4k-iptv.com:80/amel1/amel2/7645
+#EXTINF:-1,MAXCRO SELECT KIDS 2 HD
+http://line.4k-iptv.com:80/amel1/amel2/7646
+#EXTINF:-1,MAXCRO SELECT KIDS 3 HD
+http://line.4k-iptv.com:80/amel1/amel2/7647
+#EXTINF:-1,ZABAC REGI
+http://line.4k-iptv.com:80/amel1/amel2/7650
+#EXTINF:-1,"==== DOBRI- MATORČEVIĆ  ===="
+#EXTINF:-1,DOBRA INFO
+http://line.4k-iptv.com:80/amel1/amel2/12093
+#EXTINF:-1,DOBRA BALKANSKA HD
+http://line.4k-iptv.com:80/amel1/amel2/12092
+#EXTINF:-1,DOBRA HD
+http://line.4k-iptv.com:80/amel1/amel2/12091
+#EXTINF:-1,DOBRA BOSNJACKA HD
+http://line.4k-iptv.com:80/amel1/amel2/12090
+#EXTINF:-1,DOBRA PLUS HD
+http://line.4k-iptv.com:80/amel1/amel2/12089
+#EXTINF:-1,DOBRA CINEMA HD
+http://line.4k-iptv.com:80/amel1/amel2/12088
+#EXTINF:-1,DOBRA SRPSKA
+http://line.4k-iptv.com:80/amel1/amel2/12087
+#EXTINF:-1,DOBRA CRNOGORSKA HD
+http://line.4k-iptv.com:80/amel1/amel2/12086
+#EXTINF:-1,DOBRA HRVATSKA
+http://line.4k-iptv.com:80/amel1/amel2/12085
+#EXTINF:-1,DOBRA S. MAKEDONSKA
+http://line.4k-iptv.com:80/amel1/amel2/12084
+#EXTINF:-1,BUENA ESPANOLA HD
+http://line.4k-iptv.com:80/amel1/amel2/12083
+#EXTINF:-1,GOOD INTERNATIONAL HD
+http://line.4k-iptv.com:80/amel1/amel2/12082
+#EXTINF:-1,DOBRA WORLD MUSIC
+http://line.4k-iptv.com:80/amel1/amel2/12081
+#EXTINF:-1,BUENA LATINA HD
+http://line.4k-iptv.com:80/amel1/amel2/12080
+#EXTINF:-1,DOBRA MUZICKA
+http://line.4k-iptv.com:80/amel1/amel2/12079
+#EXTINF:-1,DOBRA SPORTSKA HD
+http://line.4k-iptv.com:80/amel1/amel2/12078
+#EXTINF:-1,DOBRA DJECIJA HD
+http://line.4k-iptv.com:80/amel1/amel2/12077
+#EXTINF:-1,DOBRA TRGOVINA HD
+http://line.4k-iptv.com:80/amel1/amel2/12076
+#EXTINF:-1,DOBRA NASHEED
+http://line.4k-iptv.com:80/amel1/amel2/12075
+#EXTINF:-1,DOBRA TRAVEL HD
+http://line.4k-iptv.com:80/amel1/amel2/12074
+#EXTINF:-1,DOBRA EXCLUSIVE HD
+http://line.4k-iptv.com:80/amel1/amel2/12073
+#EXTINF:-1,DOBRA SEVDAH HD
+http://line.4k-iptv.com:80/amel1/amel2/12072
+#EXTINF:-1,DOBRA SVADBA HD
+http://line.4k-iptv.com:80/amel1/amel2/12071
+#EXTINF:-1,DOBRA ISLAMSKA HD
+http://line.4k-iptv.com:80/amel1/amel2/12070
+#EXTINF:-1,DOBRA NAJ HAR HD
+http://line.4k-iptv.com:80/amel1/amel2/12069
+#EXTINF:-1,DOBRA PRAVOSLAVNA
+http://line.4k-iptv.com:80/amel1/amel2/12068
+#EXTINF:-1,DOBRA RUSKA HD
+http://line.4k-iptv.com:80/amel1/amel2/12067
 #EXTINF:-1,"==== SPORTSKI- MATORČEVIĆ  ===="
+#EXTINF:-1,SOS (SR)
+http://line.4k-iptv.com:80/amel1/amel2/266
+#EXTINF:-1,TV PARTIZAN HD (SR)
+http://line.4k-iptv.com:80/amel1/amel2/267
+#EXTINF:-1,HNTV (HR)
+http://line.4k-iptv.com:80/amel1/amel2/268
+#EXTINF:-1,SPORTSKA TV (HR)
+http://line.4k-iptv.com:80/amel1/amel2/269
+#EXTINF:-1,MOJA TV (BH)
+http://line.4k-iptv.com:80/amel1/amel2/270
+#EXTINF:-1,CITY TV (BH)
+http://line.4k-iptv.com:80/amel1/amel2/271
+#EXTINF:-1,SPORTKLUB HD
+http://line.4k-iptv.com:80/amel1/amel2/272
+#EXTINF:-1,SPORTKLUB 1 HD (SR)
+http://line.4k-iptv.com:80/amel1/amel2/273
+#EXTINF:-1,SPORTKLUB 2 HD (SR)
+http://line.4k-iptv.com:80/amel1/amel2/274
+#EXTINF:-1,SPORTKLUB 3 HD (SR)
+http://line.4k-iptv.com:80/amel1/amel2/275
+#EXTINF:-1,SPORT KLUB 1 (HR)
+http://line.4k-iptv.com:80/amel1/amel2/276
+#EXTINF:-1,SPORT KLUB 2 (HR)
+http://line.4k-iptv.com:80/amel1/amel2/277
+#EXTINF:-1,SPORT KLUB 3 (HR)
+http://line.4k-iptv.com:80/amel1/amel2/278
+#EXTINF:-1,SPORT KLUB 4 (HR)
+http://line.4k-iptv.com:80/amel1/amel2/279
+#EXTINF:-1,SPORT KLUB 5 (HR)
+http://line.4k-iptv.com:80/amel1/amel2/280
+#EXTINF:-1,SPORT KLUB 6 (HR)
+http://line.4k-iptv.com:80/amel1/amel2/281
+#EXTINF:-1,SPORT KLUB 7 (HR)
+http://line.4k-iptv.com:80/amel1/amel2/282
+#EXTINF:-1,SPORT KLUB 8 (HR)
+http://line.4k-iptv.com:80/amel1/amel2/283
+#EXTINF:-1,SPORT KLUB 9 (HR)
+http://line.4k-iptv.com:80/amel1/amel2/284
+#EXTINF:-1,SPORT KLUB 10 (HR)
+http://line.4k-iptv.com:80/amel1/amel2/285
+#EXTINF:-1,ARENA SPORT 1 BIH
+http://line.4k-iptv.com:80/amel1/amel2/286
+#EXTINF:-1,ARENA SPORT 1 HD (SR)
+http://line.4k-iptv.com:80/amel1/amel2/287
+#EXTINF:-1,ARENA SPORT 2 HD (SR)
+http://line.4k-iptv.com:80/amel1/amel2/288
+#EXTINF:-1,ARENA SPORT 3 HD (SR)
+http://line.4k-iptv.com:80/amel1/amel2/289
+#EXTINF:-1,ARENA SPORT 4 HD (SR)
+http://line.4k-iptv.com:80/amel1/amel2/290
+#EXTINF:-1,ARENA SPORT 1 HD (HR)
+http://line.4k-iptv.com:80/amel1/amel2/291
+#EXTINF:-1,ARENA SPORT 2 HD (HR)
+http://line.4k-iptv.com:80/amel1/amel2/292
+#EXTINF:-1,ARENA SPORT 3 HD (HR)
+http://line.4k-iptv.com:80/amel1/amel2/293
+#EXTINF:-1,ARENA SPORT 4 HD (HR)
+http://line.4k-iptv.com:80/amel1/amel2/294
+#EXTINF:-1,ARENA SPORT 6 HD (HR)
+http://line.4k-iptv.com:80/amel1/amel2/13277
+#EXTINF:-1,ARENA SPORT 7 HD (HR)
+http://line.4k-iptv.com:80/amel1/amel2/18984
+#EXTINF:-1,ARENA SPORT 8 HD (HR)
+http://line.4k-iptv.com:80/amel1/amel2/18983
+#EXTINF:-1,ARENA SPORT 9 HD (HR)
+http://line.4k-iptv.com:80/amel1/amel2/18982
+#EXTINF:-1,ARENA SPORT 10 HD (HR)
+http://line.4k-iptv.com:80/amel1/amel2/18981
+#EXTINF:-1,ARENA SPORT 5 HD (HR)
+http://line.4k-iptv.com:80/amel1/amel2/295
+#EXTINF:-1,EUROSPORT 1 HD (EXYU)
+http://line.4k-iptv.com:80/amel1/amel2/296
+#EXTINF:-1,EUROSPORT 2 (EXYU)
+http://line.4k-iptv.com:80/amel1/amel2/297
+#EXTINF:-1,FIGHTBOX (EXYU)
+http://line.4k-iptv.com:80/amel1/amel2/298
+#EXTINF:-1,PlanetSport 1
+http://line.4k-iptv.com:80/amel1/amel2/3622
+#EXTINF:-1,PlanetSport 2
+http://line.4k-iptv.com:80/amel1/amel2/3623
+#EXTINF:-1,PlanetSport 3
+http://line.4k-iptv.com:80/amel1/amel2/3624
+#EXTINF:-1,Zvezda TV
+http://line.4k-iptv.com:80/amel1/amel2/4052
+#EXTINF:-1,NOVA SPORT
+http://line.4k-iptv.com:80/amel1/amel2/4116
 #EXTINF:-1,EUROSPORT 1 HD
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/1093
 #EXTINF:-1,EUROSPORT 2 HD
@@ -1309,6 +1748,1166 @@ http://212.83.150.15:8058/;*.mp3
 #EXTINF:-1, Radio Karolina - Lagani NonStoP
 https://streaming.karolina.rs/karolinabezreklama.mp3
 #EXTINF:-1,"==== VIDEOTEKA- MATORČEVIĆ ===="
+#EXTINF:-1,Shaun the Sheep S01 E01
+http://line.4k-iptv.com:80/series/amel1/amel2/16975.mkv
+#EXTINF:-1,Shaun the Sheep S01 E02
+http://line.4k-iptv.com:80/series/amel1/amel2/16976.mkv
+#EXTINF:-1,Shaun the Sheep S01 E03
+http://line.4k-iptv.com:80/series/amel1/amel2/16977.mkv
+#EXTINF:-1,Shaun the Sheep S01 E04
+http://line.4k-iptv.com:80/series/amel1/amel2/16978.mkv
+#EXTINF:-1,Shaun the Sheep S01 E05
+http://line.4k-iptv.com:80/series/amel1/amel2/16979.mkv
+#EXTINF:-1,Shaun the Sheep S01 E06
+http://line.4k-iptv.com:80/series/amel1/amel2/16980.mkv
+#EXTINF:-1,Shaun the Sheep S01 E07
+http://line.4k-iptv.com:80/series/amel1/amel2/16981.mkv
+#EXTINF:-1,Shaun the Sheep S01 E08
+http://line.4k-iptv.com:80/series/amel1/amel2/16982.mkv
+#EXTINF:-1,Shaun the Sheep S01 E09
+http://line.4k-iptv.com:80/series/amel1/amel2/16983.mkv
+#EXTINF:-1,Shaun the Sheep S01 E10
+http://line.4k-iptv.com:80/series/amel1/amel2/16984.mkv
+#EXTINF:-1,Shaun the Sheep S01 E11
+http://line.4k-iptv.com:80/series/amel1/amel2/16985.mkv
+#EXTINF:-1,Shaun the Sheep S01 E12
+http://line.4k-iptv.com:80/series/amel1/amel2/16986.mkv
+#EXTINF:-1,Shaun the Sheep S01 E13
+http://line.4k-iptv.com:80/series/amel1/amel2/16987.mkv
+#EXTINF:-1,Shaun the Sheep S01 E14
+http://line.4k-iptv.com:80/series/amel1/amel2/16988.mkv
+#EXTINF:-1,Shaun the Sheep S01 E15
+http://line.4k-iptv.com:80/series/amel1/amel2/16989.mkv
+#EXTINF:-1,Shaun the Sheep S01 E16
+http://line.4k-iptv.com:80/series/amel1/amel2/16990.mkv
+#EXTINF:-1,Shaun the Sheep S01 E17
+http://line.4k-iptv.com:80/series/amel1/amel2/16991.mkv
+#EXTINF:-1,Shaun the Sheep S01 E18
+http://line.4k-iptv.com:80/series/amel1/amel2/16992.mkv
+#EXTINF:-1,Shaun the Sheep S01 E19
+http://line.4k-iptv.com:80/series/amel1/amel2/16993.mkv
+#EXTINF:-1,Shaun the Sheep S01 E20
+http://line.4k-iptv.com:80/series/amel1/amel2/16994.mkv
+#EXTINF:-1,Shaun the Sheep S01 E21
+http://line.4k-iptv.com:80/series/amel1/amel2/16995.mkv
+#EXTINF:-1,Shaun the Sheep S01 E22
+http://line.4k-iptv.com:80/series/amel1/amel2/16996.mkv
+#EXTINF:-1,Shaun the Sheep S01 E23
+http://line.4k-iptv.com:80/series/amel1/amel2/16997.mkv
+#EXTINF:-1,Shaun the Sheep S01 E24
+http://line.4k-iptv.com:80/series/amel1/amel2/16998.mkv
+#EXTINF:-1,Shaun the Sheep S01 E25
+http://line.4k-iptv.com:80/series/amel1/amel2/16999.mkv
+#EXTINF:-1,Shaun the Sheep S01 E26
+http://line.4k-iptv.com:80/series/amel1/amel2/17000.mkv
+#EXTINF:-1,Shaun the Sheep S01 E27
+http://line.4k-iptv.com:80/series/amel1/amel2/17001.mkv
+#EXTINF:-1,Shaun the Sheep S01 E28
+http://line.4k-iptv.com:80/series/amel1/amel2/17002.mkv
+#EXTINF:-1,Shaun the Sheep S01 E29
+http://line.4k-iptv.com:80/series/amel1/amel2/17003.mkv
+#EXTINF:-1,Shaun the Sheep S01 E30
+http://line.4k-iptv.com:80/series/amel1/amel2/17004.mkv
+#EXTINF:-1,Shaun the Sheep S01 E31
+http://line.4k-iptv.com:80/series/amel1/amel2/17005.mkv
+#EXTINF:-1,Shaun the Sheep S01 E32
+http://line.4k-iptv.com:80/series/amel1/amel2/17006.mkv
+#EXTINF:-1,Shaun the Sheep S01 E33
+http://line.4k-iptv.com:80/series/amel1/amel2/17007.mkv
+#EXTINF:-1,Shaun the Sheep S01 E34
+http://line.4k-iptv.com:80/series/amel1/amel2/17008.mkv
+#EXTINF:-1,Shaun the Sheep S01 E35
+http://line.4k-iptv.com:80/series/amel1/amel2/17009.mkv
+#EXTINF:-1,Shaun the Sheep S01 E36
+http://line.4k-iptv.com:80/series/amel1/amel2/17010.mkv
+#EXTINF:-1,Shaun the Sheep S01 E37
+http://line.4k-iptv.com:80/series/amel1/amel2/17011.mkv
+#EXTINF:-1,Shaun the Sheep S01 E38
+http://line.4k-iptv.com:80/series/amel1/amel2/17012.mkv
+#EXTINF:-1,Shaun the Sheep S01 E39
+http://line.4k-iptv.com:80/series/amel1/amel2/17013.mkv
+#EXTINF:-1,Shaun the Sheep S01 E40
+http://line.4k-iptv.com:80/series/amel1/amel2/17014.mkv
+#EXTINF:-1,Shaun the Sheep S02 E01
+http://line.4k-iptv.com:80/series/amel1/amel2/17015.mkv
+#EXTINF:-1,Shaun the Sheep S02 E02
+http://line.4k-iptv.com:80/series/amel1/amel2/17016.mkv
+#EXTINF:-1,Shaun the Sheep S02 E03
+http://line.4k-iptv.com:80/series/amel1/amel2/17017.mkv
+#EXTINF:-1,Shaun the Sheep S02 E04
+http://line.4k-iptv.com:80/series/amel1/amel2/17018.mkv
+#EXTINF:-1,Shaun the Sheep S02 E05
+http://line.4k-iptv.com:80/series/amel1/amel2/17019.mkv
+#EXTINF:-1,Shaun the Sheep S02 E06
+http://line.4k-iptv.com:80/series/amel1/amel2/17020.mkv
+#EXTINF:-1,Shaun the Sheep S02 E07
+http://line.4k-iptv.com:80/series/amel1/amel2/17021.mkv
+#EXTINF:-1,Shaun the Sheep S02 E08
+http://line.4k-iptv.com:80/series/amel1/amel2/17022.mkv
+#EXTINF:-1,Shaun the Sheep S02 E09
+http://line.4k-iptv.com:80/series/amel1/amel2/17023.mkv
+#EXTINF:-1,Shaun the Sheep S02 E10
+http://line.4k-iptv.com:80/series/amel1/amel2/17024.mkv
+#EXTINF:-1,Shaun the Sheep S02 E11
+http://line.4k-iptv.com:80/series/amel1/amel2/17025.mkv
+#EXTINF:-1,Shaun the Sheep S02 E12
+http://line.4k-iptv.com:80/series/amel1/amel2/17026.mkv
+#EXTINF:-1,Shaun the Sheep S02 E13
+http://line.4k-iptv.com:80/series/amel1/amel2/17027.mkv
+#EXTINF:-1,Shaun the Sheep S02 E14
+http://line.4k-iptv.com:80/series/amel1/amel2/17028.mkv
+#EXTINF:-1,Shaun the Sheep S02 E15
+http://line.4k-iptv.com:80/series/amel1/amel2/17029.mkv
+#EXTINF:-1,Shaun the Sheep S02 E16
+http://line.4k-iptv.com:80/series/amel1/amel2/17030.mkv
+#EXTINF:-1,Shaun the Sheep S02 E17
+http://line.4k-iptv.com:80/series/amel1/amel2/17031.mkv
+#EXTINF:-1,Shaun the Sheep S02 E18
+http://line.4k-iptv.com:80/series/amel1/amel2/17032.mkv
+#EXTINF:-1,Shaun the Sheep S02 E19
+http://line.4k-iptv.com:80/series/amel1/amel2/17033.mkv
+#EXTINF:-1,Shaun the Sheep S02 E20
+http://line.4k-iptv.com:80/series/amel1/amel2/17034.mkv
+#EXTINF:-1,Shaun the Sheep S02 E21
+http://line.4k-iptv.com:80/series/amel1/amel2/17035.mkv
+#EXTINF:-1,Shaun the Sheep S02 E22
+http://line.4k-iptv.com:80/series/amel1/amel2/17036.mkv
+#EXTINF:-1,Shaun the Sheep S02 E23
+http://line.4k-iptv.com:80/series/amel1/amel2/17037.mkv
+#EXTINF:-1,Shaun the Sheep S02 E24
+http://line.4k-iptv.com:80/series/amel1/amel2/17038.mkv
+#EXTINF:-1,Shaun the Sheep S02 E25
+http://line.4k-iptv.com:80/series/amel1/amel2/17039.mkv
+#EXTINF:-1,Shaun the Sheep S02 E26
+http://line.4k-iptv.com:80/series/amel1/amel2/17040.mkv
+#EXTINF:-1,Shaun the Sheep S02 E27
+http://line.4k-iptv.com:80/series/amel1/amel2/17041.mkv
+#EXTINF:-1,Shaun the Sheep S02 E28
+http://line.4k-iptv.com:80/series/amel1/amel2/17042.mkv
+#EXTINF:-1,Shaun the Sheep S02 E29
+http://line.4k-iptv.com:80/series/amel1/amel2/17043.mkv
+#EXTINF:-1,Shaun the Sheep S02 E30
+http://line.4k-iptv.com:80/series/amel1/amel2/17044.mkv
+#EXTINF:-1,Shaun the Sheep S02 E31
+http://line.4k-iptv.com:80/series/amel1/amel2/17045.mkv
+#EXTINF:-1,Shaun the Sheep S02 E32
+http://line.4k-iptv.com:80/series/amel1/amel2/17046.mkv
+#EXTINF:-1,Shaun the Sheep S02 E33
+http://line.4k-iptv.com:80/series/amel1/amel2/17047.mkv
+#EXTINF:-1,Shaun the Sheep S02 E34
+http://line.4k-iptv.com:80/series/amel1/amel2/17048.mkv
+#EXTINF:-1,Shaun the Sheep S02 E35
+http://line.4k-iptv.com:80/series/amel1/amel2/17049.mkv
+#EXTINF:-1,Shaun the Sheep S02 E36
+http://line.4k-iptv.com:80/series/amel1/amel2/17050.mkv
+#EXTINF:-1,Shaun the Sheep S02 E37
+http://line.4k-iptv.com:80/series/amel1/amel2/17051.mkv
+#EXTINF:-1,Shaun the Sheep S02 E38
+http://line.4k-iptv.com:80/series/amel1/amel2/17052.mkv
+#EXTINF:-1,Shaun the Sheep S02 E39
+http://line.4k-iptv.com:80/series/amel1/amel2/17053.mkv
+#EXTINF:-1,Shaun the Sheep S02 E40
+http://line.4k-iptv.com:80/series/amel1/amel2/17054.mkv
+#EXTINF:-1,Shaun the Sheep S03 E01
+http://line.4k-iptv.com:80/series/amel1/amel2/17055.mkv
+#EXTINF:-1,Shaun the Sheep S03 E02
+http://line.4k-iptv.com:80/series/amel1/amel2/17056.mkv
+#EXTINF:-1,Shaun the Sheep S03 E03
+http://line.4k-iptv.com:80/series/amel1/amel2/17057.mkv
+#EXTINF:-1,Shaun the Sheep S03 E04
+http://line.4k-iptv.com:80/series/amel1/amel2/17058.mkv
+#EXTINF:-1,Shaun the Sheep S03 E05
+http://line.4k-iptv.com:80/series/amel1/amel2/17059.mkv
+#EXTINF:-1,Shaun the Sheep S03 E06
+http://line.4k-iptv.com:80/series/amel1/amel2/17060.mkv
+#EXTINF:-1,Shaun the Sheep S03 E07
+http://line.4k-iptv.com:80/series/amel1/amel2/17061.mkv
+#EXTINF:-1,Shaun the Sheep S03 E08
+http://line.4k-iptv.com:80/series/amel1/amel2/17062.mkv
+#EXTINF:-1,Shaun the Sheep S03 E09
+http://line.4k-iptv.com:80/series/amel1/amel2/17063.mkv
+#EXTINF:-1,Shaun the Sheep S03 E10
+http://line.4k-iptv.com:80/series/amel1/amel2/17064.mkv
+#EXTINF:-1,Shaun the Sheep S03 E11
+http://line.4k-iptv.com:80/series/amel1/amel2/17065.mkv
+#EXTINF:-1,Shaun the Sheep S03 E12
+http://line.4k-iptv.com:80/series/amel1/amel2/17066.mkv
+#EXTINF:-1,Shaun the Sheep S03 E13
+http://line.4k-iptv.com:80/series/amel1/amel2/17067.mkv
+#EXTINF:-1,Shaun the Sheep S03 E14
+http://line.4k-iptv.com:80/series/amel1/amel2/17068.mkv
+#EXTINF:-1,Shaun the Sheep S03 E15
+http://line.4k-iptv.com:80/series/amel1/amel2/17069.mkv
+#EXTINF:-1,Shaun the Sheep S03 E16
+http://line.4k-iptv.com:80/series/amel1/amel2/17070.mkv
+#EXTINF:-1,Shaun the Sheep S03 E17
+http://line.4k-iptv.com:80/series/amel1/amel2/17071.mkv
+#EXTINF:-1,Shaun the Sheep S03 E18
+http://line.4k-iptv.com:80/series/amel1/amel2/17072.mkv
+#EXTINF:-1,Shaun the Sheep S03 E19
+http://line.4k-iptv.com:80/series/amel1/amel2/17073.mkv
+#EXTINF:-1,Shaun the Sheep S03 E20
+http://line.4k-iptv.com:80/series/amel1/amel2/17074.mkv
+#EXTINF:-1,Shaun the Sheep S04 E01
+http://line.4k-iptv.com:80/series/amel1/amel2/17075.mkv
+#EXTINF:-1,Shaun the Sheep S04 E02
+http://line.4k-iptv.com:80/series/amel1/amel2/17076.mkv
+#EXTINF:-1,Shaun the Sheep S04 E03
+http://line.4k-iptv.com:80/series/amel1/amel2/17077.mkv
+#EXTINF:-1,Shaun the Sheep S04 E04
+http://line.4k-iptv.com:80/series/amel1/amel2/17078.mkv
+#EXTINF:-1,Shaun the Sheep S04 E05
+http://line.4k-iptv.com:80/series/amel1/amel2/17079.mkv
+#EXTINF:-1,Shaun the Sheep S04 E06
+http://line.4k-iptv.com:80/series/amel1/amel2/17080.mkv
+#EXTINF:-1,Shaun the Sheep S04 E07
+http://line.4k-iptv.com:80/series/amel1/amel2/17081.mkv
+#EXTINF:-1,Shaun the Sheep S04 E08
+http://line.4k-iptv.com:80/series/amel1/amel2/17082.mkv
+#EXTINF:-1,Shaun the Sheep S04 E09
+http://line.4k-iptv.com:80/series/amel1/amel2/17083.mkv
+#EXTINF:-1,Shaun the Sheep S04 E10
+http://line.4k-iptv.com:80/series/amel1/amel2/17084.mkv
+#EXTINF:-1,Shaun the Sheep S04 E11
+http://line.4k-iptv.com:80/series/amel1/amel2/17085.mkv
+#EXTINF:-1,Shaun the Sheep S04 E12
+http://line.4k-iptv.com:80/series/amel1/amel2/17086.mkv
+#EXTINF:-1,Shaun the Sheep S04 E13
+http://line.4k-iptv.com:80/series/amel1/amel2/17087.mkv
+#EXTINF:-1,Shaun the Sheep S04 E14
+http://line.4k-iptv.com:80/series/amel1/amel2/17088.mkv
+#EXTINF:-1,Shaun the Sheep S04 E15
+http://line.4k-iptv.com:80/series/amel1/amel2/17089.mkv
+#EXTINF:-1,Shaun the Sheep S04 E16
+http://line.4k-iptv.com:80/series/amel1/amel2/17090.mkv
+#EXTINF:-1,Shaun the Sheep S04 E17
+http://line.4k-iptv.com:80/series/amel1/amel2/17091.mkv
+#EXTINF:-1,Shaun the Sheep S04 E18
+http://line.4k-iptv.com:80/series/amel1/amel2/17092.mkv
+#EXTINF:-1,Shaun the Sheep S04 E19
+http://line.4k-iptv.com:80/series/amel1/amel2/17093.mkv
+#EXTINF:-1,Shaun the Sheep S04 E20
+http://line.4k-iptv.com:80/series/amel1/amel2/17094.mkv
+#EXTINF:-1,Shaun the Sheep S04 E21
+http://line.4k-iptv.com:80/series/amel1/amel2/17095.mkv
+#EXTINF:-1,Shaun the Sheep S04 E22
+http://line.4k-iptv.com:80/series/amel1/amel2/17096.mkv
+#EXTINF:-1,Shaun the Sheep S04 E23
+http://line.4k-iptv.com:80/series/amel1/amel2/17097.mkv
+#EXTINF:-1,Shaun the Sheep S04 E24
+http://line.4k-iptv.com:80/series/amel1/amel2/17098.mkv
+#EXTINF:-1,Shaun the Sheep S04 E25
+http://line.4k-iptv.com:80/series/amel1/amel2/17099.mkv
+#EXTINF:-1,Shaun the Sheep S04 E26
+http://line.4k-iptv.com:80/series/amel1/amel2/17100.mkv
+#EXTINF:-1,Shaun the Sheep S04 E27
+http://line.4k-iptv.com:80/series/amel1/amel2/17101.mkv
+#EXTINF:-1,Shaun the Sheep S04 E28
+http://line.4k-iptv.com:80/series/amel1/amel2/17102.mkv
+#EXTINF:-1,Shaun the Sheep S04 E29
+http://line.4k-iptv.com:80/series/amel1/amel2/17103.mkv
+#EXTINF:-1,Shaun the Sheep S04 E30
+http://line.4k-iptv.com:80/series/amel1/amel2/17104.mkv
+#EXTINF:-1,Shaun the Sheep S05 E01
+http://line.4k-iptv.com:80/series/amel1/amel2/17105.mkv
+#EXTINF:-1,Shaun the Sheep S05 E02
+http://line.4k-iptv.com:80/series/amel1/amel2/17106.mkv
+#EXTINF:-1,Shaun the Sheep S05 E03
+http://line.4k-iptv.com:80/series/amel1/amel2/17107.mkv
+#EXTINF:-1,Shaun the Sheep S05 E04
+http://line.4k-iptv.com:80/series/amel1/amel2/17108.mkv
+#EXTINF:-1,Shaun the Sheep S05 E05
+http://line.4k-iptv.com:80/series/amel1/amel2/17109.mkv
+#EXTINF:-1,Shaun the Sheep S05 E06
+http://line.4k-iptv.com:80/series/amel1/amel2/17110.mkv
+#EXTINF:-1,Shaun the Sheep S05 E07
+http://line.4k-iptv.com:80/series/amel1/amel2/17111.mkv
+#EXTINF:-1,Shaun the Sheep S05 E08
+http://line.4k-iptv.com:80/series/amel1/amel2/17112.mkv
+#EXTINF:-1,Shaun the Sheep S05 E09
+http://line.4k-iptv.com:80/series/amel1/amel2/17113.mkv
+#EXTINF:-1,Shaun the Sheep S05 E10
+http://line.4k-iptv.com:80/series/amel1/amel2/17114.mkv
+#EXTINF:-1,Shaun the Sheep S05 E11
+http://line.4k-iptv.com:80/series/amel1/amel2/17115.mkv
+#EXTINF:-1,Shaun the Sheep S05 E12
+http://line.4k-iptv.com:80/series/amel1/amel2/17116.mkv
+#EXTINF:-1,Shaun the Sheep S05 E13
+http://line.4k-iptv.com:80/series/amel1/amel2/17117.mkv
+#EXTINF:-1,Shaun the Sheep S05 E14
+http://line.4k-iptv.com:80/series/amel1/amel2/17118.mkv
+#EXTINF:-1,Shaun the Sheep S05 E15
+http://line.4k-iptv.com:80/series/amel1/amel2/17119.mkv
+#EXTINF:-1,Shaun the Sheep S05 E16
+http://line.4k-iptv.com:80/series/amel1/amel2/17120.mkv
+#EXTINF:-1,Shaun the Sheep S05 E17
+http://line.4k-iptv.com:80/series/amel1/amel2/17121.mkv
+#EXTINF:-1,Shaun the Sheep S05 E18
+http://line.4k-iptv.com:80/series/amel1/amel2/17122.mkv
+#EXTINF:-1,Shaun the Sheep S05 E19
+http://line.4k-iptv.com:80/series/amel1/amel2/17123.mkv
+#EXTINF:-1,Shaun the Sheep S05 E20
+http://line.4k-iptv.com:80/series/amel1/amel2/17124.mkv
+#EXTINF:-1,Shaun the Sheep S06 E01
+http://line.4k-iptv.com:80/series/amel1/amel2/16955.mkv
+#EXTINF:-1,Shaun the Sheep S06 E02
+http://line.4k-iptv.com:80/series/amel1/amel2/16956.mkv
+#EXTINF:-1,Shaun the Sheep S06 E03
+http://line.4k-iptv.com:80/series/amel1/amel2/16957.mkv
+#EXTINF:-1,Shaun the Sheep S06 E04
+http://line.4k-iptv.com:80/series/amel1/amel2/16958.mkv
+#EXTINF:-1,Shaun the Sheep S06 E05
+http://line.4k-iptv.com:80/series/amel1/amel2/16959.mkv
+#EXTINF:-1,Shaun the Sheep S06 E06
+http://line.4k-iptv.com:80/series/amel1/amel2/16960.mkv
+#EXTINF:-1,Shaun the Sheep S06 E07
+http://line.4k-iptv.com:80/series/amel1/amel2/16961.mkv
+#EXTINF:-1,Shaun the Sheep S06 E08
+http://line.4k-iptv.com:80/series/amel1/amel2/16962.mkv
+#EXTINF:-1,Shaun the Sheep S06 E09
+http://line.4k-iptv.com:80/series/amel1/amel2/16963.mkv
+#EXTINF:-1,Shaun the Sheep S06 E10
+http://line.4k-iptv.com:80/series/amel1/amel2/16964.mkv
+#EXTINF:-1,Shaun the Sheep S06 E11
+http://line.4k-iptv.com:80/series/amel1/amel2/16965.mkv
+#EXTINF:-1,Shaun the Sheep S06 E12
+http://line.4k-iptv.com:80/series/amel1/amel2/16966.mkv
+#EXTINF:-1,Shaun the Sheep S06 E13
+http://line.4k-iptv.com:80/series/amel1/amel2/16967.mkv
+#EXTINF:-1,Shaun the Sheep S06 E14
+http://line.4k-iptv.com:80/series/amel1/amel2/16968.mkv
+#EXTINF:-1,Shaun the Sheep S06 E15
+http://line.4k-iptv.com:80/series/amel1/amel2/16969.mkv
+#EXTINF:-1,Shaun the Sheep S06 E16
+http://line.4k-iptv.com:80/series/amel1/amel2/16970.mkv
+#EXTINF:-1,Shaun the Sheep S06 E17
+http://line.4k-iptv.com:80/series/amel1/amel2/16971.mkv
+#EXTINF:-1,Shaun the Sheep S06 E18
+http://line.4k-iptv.com:80/series/amel1/amel2/16972.mkv
+#EXTINF:-1,Shaun the Sheep S06 E19
+http://line.4k-iptv.com:80/series/amel1/amel2/16973.mkv
+#EXTINF:-1,Shaun the Sheep S06 E20
+http://line.4k-iptv.com:80/series/amel1/amel2/16974.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E01
+http://line.4k-iptv.com:80/series/amel1/amel2/17136.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E02
+http://line.4k-iptv.com:80/series/amel1/amel2/17137.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E03
+http://line.4k-iptv.com:80/series/amel1/amel2/17138.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E04
+http://line.4k-iptv.com:80/series/amel1/amel2/17139.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E05
+http://line.4k-iptv.com:80/series/amel1/amel2/17140.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E06
+http://line.4k-iptv.com:80/series/amel1/amel2/17141.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E07
+http://line.4k-iptv.com:80/series/amel1/amel2/17142.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E08
+http://line.4k-iptv.com:80/series/amel1/amel2/17143.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E09
+http://line.4k-iptv.com:80/series/amel1/amel2/17144.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E10
+http://line.4k-iptv.com:80/series/amel1/amel2/17145.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E11
+http://line.4k-iptv.com:80/series/amel1/amel2/17146.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E12
+http://line.4k-iptv.com:80/series/amel1/amel2/17147.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E13
+http://line.4k-iptv.com:80/series/amel1/amel2/17148.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E14
+http://line.4k-iptv.com:80/series/amel1/amel2/17149.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E15
+http://line.4k-iptv.com:80/series/amel1/amel2/17150.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E16
+http://line.4k-iptv.com:80/series/amel1/amel2/17151.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E17
+http://line.4k-iptv.com:80/series/amel1/amel2/17152.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E18
+http://line.4k-iptv.com:80/series/amel1/amel2/17153.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E19
+http://line.4k-iptv.com:80/series/amel1/amel2/17154.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E20
+http://line.4k-iptv.com:80/series/amel1/amel2/17155.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E21
+http://line.4k-iptv.com:80/series/amel1/amel2/17156.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E22
+http://line.4k-iptv.com:80/series/amel1/amel2/17157.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E23
+http://line.4k-iptv.com:80/series/amel1/amel2/17158.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E24
+http://line.4k-iptv.com:80/series/amel1/amel2/17159.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E25
+http://line.4k-iptv.com:80/series/amel1/amel2/17160.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E26
+http://line.4k-iptv.com:80/series/amel1/amel2/17161.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E27
+http://line.4k-iptv.com:80/series/amel1/amel2/17162.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E28
+http://line.4k-iptv.com:80/series/amel1/amel2/17163.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E29
+http://line.4k-iptv.com:80/series/amel1/amel2/17164.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E30
+http://line.4k-iptv.com:80/series/amel1/amel2/17165.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E31
+http://line.4k-iptv.com:80/series/amel1/amel2/17166.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E32
+http://line.4k-iptv.com:80/series/amel1/amel2/17167.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E33
+http://line.4k-iptv.com:80/series/amel1/amel2/17168.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E34
+http://line.4k-iptv.com:80/series/amel1/amel2/17169.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E35
+http://line.4k-iptv.com:80/series/amel1/amel2/17170.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E36
+http://line.4k-iptv.com:80/series/amel1/amel2/17171.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E37
+http://line.4k-iptv.com:80/series/amel1/amel2/17172.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E38
+http://line.4k-iptv.com:80/series/amel1/amel2/17173.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E39
+http://line.4k-iptv.com:80/series/amel1/amel2/17174.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E40
+http://line.4k-iptv.com:80/series/amel1/amel2/17175.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E41
+http://line.4k-iptv.com:80/series/amel1/amel2/17176.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E42
+http://line.4k-iptv.com:80/series/amel1/amel2/17177.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E43
+http://line.4k-iptv.com:80/series/amel1/amel2/17178.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E44
+http://line.4k-iptv.com:80/series/amel1/amel2/17179.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E45
+http://line.4k-iptv.com:80/series/amel1/amel2/17180.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E46
+http://line.4k-iptv.com:80/series/amel1/amel2/17181.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E47
+http://line.4k-iptv.com:80/series/amel1/amel2/17182.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E48
+http://line.4k-iptv.com:80/series/amel1/amel2/17183.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E49
+http://line.4k-iptv.com:80/series/amel1/amel2/17184.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E50
+http://line.4k-iptv.com:80/series/amel1/amel2/17185.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E51
+http://line.4k-iptv.com:80/series/amel1/amel2/17186.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E52
+http://line.4k-iptv.com:80/series/amel1/amel2/17187.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E53
+http://line.4k-iptv.com:80/series/amel1/amel2/17188.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E54
+http://line.4k-iptv.com:80/series/amel1/amel2/17189.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E55
+http://line.4k-iptv.com:80/series/amel1/amel2/17190.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E56
+http://line.4k-iptv.com:80/series/amel1/amel2/17191.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E57
+http://line.4k-iptv.com:80/series/amel1/amel2/17192.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E58
+http://line.4k-iptv.com:80/series/amel1/amel2/17193.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E59
+http://line.4k-iptv.com:80/series/amel1/amel2/17194.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E60
+http://line.4k-iptv.com:80/series/amel1/amel2/17195.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E61
+http://line.4k-iptv.com:80/series/amel1/amel2/17196.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E62
+http://line.4k-iptv.com:80/series/amel1/amel2/17197.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E63
+http://line.4k-iptv.com:80/series/amel1/amel2/17198.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E64
+http://line.4k-iptv.com:80/series/amel1/amel2/17199.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E65
+http://line.4k-iptv.com:80/series/amel1/amel2/17200.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E66
+http://line.4k-iptv.com:80/series/amel1/amel2/17201.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E67
+http://line.4k-iptv.com:80/series/amel1/amel2/17202.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E68
+http://line.4k-iptv.com:80/series/amel1/amel2/17203.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E69
+http://line.4k-iptv.com:80/series/amel1/amel2/17204.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E70
+http://line.4k-iptv.com:80/series/amel1/amel2/17205.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E71
+http://line.4k-iptv.com:80/series/amel1/amel2/17206.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E72
+http://line.4k-iptv.com:80/series/amel1/amel2/17207.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E73
+http://line.4k-iptv.com:80/series/amel1/amel2/17208.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E74
+http://line.4k-iptv.com:80/series/amel1/amel2/17209.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E75
+http://line.4k-iptv.com:80/series/amel1/amel2/17210.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E76
+http://line.4k-iptv.com:80/series/amel1/amel2/17211.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E77
+http://line.4k-iptv.com:80/series/amel1/amel2/17212.mkv
+#EXTINF:-1,Grizzy &amp; the Lemmings S01 E78
+http://line.4k-iptv.com:80/series/amel1/amel2/17213.mkv
+#EXTINF:-1,Andrija and Andjelka S01 E01
+http://line.4k-iptv.com:80/series/amel1/amel2/17273.avi
+#EXTINF:-1,Andrija and Andjelka S01 E02
+http://line.4k-iptv.com:80/series/amel1/amel2/17284.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E03
+http://line.4k-iptv.com:80/series/amel1/amel2/17296.avi
+#EXTINF:-1,Andrija and Andjelka S01 E04
+http://line.4k-iptv.com:80/series/amel1/amel2/17307.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E05
+http://line.4k-iptv.com:80/series/amel1/amel2/17318.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E06
+http://line.4k-iptv.com:80/series/amel1/amel2/17329.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E07
+http://line.4k-iptv.com:80/series/amel1/amel2/17335.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E08
+http://line.4k-iptv.com:80/series/amel1/amel2/17336.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E09
+http://line.4k-iptv.com:80/series/amel1/amel2/17337.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E10
+http://line.4k-iptv.com:80/series/amel1/amel2/17274.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E11
+http://line.4k-iptv.com:80/series/amel1/amel2/17275.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E12
+http://line.4k-iptv.com:80/series/amel1/amel2/17276.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E13
+http://line.4k-iptv.com:80/series/amel1/amel2/17277.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E14
+http://line.4k-iptv.com:80/series/amel1/amel2/17278.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E15
+http://line.4k-iptv.com:80/series/amel1/amel2/17279.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E16
+http://line.4k-iptv.com:80/series/amel1/amel2/17280.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E17
+http://line.4k-iptv.com:80/series/amel1/amel2/17281.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E18
+http://line.4k-iptv.com:80/series/amel1/amel2/17282.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E19
+http://line.4k-iptv.com:80/series/amel1/amel2/17283.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E20
+http://line.4k-iptv.com:80/series/amel1/amel2/17285.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E21
+http://line.4k-iptv.com:80/series/amel1/amel2/17287.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E22
+http://line.4k-iptv.com:80/series/amel1/amel2/17286.avi
+#EXTINF:-1,Andrija and Andjelka S01 E23
+http://line.4k-iptv.com:80/series/amel1/amel2/17288.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E24
+http://line.4k-iptv.com:80/series/amel1/amel2/17289.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E25
+http://line.4k-iptv.com:80/series/amel1/amel2/17290.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E26
+http://line.4k-iptv.com:80/series/amel1/amel2/17291.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E27
+http://line.4k-iptv.com:80/series/amel1/amel2/17292.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E28
+http://line.4k-iptv.com:80/series/amel1/amel2/17293.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E29
+http://line.4k-iptv.com:80/series/amel1/amel2/17294.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E30
+http://line.4k-iptv.com:80/series/amel1/amel2/17295.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E31
+http://line.4k-iptv.com:80/series/amel1/amel2/17297.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E32
+http://line.4k-iptv.com:80/series/amel1/amel2/17298.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E33
+http://line.4k-iptv.com:80/series/amel1/amel2/17299.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E34
+http://line.4k-iptv.com:80/series/amel1/amel2/17300.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E35
+http://line.4k-iptv.com:80/series/amel1/amel2/17301.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E36
+http://line.4k-iptv.com:80/series/amel1/amel2/17302.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E37
+http://line.4k-iptv.com:80/series/amel1/amel2/17303.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E38
+http://line.4k-iptv.com:80/series/amel1/amel2/17304.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E39
+http://line.4k-iptv.com:80/series/amel1/amel2/17305.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E40
+http://line.4k-iptv.com:80/series/amel1/amel2/17306.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E41
+http://line.4k-iptv.com:80/series/amel1/amel2/17308.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E42
+http://line.4k-iptv.com:80/series/amel1/amel2/17309.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E43
+http://line.4k-iptv.com:80/series/amel1/amel2/17310.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E44
+http://line.4k-iptv.com:80/series/amel1/amel2/17311.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E45
+http://line.4k-iptv.com:80/series/amel1/amel2/17312.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E46
+http://line.4k-iptv.com:80/series/amel1/amel2/17313.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E47
+http://line.4k-iptv.com:80/series/amel1/amel2/17314.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E48
+http://line.4k-iptv.com:80/series/amel1/amel2/17315.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E49
+http://line.4k-iptv.com:80/series/amel1/amel2/17316.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E50
+http://line.4k-iptv.com:80/series/amel1/amel2/17317.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E51
+http://line.4k-iptv.com:80/series/amel1/amel2/17319.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E52
+http://line.4k-iptv.com:80/series/amel1/amel2/17320.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E53
+http://line.4k-iptv.com:80/series/amel1/amel2/17321.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E54
+http://line.4k-iptv.com:80/series/amel1/amel2/17322.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E55
+http://line.4k-iptv.com:80/series/amel1/amel2/17323.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E56
+http://line.4k-iptv.com:80/series/amel1/amel2/17324.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E57
+http://line.4k-iptv.com:80/series/amel1/amel2/17325.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E58
+http://line.4k-iptv.com:80/series/amel1/amel2/17326.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E59
+http://line.4k-iptv.com:80/series/amel1/amel2/17327.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E60
+http://line.4k-iptv.com:80/series/amel1/amel2/17328.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E61
+http://line.4k-iptv.com:80/series/amel1/amel2/17330.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E62
+http://line.4k-iptv.com:80/series/amel1/amel2/17331.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E63
+http://line.4k-iptv.com:80/series/amel1/amel2/17332.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E64
+http://line.4k-iptv.com:80/series/amel1/amel2/17333.mp4
+#EXTINF:-1,Andrija and Andjelka S01 E65
+http://line.4k-iptv.com:80/series/amel1/amel2/17334.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E01
+http://line.4k-iptv.com:80/series/amel1/amel2/17338.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E02
+http://line.4k-iptv.com:80/series/amel1/amel2/17339.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E03
+http://line.4k-iptv.com:80/series/amel1/amel2/17340.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E04
+http://line.4k-iptv.com:80/series/amel1/amel2/17341.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E05
+http://line.4k-iptv.com:80/series/amel1/amel2/17342.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E06
+http://line.4k-iptv.com:80/series/amel1/amel2/17343.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E07
+http://line.4k-iptv.com:80/series/amel1/amel2/17344.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E08
+http://line.4k-iptv.com:80/series/amel1/amel2/17345.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E09
+http://line.4k-iptv.com:80/series/amel1/amel2/17346.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E10
+http://line.4k-iptv.com:80/series/amel1/amel2/17347.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E11
+http://line.4k-iptv.com:80/series/amel1/amel2/17348.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E12
+http://line.4k-iptv.com:80/series/amel1/amel2/17349.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E13
+http://line.4k-iptv.com:80/series/amel1/amel2/17350.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E14
+http://line.4k-iptv.com:80/series/amel1/amel2/17351.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E15
+http://line.4k-iptv.com:80/series/amel1/amel2/17352.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E16
+http://line.4k-iptv.com:80/series/amel1/amel2/17353.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E17
+http://line.4k-iptv.com:80/series/amel1/amel2/17354.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E18
+http://line.4k-iptv.com:80/series/amel1/amel2/17355.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E19
+http://line.4k-iptv.com:80/series/amel1/amel2/17356.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E20
+http://line.4k-iptv.com:80/series/amel1/amel2/17357.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E21
+http://line.4k-iptv.com:80/series/amel1/amel2/17358.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E22
+http://line.4k-iptv.com:80/series/amel1/amel2/17359.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E23
+http://line.4k-iptv.com:80/series/amel1/amel2/17360.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E24
+http://line.4k-iptv.com:80/series/amel1/amel2/17361.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E25
+http://line.4k-iptv.com:80/series/amel1/amel2/17362.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E26
+http://line.4k-iptv.com:80/series/amel1/amel2/17363.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E27
+http://line.4k-iptv.com:80/series/amel1/amel2/17364.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E28
+http://line.4k-iptv.com:80/series/amel1/amel2/17365.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E29
+http://line.4k-iptv.com:80/series/amel1/amel2/17366.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E30
+http://line.4k-iptv.com:80/series/amel1/amel2/17367.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E31
+http://line.4k-iptv.com:80/series/amel1/amel2/17368.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E32
+http://line.4k-iptv.com:80/series/amel1/amel2/17369.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E33
+http://line.4k-iptv.com:80/series/amel1/amel2/17370.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E34
+http://line.4k-iptv.com:80/series/amel1/amel2/17371.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E35
+http://line.4k-iptv.com:80/series/amel1/amel2/17372.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E36
+http://line.4k-iptv.com:80/series/amel1/amel2/17373.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E37
+http://line.4k-iptv.com:80/series/amel1/amel2/17374.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E38
+http://line.4k-iptv.com:80/series/amel1/amel2/17375.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E39
+http://line.4k-iptv.com:80/series/amel1/amel2/17376.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E40
+http://line.4k-iptv.com:80/series/amel1/amel2/17377.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E41
+http://line.4k-iptv.com:80/series/amel1/amel2/17378.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E42
+http://line.4k-iptv.com:80/series/amel1/amel2/17379.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E43
+http://line.4k-iptv.com:80/series/amel1/amel2/17380.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E44
+http://line.4k-iptv.com:80/series/amel1/amel2/17381.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E45
+http://line.4k-iptv.com:80/series/amel1/amel2/17382.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E46
+http://line.4k-iptv.com:80/series/amel1/amel2/17383.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E47
+http://line.4k-iptv.com:80/series/amel1/amel2/17384.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E48
+http://line.4k-iptv.com:80/series/amel1/amel2/17385.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E49
+http://line.4k-iptv.com:80/series/amel1/amel2/17386.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E50
+http://line.4k-iptv.com:80/series/amel1/amel2/17387.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E51
+http://line.4k-iptv.com:80/series/amel1/amel2/17388.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E52
+http://line.4k-iptv.com:80/series/amel1/amel2/17389.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E53
+http://line.4k-iptv.com:80/series/amel1/amel2/17390.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E54
+http://line.4k-iptv.com:80/series/amel1/amel2/17391.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E55
+http://line.4k-iptv.com:80/series/amel1/amel2/17392.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E56
+http://line.4k-iptv.com:80/series/amel1/amel2/17393.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E57
+http://line.4k-iptv.com:80/series/amel1/amel2/17394.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E58
+http://line.4k-iptv.com:80/series/amel1/amel2/17395.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E59
+http://line.4k-iptv.com:80/series/amel1/amel2/17396.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E60
+http://line.4k-iptv.com:80/series/amel1/amel2/17397.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E61
+http://line.4k-iptv.com:80/series/amel1/amel2/17398.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E62
+http://line.4k-iptv.com:80/series/amel1/amel2/17399.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E63
+http://line.4k-iptv.com:80/series/amel1/amel2/17400.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E64
+http://line.4k-iptv.com:80/series/amel1/amel2/17401.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E65
+http://line.4k-iptv.com:80/series/amel1/amel2/17402.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E66
+http://line.4k-iptv.com:80/series/amel1/amel2/17403.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E67
+http://line.4k-iptv.com:80/series/amel1/amel2/17404.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E68
+http://line.4k-iptv.com:80/series/amel1/amel2/17405.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E69
+http://line.4k-iptv.com:80/series/amel1/amel2/17406.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E70
+http://line.4k-iptv.com:80/series/amel1/amel2/17407.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E71
+http://line.4k-iptv.com:80/series/amel1/amel2/17408.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E72
+http://line.4k-iptv.com:80/series/amel1/amel2/17409.mp4
+#EXTINF:-1,Andrija and Andjelka S02 E73
+http://line.4k-iptv.com:80/series/amel1/amel2/17410.mp4
+#EXTINF:-1,Andrija and Andjelka S03 E01
+http://line.4k-iptv.com:80/series/amel1/amel2/17411.mp4
+#EXTINF:-1,Andrija and Andjelka S03 E02
+http://line.4k-iptv.com:80/series/amel1/amel2/17412.mp4
+#EXTINF:-1,Andrija and Andjelka S03 E03
+http://line.4k-iptv.com:80/series/amel1/amel2/17413.mp4
+#EXTINF:-1,Andrija and Andjelka S03 E04
+http://line.4k-iptv.com:80/series/amel1/amel2/17414.mp4
+#EXTINF:-1,Andrija and Andjelka S03 E05
+http://line.4k-iptv.com:80/series/amel1/amel2/17415.mp4
+#EXTINF:-1,Andrija and Andjelka S03 E06
+http://line.4k-iptv.com:80/series/amel1/amel2/17416.mp4
+#EXTINF:-1,Andrija and Andjelka S03 E07
+http://line.4k-iptv.com:80/series/amel1/amel2/17417.mp4
+#EXTINF:-1,Andrija and Andjelka S03 E08
+http://line.4k-iptv.com:80/series/amel1/amel2/17418.mp4
+#EXTINF:-1,Andrija and Andjelka S03 E09
+http://line.4k-iptv.com:80/series/amel1/amel2/17419.mp4
+#EXTINF:-1,Andrija and Andjelka S03 E10
+http://line.4k-iptv.com:80/series/amel1/amel2/17420.mp4
+#EXTINF:-1,Kriza Srednjih Godina S01 E01
+http://line.4k-iptv.com:80/series/amel1/amel2/17544.avi
+#EXTINF:-1,Kriza Srednjih Godina S01 E02
+http://line.4k-iptv.com:80/series/amel1/amel2/17548.avi
+#EXTINF:-1,Kriza Srednjih Godina S01 E03
+http://line.4k-iptv.com:80/series/amel1/amel2/17549.avi
+#EXTINF:-1,Kriza Srednjih Godina S01 E04
+http://line.4k-iptv.com:80/series/amel1/amel2/17550.avi
+#EXTINF:-1,Kriza Srednjih Godina S01 E05
+http://line.4k-iptv.com:80/series/amel1/amel2/17551.avi
+#EXTINF:-1,Kriza Srednjih Godina S01 E06
+http://line.4k-iptv.com:80/series/amel1/amel2/17552.avi
+#EXTINF:-1,Kriza Srednjih Godina S01 E07
+http://line.4k-iptv.com:80/series/amel1/amel2/17553.avi
+#EXTINF:-1,Kriza Srednjih Godina S01 E08
+http://line.4k-iptv.com:80/series/amel1/amel2/17554.avi
+#EXTINF:-1,Kriza Srednjih Godina S01 E09
+http://line.4k-iptv.com:80/series/amel1/amel2/17555.avi
+#EXTINF:-1,Kriza Srednjih Godina S01 E10
+http://line.4k-iptv.com:80/series/amel1/amel2/17545.avi
+#EXTINF:-1,Kriza Srednjih Godina S01 E11
+http://line.4k-iptv.com:80/series/amel1/amel2/17546.avi
+#EXTINF:-1,Kriza Srednjih Godina S01 E12
+http://line.4k-iptv.com:80/series/amel1/amel2/17547.avi
+#EXTINF:-1,Kriza Srednjih Godina S02 E01
+http://line.4k-iptv.com:80/series/amel1/amel2/17556.avi
+#EXTINF:-1,Kriza Srednjih Godina S02 E02
+http://line.4k-iptv.com:80/series/amel1/amel2/17557.avi
+#EXTINF:-1,Kriza Srednjih Godina S02 E03
+http://line.4k-iptv.com:80/series/amel1/amel2/17558.avi
+#EXTINF:-1,Kriza Srednjih Godina S02 E04
+http://line.4k-iptv.com:80/series/amel1/amel2/17559.avi
+#EXTINF:-1,Kriza Srednjih Godina S02 E05
+http://line.4k-iptv.com:80/series/amel1/amel2/17560.avi
+#EXTINF:-1,Kriza Srednjih Godina S02 E06
+http://line.4k-iptv.com:80/series/amel1/amel2/17561.avi
+#EXTINF:-1,Kriza Srednjih Godina S02 E07
+http://line.4k-iptv.com:80/series/amel1/amel2/17562.avi
+#EXTINF:-1,Kriza Srednjih Godina S02 E08
+http://line.4k-iptv.com:80/series/amel1/amel2/17563.avi
+#EXTINF:-1,Kriza Srednjih Godina S02 E09
+http://line.4k-iptv.com:80/series/amel1/amel2/17564.avi
+#EXTINF:-1,Kriza Srednjih Godina S02 E10
+http://line.4k-iptv.com:80/series/amel1/amel2/17565.avi
+#EXTINF:-1,Kriza Srednjih Godina S02 E11
+http://line.4k-iptv.com:80/series/amel1/amel2/17566.avi
+#EXTINF:-1,Kriza Srednjih Godina S02 E12
+http://line.4k-iptv.com:80/series/amel1/amel2/17567.avi
+#EXTINF:-1,Vecernja Skola S01 E01
+http://line.4k-iptv.com:80/series/amel1/amel2/17568.avi
+#EXTINF:-1,Vecernja Skola S01 E02
+http://line.4k-iptv.com:80/series/amel1/amel2/17579.avi
+#EXTINF:-1,Vecernja Skola S01 E03
+http://line.4k-iptv.com:80/series/amel1/amel2/17590.avi
+#EXTINF:-1,Vecernja Skola S01 E04
+http://line.4k-iptv.com:80/series/amel1/amel2/17601.avi
+#EXTINF:-1,Vecernja Skola S01 E05
+http://line.4k-iptv.com:80/series/amel1/amel2/17604.avi
+#EXTINF:-1,Vecernja Skola S01 E06
+http://line.4k-iptv.com:80/series/amel1/amel2/17605.avi
+#EXTINF:-1,Vecernja Skola S01 E07
+http://line.4k-iptv.com:80/series/amel1/amel2/17606.avi
+#EXTINF:-1,Vecernja Skola S01 E08
+http://line.4k-iptv.com:80/series/amel1/amel2/17607.avi
+#EXTINF:-1,Vecernja Skola S01 E09
+http://line.4k-iptv.com:80/series/amel1/amel2/17608.avi
+#EXTINF:-1,Vecernja Skola S01 E10
+http://line.4k-iptv.com:80/series/amel1/amel2/17569.avi
+#EXTINF:-1,Vecernja Skola S01 E11
+http://line.4k-iptv.com:80/series/amel1/amel2/17570.avi
+#EXTINF:-1,Vecernja Skola S01 E12
+http://line.4k-iptv.com:80/series/amel1/amel2/17571.avi
+#EXTINF:-1,Vecernja Skola S01 E13
+http://line.4k-iptv.com:80/series/amel1/amel2/17572.avi
+#EXTINF:-1,Vecernja Skola S01 E14
+http://line.4k-iptv.com:80/series/amel1/amel2/17573.avi
+#EXTINF:-1,Vecernja Skola S01 E15
+http://line.4k-iptv.com:80/series/amel1/amel2/17574.avi
+#EXTINF:-1,Vecernja Skola S01 E16
+http://line.4k-iptv.com:80/series/amel1/amel2/17575.avi
+#EXTINF:-1,Vecernja Skola S01 E17
+http://line.4k-iptv.com:80/series/amel1/amel2/17576.avi
+#EXTINF:-1,Vecernja Skola S01 E18
+http://line.4k-iptv.com:80/series/amel1/amel2/17577.avi
+#EXTINF:-1,Vecernja Skola S01 E19
+http://line.4k-iptv.com:80/series/amel1/amel2/17578.avi
+#EXTINF:-1,Vecernja Skola S01 E20
+http://line.4k-iptv.com:80/series/amel1/amel2/17580.avi
+#EXTINF:-1,Vecernja Skola S01 E21
+http://line.4k-iptv.com:80/series/amel1/amel2/17581.avi
+#EXTINF:-1,Vecernja Skola S01 E22
+http://line.4k-iptv.com:80/series/amel1/amel2/17582.avi
+#EXTINF:-1,Vecernja Skola S01 E23
+http://line.4k-iptv.com:80/series/amel1/amel2/17583.avi
+#EXTINF:-1,Vecernja Skola S01 E24
+http://line.4k-iptv.com:80/series/amel1/amel2/17584.avi
+#EXTINF:-1,Vecernja Skola S01 E25
+http://line.4k-iptv.com:80/series/amel1/amel2/17585.avi
+#EXTINF:-1,Vecernja Skola S01 E26
+http://line.4k-iptv.com:80/series/amel1/amel2/17586.avi
+#EXTINF:-1,Vecernja Skola S01 E27
+http://line.4k-iptv.com:80/series/amel1/amel2/17587.avi
+#EXTINF:-1,Vecernja Skola S01 E28
+http://line.4k-iptv.com:80/series/amel1/amel2/17588.avi
+#EXTINF:-1,Vecernja Skola S01 E29
+http://line.4k-iptv.com:80/series/amel1/amel2/17589.avi
+#EXTINF:-1,Vecernja Skola S01 E30
+http://line.4k-iptv.com:80/series/amel1/amel2/17591.avi
+#EXTINF:-1,Vecernja Skola S01 E31
+http://line.4k-iptv.com:80/series/amel1/amel2/17592.avi
+#EXTINF:-1,Vecernja Skola S01 E32
+http://line.4k-iptv.com:80/series/amel1/amel2/17593.avi
+#EXTINF:-1,Vecernja Skola S01 E33
+http://line.4k-iptv.com:80/series/amel1/amel2/17594.avi
+#EXTINF:-1,Vecernja Skola S01 E34
+http://line.4k-iptv.com:80/series/amel1/amel2/17595.avi
+#EXTINF:-1,Vecernja Skola S01 E35
+http://line.4k-iptv.com:80/series/amel1/amel2/17596.avi
+#EXTINF:-1,Vecernja Skola S01 E36
+http://line.4k-iptv.com:80/series/amel1/amel2/17597.avi
+#EXTINF:-1,Vecernja Skola S01 E37
+http://line.4k-iptv.com:80/series/amel1/amel2/17598.avi
+#EXTINF:-1,Vecernja Skola S01 E38
+http://line.4k-iptv.com:80/series/amel1/amel2/17599.avi
+#EXTINF:-1,Vecernja Skola S01 E39
+http://line.4k-iptv.com:80/series/amel1/amel2/17600.avi
+#EXTINF:-1,Vecernja Skola S01 E40
+http://line.4k-iptv.com:80/series/amel1/amel2/17602.avi
+#EXTINF:-1,Vecernja Skola S01 E41
+http://line.4k-iptv.com:80/series/amel1/amel2/17603.avi
+#EXTINF:-1,Mare of Easttown S01 E01
+http://line.4k-iptv.com:80/series/amel1/amel2/17860.mp4
+#EXTINF:-1,Mare of Easttown S01 E02
+http://line.4k-iptv.com:80/series/amel1/amel2/17861.mp4
+#EXTINF:-1,Mare of Easttown S01 E03
+http://line.4k-iptv.com:80/series/amel1/amel2/17862.mp4
+#EXTINF:-1,Mare of Easttown S01 E04
+http://line.4k-iptv.com:80/series/amel1/amel2/17863.mp4
+#EXTINF:-1,Mare of Easttown S01 E05
+http://line.4k-iptv.com:80/series/amel1/amel2/17864.mp4
+#EXTINF:-1,Mare of Easttown S01 E06
+http://line.4k-iptv.com:80/series/amel1/amel2/17865.mp4
+#EXTINF:-1,Mare of Easttown S01 E07
+http://line.4k-iptv.com:80/series/amel1/amel2/17866.mp4
+#EXTINF:-1,Clickbait S01 E01
+http://line.4k-iptv.com:80/series/amel1/amel2/17867.mp4
+#EXTINF:-1,Clickbait S01 E02
+http://line.4k-iptv.com:80/series/amel1/amel2/17868.mp4
+#EXTINF:-1,Clickbait S01 E03
+http://line.4k-iptv.com:80/series/amel1/amel2/17869.mp4
+#EXTINF:-1,Clickbait S01 E04
+http://line.4k-iptv.com:80/series/amel1/amel2/17870.mp4
+#EXTINF:-1,Clickbait S01 E05
+http://line.4k-iptv.com:80/series/amel1/amel2/17871.mp4
+#EXTINF:-1,Clickbait S01 E06
+http://line.4k-iptv.com:80/series/amel1/amel2/17872.mp4
+#EXTINF:-1,Clickbait S01 E07
+http://line.4k-iptv.com:80/series/amel1/amel2/17873.mp4
+#EXTINF:-1,Clickbait S01 E08
+http://line.4k-iptv.com:80/series/amel1/amel2/17874.mp4
+#EXTINF:-1,Money Heist S05 E01
+http://line.4k-iptv.com:80/series/amel1/amel2/17875.mp4
+#EXTINF:-1,Money Heist S05 E02
+http://line.4k-iptv.com:80/series/amel1/amel2/17876.mp4
+#EXTINF:-1,Money Heist S05 E03
+http://line.4k-iptv.com:80/series/amel1/amel2/17877.mp4
+#EXTINF:-1,Money Heist S05 E04
+http://line.4k-iptv.com:80/series/amel1/amel2/17878.mp4
+#EXTINF:-1,Money Heist S05 E05
+http://line.4k-iptv.com:80/series/amel1/amel2/17879.mp4
+#EXTINF:-1,Nine Perfect Strangers S01 E01
+http://line.4k-iptv.com:80/series/amel1/amel2/17880.mkv
+#EXTINF:-1,Nine Perfect Strangers S01 E02
+http://line.4k-iptv.com:80/series/amel1/amel2/17881.mkv
+#EXTINF:-1,Nine Perfect Strangers S01 E03
+http://line.4k-iptv.com:80/series/amel1/amel2/17882.mkv
+#EXTINF:-1,Nine Perfect Strangers S01 E04
+http://line.4k-iptv.com:80/series/amel1/amel2/17883.mkv
+#EXTINF:-1,Nine Perfect Strangers S01 E05
+http://line.4k-iptv.com:80/series/amel1/amel2/17884.mkv
+#EXTINF:-1,Nine Perfect Strangers S01 E06
+http://line.4k-iptv.com:80/series/amel1/amel2/17885.mkv
+#EXTINF:-1,Nine Perfect Strangers S01 E07
+http://line.4k-iptv.com:80/series/amel1/amel2/18888.mkv
+#EXTINF:-1,Nine Perfect Strangers S01 E08
+http://line.4k-iptv.com:80/series/amel1/amel2/18985.mkv
+#EXTINF:-1,The White Lotus S01 E01
+http://line.4k-iptv.com:80/series/amel1/amel2/18889.mkv
+#EXTINF:-1,The White Lotus S01 E02
+http://line.4k-iptv.com:80/series/amel1/amel2/18890.mkv
+#EXTINF:-1,The White Lotus S01 E03
+http://line.4k-iptv.com:80/series/amel1/amel2/18891.mkv
+#EXTINF:-1,The White Lotus S01 E04
+http://line.4k-iptv.com:80/series/amel1/amel2/18892.mkv
+#EXTINF:-1,The White Lotus S01 E05
+http://line.4k-iptv.com:80/series/amel1/amel2/18893.mkv
+#EXTINF:-1,The White Lotus S01 E06
+http://line.4k-iptv.com:80/series/amel1/amel2/18894.mkv
+#EXTINF:-1,Pevacica S01 E01
+http://line.4k-iptv.com:80/series/amel1/amel2/18913.mkv
+#EXTINF:-1,Pevacica S01 E02
+http://line.4k-iptv.com:80/series/amel1/amel2/18914.mkv
+#EXTINF:-1,Pevacica S01 E03
+http://line.4k-iptv.com:80/series/amel1/amel2/18916.mp4
+#EXTINF:-1,Pevacica S01 E04
+http://line.4k-iptv.com:80/series/amel1/amel2/18915.mkv
+#EXTINF:-1,Pevacica S01 E05
+http://line.4k-iptv.com:80/series/amel1/amel2/18917.mp4
+#EXTINF:-1,Pevacica S01 E06
+http://line.4k-iptv.com:80/series/amel1/amel2/18988.mp4
+#EXTINF:-1,Pevacica S01 E07
+http://line.4k-iptv.com:80/series/amel1/amel2/18986.mp4
+#EXTINF:-1,Pevacica S01 E08
+http://line.4k-iptv.com:80/series/amel1/amel2/18987.mp4
+#EXTINF:-1,Ganglands S01 E01
+http://line.4k-iptv.com:80/series/amel1/amel2/18918.mp4
+#EXTINF:-1,Ganglands S01 E02
+http://line.4k-iptv.com:80/series/amel1/amel2/18919.mp4
+#EXTINF:-1,Ganglands S01 E03
+http://line.4k-iptv.com:80/series/amel1/amel2/18920.mp4
+#EXTINF:-1,Ganglands S01 E04
+http://line.4k-iptv.com:80/series/amel1/amel2/18921.mp4
+#EXTINF:-1,Ganglands S01 E05
+http://line.4k-iptv.com:80/series/amel1/amel2/18922.mp4
+#EXTINF:-1,Ganglands S01 E06
+http://line.4k-iptv.com:80/series/amel1/amel2/18923.mp4
+#EXTINF:-1,Time S01 E01
+http://line.4k-iptv.com:80/series/amel1/amel2/18966.mkv
+#EXTINF:-1,Time S01 E02
+http://line.4k-iptv.com:80/series/amel1/amel2/18967.mkv
+#EXTINF:-1,Time S01 E03
+http://line.4k-iptv.com:80/series/amel1/amel2/18968.mkv
+#EXTINF:-1,The Game S01 E01
+http://line.4k-iptv.com:80/series/amel1/amel2/18969.mkv
+#EXTINF:-1,The Game S01 E02
+http://line.4k-iptv.com:80/series/amel1/amel2/18970.mkv
+#EXTINF:-1,The Game S01 E03
+http://line.4k-iptv.com:80/series/amel1/amel2/18971.mkv
+#EXTINF:-1,The Game S01 E04
+http://line.4k-iptv.com:80/series/amel1/amel2/18972.mkv
+#EXTINF:-1,The Game S01 E05
+http://line.4k-iptv.com:80/series/amel1/amel2/18973.mkv
+#EXTINF:-1,The Game S01 E06
+http://line.4k-iptv.com:80/series/amel1/amel2/18974.mkv
+#EXTINF:-1,Jezero S01 E01
+http://line.4k-iptv.com:80/series/amel1/amel2/18975.mkv
+#EXTINF:-1,Jezero S01 E02
+http://line.4k-iptv.com:80/series/amel1/amel2/18976.mkv
+#EXTINF:-1,Jezero S01 E03
+http://line.4k-iptv.com:80/series/amel1/amel2/18977.mkv
+#EXTINF:-1,Jezero S01 E04
+http://line.4k-iptv.com:80/series/amel1/amel2/18978.mkv
+#EXTINF:-1,Jezero S01 E05
+http://line.4k-iptv.com:80/series/amel1/amel2/18979.mkv
+#EXTINF:-1,Jezero S01 E06
+http://line.4k-iptv.com:80/series/amel1/amel2/18980.mkv
+#EXTINF:-1,Dug Moru S01 E01
+http://line.4k-iptv.com:80/series/amel1/amel2/18989.mkv
+#EXTINF:-1,Dug Moru S01 E02
+http://line.4k-iptv.com:80/series/amel1/amel2/18990.mkv
+#EXTINF:-1,Dug Moru S01 E03
+http://line.4k-iptv.com:80/series/amel1/amel2/18991.mkv
+#EXTINF:-1,Dug Moru S01 E04
+http://line.4k-iptv.com:80/series/amel1/amel2/18992.mkv
+#EXTINF:-1,Dug Moru S01 E05
+http://line.4k-iptv.com:80/series/amel1/amel2/18993.mkv
+#EXTINF:-1,Dug Moru S01 E06
+http://line.4k-iptv.com:80/series/amel1/amel2/18994.mkv
+#EXTINF:-1,Dug Moru S01 E07
+http://line.4k-iptv.com:80/series/amel1/amel2/18995.mkv
+#EXTINF:-1,Dug Moru S01 E08
+http://line.4k-iptv.com:80/series/amel1/amel2/18996.mkv
+#EXTINF:-1,Dug Moru S01 E09
+http://line.4k-iptv.com:80/series/amel1/amel2/18997.mkv
+#EXTINF:-1,Dug Moru S01 E10
+http://line.4k-iptv.com:80/series/amel1/amel2/18998.mkv
+#EXTINF:-1,Dug Moru S01 E11
+http://line.4k-iptv.com:80/series/amel1/amel2/18999.mkv
+#EXTINF:-1,Dug Moru S01 E12
+http://line.4k-iptv.com:80/series/amel1/amel2/19000.mkv
+#EXTINF:-1,Crna Svadba S01 E01
+http://line.4k-iptv.com:80/series/amel1/amel2/19002.mp4
+#EXTINF:-1,Crna Svadba S01 E02
+http://line.4k-iptv.com:80/series/amel1/amel2/19003.mp4
+#EXTINF:-1,Crna Svadba S01 E03
+http://line.4k-iptv.com:80/series/amel1/amel2/19004.mp4
+#EXTINF:-1,Crna Svadba S01 E04
+http://line.4k-iptv.com:80/series/amel1/amel2/19005.mp4
+#EXTINF:-1,Why Women Kill S01 E01
+http://line.4k-iptv.com:80/series/amel1/amel2/19006.mkv
+#EXTINF:-1,Why Women Kill S01 E02
+http://line.4k-iptv.com:80/series/amel1/amel2/19007.mkv
+#EXTINF:-1,Why Women Kill S01 E03
+http://line.4k-iptv.com:80/series/amel1/amel2/19008.mkv
+#EXTINF:-1,Why Women Kill S01 E04
+http://line.4k-iptv.com:80/series/amel1/amel2/19009.mkv
+#EXTINF:-1,Why Women Kill S01 E05
+http://line.4k-iptv.com:80/series/amel1/amel2/19010.mkv
+#EXTINF:-1,Why Women Kill S01 E06
+http://line.4k-iptv.com:80/series/amel1/amel2/19011.mkv
+#EXTINF:-1,Why Women Kill S01 E07
+http://line.4k-iptv.com:80/series/amel1/amel2/19012.mkv
+#EXTINF:-1,Why Women Kill S01 E08
+http://line.4k-iptv.com:80/series/amel1/amel2/19013.mkv
+#EXTINF:-1,Why Women Kill S01 E09
+http://line.4k-iptv.com:80/series/amel1/amel2/19014.mkv
+#EXTINF:-1,Why Women Kill S01 E10
+http://line.4k-iptv.com:80/series/amel1/amel2/19015.mkv
+#EXTINF:-1,Why Women Kill S02 E01
+http://line.4k-iptv.com:80/series/amel1/amel2/19037.mkv
+#EXTINF:-1,Why Women Kill S02 E02
+http://line.4k-iptv.com:80/series/amel1/amel2/19038.mkv
+#EXTINF:-1,Why Women Kill S02 E03
+http://line.4k-iptv.com:80/series/amel1/amel2/19039.mkv
+#EXTINF:-1,Why Women Kill S02 E04
+http://line.4k-iptv.com:80/series/amel1/amel2/19040.mkv
+#EXTINF:-1,Why Women Kill S02 E05
+http://line.4k-iptv.com:80/series/amel1/amel2/19041.mkv
+#EXTINF:-1,Why Women Kill S02 E06
+http://line.4k-iptv.com:80/series/amel1/amel2/19042.mkv
+#EXTINF:-1,Why Women Kill S02 E07
+http://line.4k-iptv.com:80/series/amel1/amel2/19043.mkv
+#EXTINF:-1,Why Women Kill S02 E08
+http://line.4k-iptv.com:80/series/amel1/amel2/19044.mkv
+#EXTINF:-1,Why Women Kill S02 E09
+http://line.4k-iptv.com:80/series/amel1/amel2/19045.mkv
+#EXTINF:-1,Why Women Kill S02 E10
+http://line.4k-iptv.com:80/series/amel1/amel2/19046.mkv
+#EXTINF:-1,Kljun S01 E01
+http://line.4k-iptv.com:80/series/amel1/amel2/19016.mkv
+#EXTINF:-1,Kljun S01 E02
+http://line.4k-iptv.com:80/series/amel1/amel2/19017.mkv
+#EXTINF:-1,Kljun S01 E03
+http://line.4k-iptv.com:80/series/amel1/amel2/19018.mkv
+#EXTINF:-1,Kljun S01 E04
+http://line.4k-iptv.com:80/series/amel1/amel2/19019.mkv
+#EXTINF:-1,Kljun S01 E05
+http://line.4k-iptv.com:80/series/amel1/amel2/19020.mkv
+#EXTINF:-1,Kljun S01 E06
+http://line.4k-iptv.com:80/series/amel1/amel2/19021.mkv
+#EXTINF:-1,Kljun S01 E07
+http://line.4k-iptv.com:80/series/amel1/amel2/19022.mkv
+#EXTINF:-1,Kljun S01 E08
+http://line.4k-iptv.com:80/series/amel1/amel2/19023.mkv
+#EXTINF:-1,Kljun S01 E09
+http://line.4k-iptv.com:80/series/amel1/amel2/19024.mkv
+#EXTINF:-1,Kljun S01 E10
+http://line.4k-iptv.com:80/series/amel1/amel2/19025.mkv
+#EXTINF:-1,Narcos: Mexico S03 E01
+http://line.4k-iptv.com:80/series/amel1/amel2/19026.mp4
+#EXTINF:-1,Narcos: Mexico S03 E02
+http://line.4k-iptv.com:80/series/amel1/amel2/19027.mp4
+#EXTINF:-1,Narcos: Mexico S03 E03
+http://line.4k-iptv.com:80/series/amel1/amel2/19028.mp4
+#EXTINF:-1,Narcos: Mexico S03 E04
+http://line.4k-iptv.com:80/series/amel1/amel2/19029.mp4
+#EXTINF:-1,Narcos: Mexico S03 E05
+http://line.4k-iptv.com:80/series/amel1/amel2/19030.mp4
+#EXTINF:-1,Narcos: Mexico S03 E06
+http://line.4k-iptv.com:80/series/amel1/amel2/19031.mp4
+#EXTINF:-1,Narcos: Mexico S03 E07
+http://line.4k-iptv.com:80/series/amel1/amel2/19032.mp4
+#EXTINF:-1,Narcos: Mexico S03 E08
+http://line.4k-iptv.com:80/series/amel1/amel2/19033.mp4
+#EXTINF:-1,Narcos: Mexico S03 E09
+http://line.4k-iptv.com:80/series/amel1/amel2/19034.mp4
+#EXTINF:-1,Narcos: Mexico S03 E10
+http://line.4k-iptv.com:80/series/amel1/amel2/19035.mp4
 #EXTINF:-1,Black Water Abyss (2020)
 http://videoteka1.dvrcam.info:25461/movie/mmaxvod1/mmaxvvod2/4146.mkv
 #EXTINF:-1,Cat in the Wall (2020)
