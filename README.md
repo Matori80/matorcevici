@@ -1748,6 +1748,918 @@ http://212.83.150.15:8058/;*.mp3
 #EXTINF:-1, Radio Karolina - Lagani NonStoP
 https://streaming.karolina.rs/karolinabezreklama.mp3
 #EXTINF:-1,"==== VIDEOTEKA- MATORČEVIĆ ===="
+#EXTINF:-1,Toma
+http://line.4k-iptv.com:80/movie/amel1/amel2/19001.mkv
+#EXTINF:-1,Training Day
+http://line.4k-iptv.com:80/movie/amel1/amel2/18912.mkv
+#EXTINF:-1,The Warriors
+http://line.4k-iptv.com:80/movie/amel1/amel2/18911.mkv
+#EXTINF:-1,The Deer Hunter
+http://line.4k-iptv.com:80/movie/amel1/amel2/18910.mkv
+#EXTINF:-1,The Crow
+http://line.4k-iptv.com:80/movie/amel1/amel2/18909.mkv
+#EXTINF:-1,The Blues Brothers
+http://line.4k-iptv.com:80/movie/amel1/amel2/18908.mkv
+#EXTINF:-1,Platoon
+http://line.4k-iptv.com:80/movie/amel1/amel2/18907.mkv
+#EXTINF:-1,Million Dollar Baby
+http://line.4k-iptv.com:80/movie/amel1/amel2/18906.mkv
+#EXTINF:-1,Midnight in Paris
+http://line.4k-iptv.com:80/movie/amel1/amel2/18905.mkv
+#EXTINF:-1,Kill Bill: Vol. 2
+http://line.4k-iptv.com:80/movie/amel1/amel2/18904.mkv
+#EXTINF:-1,Kill Bill: Vol. 1
+http://line.4k-iptv.com:80/movie/amel1/amel2/18903.mkv
+#EXTINF:-1,Jackie Brown
+http://line.4k-iptv.com:80/movie/amel1/amel2/18902.mkv
+#EXTINF:-1,In the Name of the Father
+http://line.4k-iptv.com:80/movie/amel1/amel2/18901.mkv
+#EXTINF:-1,Fear and Loathing in Las Vegas
+http://line.4k-iptv.com:80/movie/amel1/amel2/18900.mkv
+#EXTINF:-1,Fargo
+http://line.4k-iptv.com:80/movie/amel1/amel2/18899.mkv
+#EXTINF:-1,Dances with Wolves
+http://line.4k-iptv.com:80/movie/amel1/amel2/18898.mkv
+#EXTINF:-1,Chinatown
+http://line.4k-iptv.com:80/movie/amel1/amel2/18897.mkv
+#EXTINF:-1,Blue Velvet
+http://line.4k-iptv.com:80/movie/amel1/amel2/18896.mkv
+#EXTINF:-1,1984
+http://line.4k-iptv.com:80/movie/amel1/amel2/18895.mkv
+#EXTINF:-1,Unforgiven
+http://line.4k-iptv.com:80/movie/amel1/amel2/18887.mkv
+#EXTINF:-1,There Will Be Blood
+http://line.4k-iptv.com:80/movie/amel1/amel2/18886.mkv
+#EXTINF:-1,The Silence of the Lambs
+http://line.4k-iptv.com:80/movie/amel1/amel2/18885.mkv
+#EXTINF:-1,The Shawshank Redemption
+http://line.4k-iptv.com:80/movie/amel1/amel2/18884.mkv
+#EXTINF:-1,The Matrix
+http://line.4k-iptv.com:80/movie/amel1/amel2/18883.mkv
+#EXTINF:-1,The Green Mile
+http://line.4k-iptv.com:80/movie/amel1/amel2/18882.mkv
+#EXTINF:-1,Snatch
+http://line.4k-iptv.com:80/movie/amel1/amel2/18881.mkv
+#EXTINF:-1,Se7en
+http://line.4k-iptv.com:80/movie/amel1/amel2/18880.mkv
+#EXTINF:-1,Schindler's List
+http://line.4k-iptv.com:80/movie/amel1/amel2/18879.mkv
+#EXTINF:-1,Saving Private Ryan
+http://line.4k-iptv.com:80/movie/amel1/amel2/18878.mkv
+#EXTINF:-1,Pulp Fiction
+http://line.4k-iptv.com:80/movie/amel1/amel2/18877.mkv
+#EXTINF:-1,Lock, Stock and Two Smoking Barrels
+http://line.4k-iptv.com:80/movie/amel1/amel2/18876.mkv
+#EXTINF:-1,LÃ©on: The Professional
+http://line.4k-iptv.com:80/movie/amel1/amel2/18875.mkv
+#EXTINF:-1,L.A. Confidential
+http://line.4k-iptv.com:80/movie/amel1/amel2/18874.mkv
+#EXTINF:-1,Inception
+http://line.4k-iptv.com:80/movie/amel1/amel2/18873.mkv
+#EXTINF:-1,One Flew Over the Cuckoo's Nest
+http://line.4k-iptv.com:80/movie/amel1/amel2/18667.mp4
+#EXTINF:-1,Joker 2019
+http://line.4k-iptv.com:80/movie/amel1/amel2/18666.mp4
+#EXTINF:-1,American History X
+http://line.4k-iptv.com:80/movie/amel1/amel2/18665.mp4
+#EXTINF:-1,GoodFellas
+http://line.4k-iptv.com:80/movie/amel1/amel2/18664.mkv
+#EXTINF:-1,Forrest Gump
+http://line.4k-iptv.com:80/movie/amel1/amel2/18663.mkv
+#EXTINF:-1,Flags of Our Fathers
+http://line.4k-iptv.com:80/movie/amel1/amel2/18662.mkv
+#EXTINF:-1,Fight Club
+http://line.4k-iptv.com:80/movie/amel1/amel2/18661.mkv
+#EXTINF:-1,City of God
+http://line.4k-iptv.com:80/movie/amel1/amel2/18660.mkv
+#EXTINF:-1,Casino
+http://line.4k-iptv.com:80/movie/amel1/amel2/18659.mkv
+#EXTINF:-1,Blade Runner
+http://line.4k-iptv.com:80/movie/amel1/amel2/18658.mkv
+#EXTINF:-1,A Fish Called Wanda
+http://line.4k-iptv.com:80/movie/amel1/amel2/18657.mkv
+#EXTINF:-1,A Prophet
+http://line.4k-iptv.com:80/movie/amel1/amel2/18656.mkv
+#EXTINF:-1,The Man from Earth
+http://line.4k-iptv.com:80/movie/amel1/amel2/18655.mkv
+#EXTINF:-1,The Last Temptation of Christ
+http://line.4k-iptv.com:80/movie/amel1/amel2/18654.mkv
+#EXTINF:-1,The King's Speech
+http://line.4k-iptv.com:80/movie/amel1/amel2/18653.mkv
+#EXTINF:-1,The Hours
+http://line.4k-iptv.com:80/movie/amel1/amel2/18652.mkv
+#EXTINF:-1,The Great Escape
+http://line.4k-iptv.com:80/movie/amel1/amel2/18651.mkv
+#EXTINF:-1,The French Connection
+http://line.4k-iptv.com:80/movie/amel1/amel2/18650.mkv
+#EXTINF:-1,The Fly
+http://line.4k-iptv.com:80/movie/amel1/amel2/18649.mkv
+#EXTINF:-1,The Fisher King
+http://line.4k-iptv.com:80/movie/amel1/amel2/18648.mkv
+#EXTINF:-1,The Elephant Man
+http://line.4k-iptv.com:80/movie/amel1/amel2/18647.mkv
+#EXTINF:-1,The Crying Game
+http://line.4k-iptv.com:80/movie/amel1/amel2/18646.mkv
+#EXTINF:-1,The Conversation
+http://line.4k-iptv.com:80/movie/amel1/amel2/18645.mkv
+#EXTINF:-1,The Bridges of Madison County
+http://line.4k-iptv.com:80/movie/amel1/amel2/18644.mkv
+#EXTINF:-1,The Assassination of Jesse James by the Coward Robert Ford
+http://line.4k-iptv.com:80/movie/amel1/amel2/18643.mkv
+#EXTINF:-1,Singin' in the Rain
+http://line.4k-iptv.com:80/movie/amel1/amel2/18642.mkv
+#EXTINF:-1,Short Term 12
+http://line.4k-iptv.com:80/movie/amel1/amel2/18641.mkv
+#EXTINF:-1,Seven Samurai
+http://line.4k-iptv.com:80/movie/amel1/amel2/18640.mkv
+#EXTINF:-1,Serpico
+http://line.4k-iptv.com:80/movie/amel1/amel2/18639.mkv
+#EXTINF:-1,Sense and Sensibility
+http://line.4k-iptv.com:80/movie/amel1/amel2/18638.mkv
+#EXTINF:-1,Scent of a Woman
+http://line.4k-iptv.com:80/movie/amel1/amel2/18637.mkv
+#EXTINF:-1,Rope
+http://line.4k-iptv.com:80/movie/amel1/amel2/18636.mkv
+#EXTINF:-1,Rob Roy
+http://line.4k-iptv.com:80/movie/amel1/amel2/18635.mkv
+#EXTINF:-1,Ray
+http://line.4k-iptv.com:80/movie/amel1/amel2/18634.mkv
+#EXTINF:-1,Philadelphia
+http://line.4k-iptv.com:80/movie/amel1/amel2/18633.mkv
+#EXTINF:-1,Paris, Texas
+http://line.4k-iptv.com:80/movie/amel1/amel2/18632.mkv
+#EXTINF:-1,On the Waterfront
+http://line.4k-iptv.com:80/movie/amel1/amel2/18631.mkv
+#EXTINF:-1,North by Northwest
+http://line.4k-iptv.com:80/movie/amel1/amel2/18630.mkv
+#EXTINF:-1,Network
+http://line.4k-iptv.com:80/movie/amel1/amel2/18629.mkv
+#EXTINF:-1,Modern Times
+http://line.4k-iptv.com:80/movie/amel1/amel2/18628.mkv
+#EXTINF:-1,Mississippi Burning
+http://line.4k-iptv.com:80/movie/amel1/amel2/18627.mkv
+#EXTINF:-1,Midnight Cowboy
+http://line.4k-iptv.com:80/movie/amel1/amel2/18626.mkv
+#EXTINF:-1,Menace II Society
+http://line.4k-iptv.com:80/movie/amel1/amel2/18625.mkv
+#EXTINF:-1,Match Point
+http://line.4k-iptv.com:80/movie/amel1/amel2/18624.mkv
+#EXTINF:-1,Mash
+http://line.4k-iptv.com:80/movie/amel1/amel2/18623.mkv
+#EXTINF:-1,Lost Highway
+http://line.4k-iptv.com:80/movie/amel1/amel2/18622.mkv
+#EXTINF:-1,In the Heat of the Night
+http://line.4k-iptv.com:80/movie/amel1/amel2/18621.mkv
+#EXTINF:-1,High Fidelity
+http://line.4k-iptv.com:80/movie/amel1/amel2/18620.mkv
+#EXTINF:-1,The Boy in the Striped Pyjamas
+http://line.4k-iptv.com:80/movie/amel1/amel2/18619.mp4
+#EXTINF:-1,The Maltese Falcon
+http://line.4k-iptv.com:80/movie/amel1/amel2/18618.mp4
+#EXTINF:-1,The Hurricane
+http://line.4k-iptv.com:80/movie/amel1/amel2/18617.mp4
+#EXTINF:-1,Straw Dogs
+http://line.4k-iptv.com:80/movie/amel1/amel2/18616.mp4
+#EXTINF:-1,Strangers on a Train
+http://line.4k-iptv.com:80/movie/amel1/amel2/18615.mp4
+#EXTINF:-1,Serenity
+http://line.4k-iptv.com:80/movie/amel1/amel2/18614.mp4
+#EXTINF:-1,Rushmore
+http://line.4k-iptv.com:80/movie/amel1/amel2/18613.mp4
+#EXTINF:-1,Rosemary's Baby
+http://line.4k-iptv.com:80/movie/amel1/amel2/18612.mp4
+#EXTINF:-1,Rio Bravo
+http://line.4k-iptv.com:80/movie/amel1/amel2/18611.mp4
+#EXTINF:-1,Rebel Without a Cause
+http://line.4k-iptv.com:80/movie/amel1/amel2/18610.mp4
+#EXTINF:-1,Pride
+http://line.4k-iptv.com:80/movie/amel1/amel2/18609.mp4
+#EXTINF:-1,Patton
+http://line.4k-iptv.com:80/movie/amel1/amel2/18608.mp4
+#EXTINF:-1,Paths of Glory
+http://line.4k-iptv.com:80/movie/amel1/amel2/18607.mp4
+#EXTINF:-1,Papillon
+http://line.4k-iptv.com:80/movie/amel1/amel2/18606.mp4
+#EXTINF:-1,October Sky
+http://line.4k-iptv.com:80/movie/amel1/amel2/18605.mp4
+#EXTINF:-1,Milk
+http://line.4k-iptv.com:80/movie/amel1/amel2/18604.mp4
+#EXTINF:-1,A Very Long Engagement
+http://line.4k-iptv.com:80/movie/amel1/amel2/18603.mkv
+#EXTINF:-1,Traffic
+http://line.4k-iptv.com:80/movie/amel1/amel2/18602.mkv
+#EXTINF:-1,To Kill a Mockingbird
+http://line.4k-iptv.com:80/movie/amel1/amel2/18601.mkv
+#EXTINF:-1,The Treasure of the Sierra Madre
+http://line.4k-iptv.com:80/movie/amel1/amel2/18600.mkv
+#EXTINF:-1,The Straight Story
+http://line.4k-iptv.com:80/movie/amel1/amel2/18599.mkv
+#EXTINF:-1,The Others
+http://line.4k-iptv.com:80/movie/amel1/amel2/18598.mkv
+#EXTINF:-1,The Life of David Gale
+http://line.4k-iptv.com:80/movie/amel1/amel2/18597.mkv
+#EXTINF:-1,The Killing
+http://line.4k-iptv.com:80/movie/amel1/amel2/18596.mkv
+#EXTINF:-1,The Illusionist
+http://line.4k-iptv.com:80/movie/amel1/amel2/18595.mkv
+#EXTINF:-1,Inside Llewyn Davis
+http://line.4k-iptv.com:80/movie/amel1/amel2/18594.mkv
+#EXTINF:-1,I Am Sam
+http://line.4k-iptv.com:80/movie/amel1/amel2/18593.mkv
+#EXTINF:-1,Hotel.Rwanda
+http://line.4k-iptv.com:80/movie/amel1/amel2/18592.mkv
+#EXTINF:-1,Hannah and Her Sisters
+http://line.4k-iptv.com:80/movie/amel1/amel2/18591.mkv
+#EXTINF:-1,Fruitvale Station
+http://line.4k-iptv.com:80/movie/amel1/amel2/18590.mkv
+#EXTINF:-1,The French Connection 2
+http://line.4k-iptv.com:80/movie/amel1/amel2/18589.mkv
+#EXTINF:-1,Freedom Writers
+http://line.4k-iptv.com:80/movie/amel1/amel2/18588.mkv
+#EXTINF:-1,Enter the Dragon
+http://line.4k-iptv.com:80/movie/amel1/amel2/18587.mkv
+#EXTINF:-1,Enemy at the Gates
+http://line.4k-iptv.com:80/movie/amel1/amel2/18586.mkv
+#EXTINF:-1,Doubt
+http://line.4k-iptv.com:80/movie/amel1/amel2/18585.mkv
+#EXTINF:-1,Disconnect
+http://line.4k-iptv.com:80/movie/amel1/amel2/18584.mkv
+#EXTINF:-1,Days of Heaven
+http://line.4k-iptv.com:80/movie/amel1/amel2/18583.mkv
+#EXTINF:-1,Dangerous Liaisons
+http://line.4k-iptv.com:80/movie/amel1/amel2/18582.mkv
+#EXTINF:-1,Crash
+http://line.4k-iptv.com:80/movie/amel1/amel2/18581.mkv
+#EXTINF:-1,Carlito's Way
+http://line.4k-iptv.com:80/movie/amel1/amel2/18580.mkv
+#EXTINF:-1,Cabaret
+http://line.4k-iptv.com:80/movie/amel1/amel2/18579.mkv
+#EXTINF:-1,Butch Cassidy and the Sundance Kid
+http://line.4k-iptv.com:80/movie/amel1/amel2/18578.mkv
+#EXTINF:-1,Bonnie and Clyde
+http://line.4k-iptv.com:80/movie/amel1/amel2/18577.mkv
+#EXTINF:-1,Blood Simple
+http://line.4k-iptv.com:80/movie/amel1/amel2/18576.mkv
+#EXTINF:-1,Ben-Hur
+http://line.4k-iptv.com:80/movie/amel1/amel2/18575.mkv
+#EXTINF:-1,Being There
+http://line.4k-iptv.com:80/movie/amel1/amel2/18574.mkv
+#EXTINF:-1,Before Sunset
+http://line.4k-iptv.com:80/movie/amel1/amel2/18573.mkv
+#EXTINF:-1,Before Sunrise
+http://line.4k-iptv.com:80/movie/amel1/amel2/18572.mkv
+#EXTINF:-1,Before Midnight
+http://line.4k-iptv.com:80/movie/amel1/amel2/18571.mkv
+#EXTINF:-1,Awakenings
+http://line.4k-iptv.com:80/movie/amel1/amel2/18570.mkv
+#EXTINF:-1,Annie Hall
+http://line.4k-iptv.com:80/movie/amel1/amel2/18569.mkv
+#EXTINF:-1,American Beauty
+http://line.4k-iptv.com:80/movie/amel1/amel2/18568.mkv
+#EXTINF:-1,All the President's Men
+http://line.4k-iptv.com:80/movie/amel1/amel2/18567.mkv
+#EXTINF:-1,After Hours
+http://line.4k-iptv.com:80/movie/amel1/amel2/18566.mkv
+#EXTINF:-1,Manhattan
+http://line.4k-iptv.com:80/movie/amel1/amel2/18565.mp4
+#EXTINF:-1,Adaptation.
+http://line.4k-iptv.com:80/movie/amel1/amel2/18564.mkv
+#EXTINF:-1,A Single Man
+http://line.4k-iptv.com:80/movie/amel1/amel2/18563.mkv
+#EXTINF:-1,A Perfect World
+http://line.4k-iptv.com:80/movie/amel1/amel2/18562.mkv
+#EXTINF:-1,21 Grams
+http://line.4k-iptv.com:80/movie/amel1/amel2/18561.mkv
+#EXTINF:-1,You're Hired!
+http://line.4k-iptv.com:80/movie/amel1/amel2/17859.mp4
+#EXTINF:-1,Witch Hunt
+http://line.4k-iptv.com:80/movie/amel1/amel2/17858.mp4
+#EXTINF:-1,Who Am I Now?
+http://line.4k-iptv.com:80/movie/amel1/amel2/17857.mp4
+#EXTINF:-1,Two Cents From a Pariah
+http://line.4k-iptv.com:80/movie/amel1/amel2/17856.mp4
+#EXTINF:-1,Trip Slip
+http://line.4k-iptv.com:80/movie/amel1/amel2/17855.mp4
+#EXTINF:-1,Till Death
+http://line.4k-iptv.com:80/movie/amel1/amel2/17854.mp4
+#EXTINF:-1,Pirates of the Caribbean: On Stranger Tides
+http://line.4k-iptv.com:80/movie/amel1/amel2/17853.mp4
+#EXTINF:-1,Thought It Was Sweet
+http://line.4k-iptv.com:80/movie/amel1/amel2/17852.mp4
+#EXTINF:-1,Those Who Wish Me Dead
+http://line.4k-iptv.com:80/movie/amel1/amel2/17851.mp4
+#EXTINF:-1,This Little Love of Mine
+http://line.4k-iptv.com:80/movie/amel1/amel2/17850.mp4
+#EXTINF:-1,The Wedding Ring
+http://line.4k-iptv.com:80/movie/amel1/amel2/17849.mp4
+#EXTINF:-1,The Tomorrow War
+http://line.4k-iptv.com:80/movie/amel1/amel2/17848.mp4
+#EXTINF:-1,The Suicide Squad
+http://line.4k-iptv.com:80/movie/amel1/amel2/17847.mp4
+#EXTINF:-1,The Misfits
+http://line.4k-iptv.com:80/movie/amel1/amel2/17846.mp4
+#EXTINF:-1,The Loneliest Whale: The Search for 52
+http://line.4k-iptv.com:80/movie/amel1/amel2/17845.mp4
+#EXTINF:-1,The Last Five Days: 10 Years Later
+http://line.4k-iptv.com:80/movie/amel1/amel2/17844.mp4
+#EXTINF:-1,The Ice Road
+http://line.4k-iptv.com:80/movie/amel1/amel2/17843.mp4
+#EXTINF:-1,Hitman's Wife's Bodyguard
+http://line.4k-iptv.com:80/movie/amel1/amel2/17842.mp4
+#EXTINF:-1,The Guide to the Perfect Family
+http://line.4k-iptv.com:80/movie/amel1/amel2/17841.mp4
+#EXTINF:-1,The Green Knight
+http://line.4k-iptv.com:80/movie/amel1/amel2/17840.mp4
+#EXTINF:-1,The God Committee
+http://line.4k-iptv.com:80/movie/amel1/amel2/17839.mp4
+#EXTINF:-1,The Girl Who Got Away
+http://line.4k-iptv.com:80/movie/amel1/amel2/17838.mp4
+#EXTINF:-1,The Exchange
+http://line.4k-iptv.com:80/movie/amel1/amel2/17837.mp4
+#EXTINF:-1,The Demented
+http://line.4k-iptv.com:80/movie/amel1/amel2/17836.mp4
+#EXTINF:-1,The Conjuring: The Devil Made Me Do It
+http://line.4k-iptv.com:80/movie/amel1/amel2/17835.mp4
+#EXTINF:-1,The Blackout Experiment
+http://line.4k-iptv.com:80/movie/amel1/amel2/17834.mp4
+#EXTINF:-1,The Birthday Cake
+http://line.4k-iptv.com:80/movie/amel1/amel2/17833.mp4
+#EXTINF:-1,The 27-Hour Day
+http://line.4k-iptv.com:80/movie/amel1/amel2/17832.mp4
+#EXTINF:-1,Sweet Girl
+http://line.4k-iptv.com:80/movie/amel1/amel2/17831.mp4
+#EXTINF:-1,Survive
+http://line.4k-iptv.com:80/movie/amel1/amel2/17830.mp4
+#EXTINF:-1,Super Hot
+http://line.4k-iptv.com:80/movie/amel1/amel2/17829.mp4
+#EXTINF:-1,Stronger for Life
+http://line.4k-iptv.com:80/movie/amel1/amel2/17828.mp4
+#EXTINF:-1,Doctor Strange: Strange Company
+http://line.4k-iptv.com:80/movie/amel1/amel2/17827.mp4
+#EXTINF:-1,Stillwater
+http://line.4k-iptv.com:80/movie/amel1/amel2/17826.mp4
+#EXTINF:-1,Snake Eyes: G.I. Joe Origins
+http://line.4k-iptv.com:80/movie/amel1/amel2/17825.mp4
+#EXTINF:-1,Originless
+http://line.4k-iptv.com:80/movie/amel1/amel2/17824.mp4
+#EXTINF:-1,Separation.2021.REPACK.720p.WEBRip.x264.AAC-[YTS.MX]
+http://line.4k-iptv.com:80/movie/amel1/amel2/17823.mp4
+#EXTINF:-1,Seance
+http://line.4k-iptv.com:80/movie/amel1/amel2/17822.mp4
+#EXTINF:-1,Roller Squad
+http://line.4k-iptv.com:80/movie/amel1/amel2/17821.mp4
+#EXTINF:-1,Rogue Hostage
+http://line.4k-iptv.com:80/movie/amel1/amel2/17820.mp4
+#EXTINF:-1,Roadrunner: A Film About Anthony Bourdain
+http://line.4k-iptv.com:80/movie/amel1/amel2/17819.mp4
+#EXTINF:-1,Risen
+http://line.4k-iptv.com:80/movie/amel1/amel2/17818.mp4
+#EXTINF:-1,Righteous Blood
+http://line.4k-iptv.com:80/movie/amel1/amel2/17817.mp4
+#EXTINF:-1,Resort to Love
+http://line.4k-iptv.com:80/movie/amel1/amel2/17816.mp4
+#EXTINF:-1,Reminiscence
+http://line.4k-iptv.com:80/movie/amel1/amel2/17815.mp4
+#EXTINF:-1,The Matrix Reloaded
+http://line.4k-iptv.com:80/movie/amel1/amel2/17814.mp4
+#EXTINF:-1,Rattle Can
+http://line.4k-iptv.com:80/movie/amel1/amel2/17813.mp4
+#EXTINF:-1,Project Pay Day
+http://line.4k-iptv.com:80/movie/amel1/amel2/17812.mp4
+#EXTINF:-1,Pray Away
+http://line.4k-iptv.com:80/movie/amel1/amel2/17811.mp4
+#EXTINF:-1,Playing God
+http://line.4k-iptv.com:80/movie/amel1/amel2/17810.mp4
+#EXTINF:-1,Pig
+http://line.4k-iptv.com:80/movie/amel1/amel2/17809.mp4
+#EXTINF:-1,Overrun
+http://line.4k-iptv.com:80/movie/amel1/amel2/17808.mp4
+#EXTINF:-1,Out Of Time
+http://line.4k-iptv.com:80/movie/amel1/amel2/17807.mp4
+#EXTINF:-1,Out of Death
+http://line.4k-iptv.com:80/movie/amel1/amel2/17806.mp4
+#EXTINF:-1,Notorious Nick
+http://line.4k-iptv.com:80/movie/amel1/amel2/17805.mp4
+#EXTINF:-1,No Sudden Move
+http://line.4k-iptv.com:80/movie/amel1/amel2/17804.mp4
+#EXTINF:-1,No Loss / No Gain
+http://line.4k-iptv.com:80/movie/amel1/amel2/17803.mp4
+#EXTINF:-1,Night Drive
+http://line.4k-iptv.com:80/movie/amel1/amel2/17802.mp4
+#EXTINF:-1,Naked Singularity
+http://line.4k-iptv.com:80/movie/amel1/amel2/17801.mp4
+#EXTINF:-1,Monster Hunter: Legends of the Guild
+http://line.4k-iptv.com:80/movie/amel1/amel2/17800.mp4
+#EXTINF:-1,Money Fight
+http://line.4k-iptv.com:80/movie/amel1/amel2/17799.mp4
+#EXTINF:-1,Mind Talker
+http://line.4k-iptv.com:80/movie/amel1/amel2/17798.mp4
+#EXTINF:-1,Mind Games
+http://line.4k-iptv.com:80/movie/amel1/amel2/17797.mp4
+#EXTINF:-1,Masquerade
+http://line.4k-iptv.com:80/movie/amel1/amel2/17796.mp4
+#EXTINF:-1,Marathon Man
+http://line.4k-iptv.com:80/movie/amel1/amel2/17795.mp4
+#EXTINF:-1,Love, For Real
+http://line.4k-iptv.com:80/movie/amel1/amel2/17794.mp4
+#EXTINF:-1,Locked Down
+http://line.4k-iptv.com:80/movie/amel1/amel2/17793.mp4
+#EXTINF:-1,Lockdown
+http://line.4k-iptv.com:80/movie/amel1/amel2/17792.mp4
+#EXTINF:-1,Let Us In
+http://line.4k-iptv.com:80/movie/amel1/amel2/17791.mp4
+#EXTINF:-1,Last Call
+http://line.4k-iptv.com:80/movie/amel1/amel2/17790.mp4
+#EXTINF:-1,Kin Dread
+http://line.4k-iptv.com:80/movie/amel1/amel2/17789.mp4
+#EXTINF:-1,Jungle Cruise
+http://line.4k-iptv.com:80/movie/amel1/amel2/17788.mp4
+#EXTINF:-1,Jolt
+http://line.4k-iptv.com:80/movie/amel1/amel2/17787.mp4
+#EXTINF:-1,John and the Hole
+http://line.4k-iptv.com:80/movie/amel1/amel2/17786.mp4
+#EXTINF:-1,Jakob's Wife
+http://line.4k-iptv.com:80/movie/amel1/amel2/17785.mp4
+#EXTINF:-1,Intense Battles Reloaded
+http://line.4k-iptv.com:80/movie/amel1/amel2/17784.mp4
+#EXTINF:-1,How It Ends
+http://line.4k-iptv.com:80/movie/amel1/amel2/17783.mp4
+#EXTINF:-1,Hostage House
+http://line.4k-iptv.com:80/movie/amel1/amel2/17782.mp4
+#EXTINF:-1,Honor Among Thieves
+http://line.4k-iptv.com:80/movie/amel1/amel2/17781.mp4
+#EXTINF:-1,HellKat
+http://line.4k-iptv.com:80/movie/amel1/amel2/17780.mp4
+#EXTINF:-1,Heir
+http://line.4k-iptv.com:80/movie/amel1/amel2/17779.mp4
+#EXTINF:-1,Hatched
+http://line.4k-iptv.com:80/movie/amel1/amel2/17778.mp4
+#EXTINF:-1,Happily
+http://line.4k-iptv.com:80/movie/amel1/amel2/17777.mp4
+#EXTINF:-1,Gunpowder Milkshake
+http://line.4k-iptv.com:80/movie/amel1/amel2/17776.mp4
+#EXTINF:-1,Gun and a Hotel Bible
+http://line.4k-iptv.com:80/movie/amel1/amel2/17775.mp4
+#EXTINF:-1,Grimy
+http://line.4k-iptv.com:80/movie/amel1/amel2/17774.mp4
+#EXTINF:-1,Fear Street: 1978
+http://line.4k-iptv.com:80/movie/amel1/amel2/17773.mp4
+#EXTINF:-1,Fear Street: 1666
+http://line.4k-iptv.com:80/movie/amel1/amel2/17772.mp4
+#EXTINF:-1,False Positive
+http://line.4k-iptv.com:80/movie/amel1/amel2/17771.mp4
+#EXTINF:-1,Eye Without a Face
+http://line.4k-iptv.com:80/movie/amel1/amel2/17770.mp4
+#EXTINF:-1,Dragging the Classics: The Brady Bunch
+http://line.4k-iptv.com:80/movie/amel1/amel2/17769.mp4
+#EXTINF:-1,Destination Marfa
+http://line.4k-iptv.com:80/movie/amel1/amel2/17768.mp4
+#EXTINF:-1,Death Alley
+http://line.4k-iptv.com:80/movie/amel1/amel2/17767.mp4
+#EXTINF:-1,Dark Ritual
+http://line.4k-iptv.com:80/movie/amel1/amel2/17766.mp4
+#EXTINF:-1,Danny Doom
+http://line.4k-iptv.com:80/movie/amel1/amel2/17765.mp4
+#EXTINF:-1,Cult Following
+http://line.4k-iptv.com:80/movie/amel1/amel2/17764.mp4
+#EXTINF:-1,Cruella
+http://line.4k-iptv.com:80/movie/amel1/amel2/17763.mp4
+#EXTINF:-1,The Mortuary Collection
+http://line.4k-iptv.com:80/movie/amel1/amel2/17762.mp4
+#EXTINF:-1,Claw
+http://line.4k-iptv.com:80/movie/amel1/amel2/17761.mp4
+#EXTINF:-1,Central Park Dark
+http://line.4k-iptv.com:80/movie/amel1/amel2/17760.mp4
+#EXTINF:-1,Built for Mars: The Perseverance Rover
+http://line.4k-iptv.com:80/movie/amel1/amel2/17759.mp4
+#EXTINF:-1,Buckley's Chance
+http://line.4k-iptv.com:80/movie/amel1/amel2/17758.mp4
+#EXTINF:-1,Blood Pageant
+http://line.4k-iptv.com:80/movie/amel1/amel2/17757.mp4
+#EXTINF:-1,Blood Conscious
+http://line.4k-iptv.com:80/movie/amel1/amel2/17756.mp4
+#EXTINF:-1,Blood Born
+http://line.4k-iptv.com:80/movie/amel1/amel2/17755.mp4
+#EXTINF:-1,Black Widow
+http://line.4k-iptv.com:80/movie/amel1/amel2/17754.mp4
+#EXTINF:-1,Black Medicine
+http://line.4k-iptv.com:80/movie/amel1/amel2/17753.mp4
+#EXTINF:-1,Bergeron Brothers: Wedding Videographers
+http://line.4k-iptv.com:80/movie/amel1/amel2/17752.mp4
+#EXTINF:-1,Beckett
+http://line.4k-iptv.com:80/movie/amel1/amel2/17751.mp4
+#EXTINF:-1,Awake
+http://line.4k-iptv.com:80/movie/amel1/amel2/17750.mp4
+#EXTINF:-1,American Traitor The Trial of Axis Sally
+http://line.4k-iptv.com:80/movie/amel1/amel2/17749.mp4
+#EXTINF:-1,America: The Motion Picture
+http://line.4k-iptv.com:80/movie/amel1/amel2/17748.mp4
+#EXTINF:-1,Alleyway
+http://line.4k-iptv.com:80/movie/amel1/amel2/17747.mp4
+#EXTINF:-1,All Who Loved Her
+http://line.4k-iptv.com:80/movie/amel1/amel2/17746.mp4
+#EXTINF:-1,Aftermath
+http://line.4k-iptv.com:80/movie/amel1/amel2/17745.mp4
+#EXTINF:-1,Adventure Harbor
+http://line.4k-iptv.com:80/movie/amel1/amel2/17744.mp4
+#EXTINF:-1,A Whirlwind Wedding
+http://line.4k-iptv.com:80/movie/amel1/amel2/17743.mp4
+#EXTINF:-1,A State of Mind
+http://line.4k-iptv.com:80/movie/amel1/amel2/17742.mp4
+#EXTINF:-1,A Party Gone Wrong
+http://line.4k-iptv.com:80/movie/amel1/amel2/17741.mp4
+#EXTINF:-1,A Love to Remember
+http://line.4k-iptv.com:80/movie/amel1/amel2/17740.mp4
+#EXTINF:-1,2025 - The World enslaved by a Virus
+http://line.4k-iptv.com:80/movie/amel1/amel2/17739.mp4
+#EXTINF:-1,Radio Pirates
+http://line.4k-iptv.com:80/movie/amel1/amel2/17738.mp4
+#EXTINF:-1,Whats.Keeps.You.Alive.1080p (2)
+http://line.4k-iptv.com:80/movie/amel1/amel2/17737.mkv
+#EXTINF:-1,Waechter_der_Galaxis_2020_GERMAN_1080p_BluRay_x264_UNiVERSUM_2
+http://line.4k-iptv.com:80/movie/amel1/amel2/17736.mkv
+#EXTINF:-1,Voces.Die.Stimmen.2020.German.Webrip.x264-miSD
+http://line.4k-iptv.com:80/movie/amel1/amel2/17735.mkv
+#EXTINF:-1,Vanguard_Elite_Special_Force_2020_GERMAN_1080p_BluRay_x264_UNiVERSUM
+http://line.4k-iptv.com:80/movie/amel1/amel2/17734.mkv
+#EXTINF:-1,The_Last_Full_Measure_2020_German_DTS_DL_1080p_BluRay_x264_MULTiPLEX
+http://line.4k-iptv.com:80/movie/amel1/amel2/17733.mkv
+#EXTINF:-1,The.Voices.German.2014.AC3.BDRip.x264
+http://line.4k-iptv.com:80/movie/amel1/amel2/17732.mkv
+#EXTINF:-1,Red Dot 2021 German DL 1080p WEB x264-WvF (2)
+http://line.4k-iptv.com:80/movie/amel1/amel2/17731.mkv
+#EXTINF:-1,Orphan
+http://line.4k-iptv.com:80/movie/amel1/amel2/17730.mkv
+#EXTINF:-1,Meine_Freunde_sind_alle_tot_2020_GERMAN_DL_1080P_WEB_X264_WAYNE
+http://line.4k-iptv.com:80/movie/amel1/amel2/17729.mkv
+#EXTINF:-1,Haus der 1000 Leichen (2)
+http://line.4k-iptv.com:80/movie/amel1/amel2/17728.mkv
+#EXTINF:-1,Die_Misswahl_Der_Beginn_einer_Revolution_2020_German_DL_1080p_WEB
+http://line.4k-iptv.com:80/movie/amel1/amel2/17727.mkv
+#EXTINF:-1,Der_geheime_Garten_2020_German_DL_AC3_Dubbed_1080p_BluRay_x264_PsO
+http://line.4k-iptv.com:80/movie/amel1/amel2/17726.mkv
+#EXTINF:-1,Deliver_Us_From_Evil_2020_GERMAN_1080p_BluRay_x264_ROCKEFELLER_2
+http://line.4k-iptv.com:80/movie/amel1/amel2/17725.mkv
+#EXTINF:-1,Bliss.2021.German.DL.1080p.WEB.h264-WvF (2)
+http://line.4k-iptv.com:80/movie/amel1/amel2/17724.mkv
+#EXTINF:-1,2 Hearts 2020 German EAC3D DL 1080p WEB h264-PS (2)
+http://line.4k-iptv.com:80/movie/amel1/amel2/17723.mkv
+#EXTINF:-1,Get the Goat
+http://line.4k-iptv.com:80/movie/amel1/amel2/17722.mkv
+#EXTINF:-1,Vengeance_Man_Die_Abrechnung_2020_German_DL_1080p_BluRay_AVC_HOVAC
+http://line.4k-iptv.com:80/movie/amel1/amel2/17721.mkv
+#EXTINF:-1,Thunder.Force.2021.German.DL.1080p.WEB.x264-WvF (2)
+http://line.4k-iptv.com:80/movie/amel1/amel2/17720.mkv
+#EXTINF:-1,The_Tunnel_Die_Todesfalle_2019_German_DL_1080p_WEB_h264_SLG_2
+http://line.4k-iptv.com:80/movie/amel1/amel2/17719.mkv
+#EXTINF:-1,The.Racer.2020.German.DL.1080p.WEB.h264-SLG (2)
+http://line.4k-iptv.com:80/movie/amel1/amel2/17718.mkv
+#EXTINF:-1,Stree_Survivors_Die_wahre_Geschichte_des_Flugzeugabsturzes_von_Lynyrd
+http://line.4k-iptv.com:80/movie/amel1/amel2/17717.mkv
+#EXTINF:-1,Stay_Alive_Ueberleben_um_jeden_Preis_2020_German_DL_1080p_BluRay
+http://line.4k-iptv.com:80/movie/amel1/amel2/17716.mkv
+#EXTINF:-1,On The Edge
+http://line.4k-iptv.com:80/movie/amel1/amel2/17715.mkv
+#EXTINF:-1,Riddled_with_Deceit_A_Marthas_Vineyard_Mystery_2020_German_DL_720p
+http://line.4k-iptv.com:80/movie/amel1/amel2/17714.mkv
+#EXTINF:-1,Nur.ein.Augenblick.2020.German.1080p.WEB.h264-SLG (2)
+http://line.4k-iptv.com:80/movie/amel1/amel2/17713.mkv
+#EXTINF:-1,Mutant.Outcasts.2019.German.DL.1080p.BluRay.x264-SPiCY (2)
+http://line.4k-iptv.com:80/movie/amel1/amel2/17712.mkv
+#EXTINF:-1,Moxie_Zeit_zurueckzuschlagen_2021_German_DL_1080p_WEB_x264_WvF_2
+http://line.4k-iptv.com:80/movie/amel1/amel2/17711.mkv
+#EXTINF:-1,Life in a Year
+http://line.4k-iptv.com:80/movie/amel1/amel2/17710.mkv
+#EXTINF:-1,Jiu.Jitsu.2020.German.DL.1080p.BluRay.x264-ENCOUNTERS (2)
+http://line.4k-iptv.com:80/movie/amel1/amel2/17709.mkv
+#EXTINF:-1,Jason_Goes_To_Hell_Die_Endabrechnung_GERMAN_1993_DL_1080p_BluRay
+http://line.4k-iptv.com:80/movie/amel1/amel2/17708.mkv
+#EXTINF:-1,Hellboy_Call_Of_Darkness_2019_German_DL_1080p_BluRay_x264_ENCOUNTERS
+http://line.4k-iptv.com:80/movie/amel1/amel2/17707.mkv
+#EXTINF:-1,Gott_du_kannst_ein_Arsch_sein_2020_German_1080p_WEB_h264_SLG_2
+http://line.4k-iptv.com:80/movie/amel1/amel2/17706.mkv
+#EXTINF:-1,From the Depths
+http://line.4k-iptv.com:80/movie/amel1/amel2/17705.mkv
+#EXTINF:-1,Friedhof_der_Kuscheltiere_2019_German_DL_AC3_1080p_BluRay_x265_FuN
+http://line.4k-iptv.com:80/movie/amel1/amel2/17704.mkv
+#EXTINF:-1,Freitag.der.13.German.DL.1080p.BluRay.x264-DEFUSED (2)
+http://line.4k-iptv.com:80/movie/amel1/amel2/17703.mkv
+#EXTINF:-1,Faking_Bullshit_Krimineller_als_die_Polizei_erlaubt_2020_German
+http://line.4k-iptv.com:80/movie/amel1/amel2/17702.mkv
+#EXTINF:-1,Dreamcatcher.German.2003.DVDRiP.AC3.XViD.iNTERNAL-MDM
+http://line.4k-iptv.com:80/movie/amel1/amel2/17701.mkv
+#EXTINF:-1,Der_Prinz_aus_Zamunda_2_German_EAC_DL_WebHD_1080p_x265_NScR_2
+http://line.4k-iptv.com:80/movie/amel1/amel2/17700.mkv
+#EXTINF:-1,Der_Prinz_aus_Zamunda_1988_German_AC3_1080p_BluRay_x265_GTF_2
+http://line.4k-iptv.com:80/movie/amel1/amel2/17699.mkv
+#EXTINF:-1,Paper Lives
+http://line.4k-iptv.com:80/movie/amel1/amel2/17698.mkv
+#EXTINF:-1,Batman_Soul_of_the_Dragon_2021_German_DL_1080p_BluRay_x264_ENCOUNTERS
+http://line.4k-iptv.com:80/movie/amel1/amel2/17697.mkv
+#EXTINF:-1,Fifty Shades Darker
+http://line.4k-iptv.com:80/movie/amel1/amel2/17696.mkv
+#EXTINF:-1,Fifty Shades Freed
+http://line.4k-iptv.com:80/movie/amel1/amel2/17695.mkv
+#EXTINF:-1,Fifty Shades of Grey
+http://line.4k-iptv.com:80/movie/amel1/amel2/17694.mkv
+#EXTINF:-1,The Gruffalo
+http://line.4k-iptv.com:80/movie/amel1/amel2/17693.mkv
+#EXTINF:-1,Oxygen
+http://line.4k-iptv.com:80/movie/amel1/amel2/17692.mkv
+#EXTINF:-1,Wildland
+http://line.4k-iptv.com:80/movie/amel1/amel2/17691.mkv
+#EXTINF:-1,A Long Way Down
+http://line.4k-iptv.com:80/movie/amel1/amel2/17690.mkv
+#EXTINF:-1,The Swordsman
+http://line.4k-iptv.com:80/movie/amel1/amel2/17689.mkv
+#EXTINF:-1,The Woman in the Window
+http://line.4k-iptv.com:80/movie/amel1/amel2/17688.mkv
+#EXTINF:-1,The War of the Roses
+http://line.4k-iptv.com:80/movie/amel1/amel2/17687.mkv
+#EXTINF:-1,The Other Side of the Door
+http://line.4k-iptv.com:80/movie/amel1/amel2/17686.mkv
+#EXTINF:-1,The Evil Next Door (2020) German
+http://line.4k-iptv.com:80/movie/amel1/amel2/17685.mkv
+#EXTINF:-1,The Banishing
+http://line.4k-iptv.com:80/movie/amel1/amel2/17684.mkv
+#EXTINF:-1,The Superdeep
+http://line.4k-iptv.com:80/movie/amel1/amel2/17683.mkv
+#EXTINF:-1,Slate (2020) German
+http://line.4k-iptv.com:80/movie/amel1/amel2/17682.mkv
+#EXTINF:-1,Security
+http://line.4k-iptv.com:80/movie/amel1/amel2/17681.mkv
+#EXTINF:-1,Rurouni Kenshin: The Final
+http://line.4k-iptv.com:80/movie/amel1/amel2/17680.mkv
+#EXTINF:-1,One Last Call (2020) German
+http://line.4k-iptv.com:80/movie/amel1/amel2/17679.mkv
+#EXTINF:-1,Luca
+http://line.4k-iptv.com:80/movie/amel1/amel2/17678.mkv
+#EXTINF:-1,Lebendig skalpiert
+http://line.4k-iptv.com:80/movie/amel1/amel2/17677.mkv
+#EXTINF:-1,I Am All Girls
+http://line.4k-iptv.com:80/movie/amel1/amel2/17676.mkv
+#EXTINF:-1,Honeydew
+http://line.4k-iptv.com:80/movie/amel1/amel2/17675.mkv
+#EXTINF:-1,Half Brothers
+http://line.4k-iptv.com:80/movie/amel1/amel2/17674.mkv
+#EXTINF:-1,Good on Paper
+http://line.4k-iptv.com:80/movie/amel1/amel2/17673.mkv
+#EXTINF:-1,Fire - Im Kampf gegen die FlammenhÃ¶lle (2020)
+http://line.4k-iptv.com:80/movie/amel1/amel2/17672.mkv
+#EXTINF:-1,Ferry
+http://line.4k-iptv.com:80/movie/amel1/amel2/17671.mkv
+#EXTINF:-1,Fatherhood (2021) German
+http://line.4k-iptv.com:80/movie/amel1/amel2/17670.mkv
+#EXTINF:-1,Don't Read This On a Plane
+http://line.4k-iptv.com:80/movie/amel1/amel2/17669.mkv
+#EXTINF:-1,Der Boandlkramer und die ewige Liebe
+http://line.4k-iptv.com:80/movie/amel1/amel2/17668.mkv
+#EXTINF:-1,The Conjuring: The Devil Made Me Do It
+http://line.4k-iptv.com:80/movie/amel1/amel2/17667.mkv
+#EXTINF:-1,Colors of Love
+http://line.4k-iptv.com:80/movie/amel1/amel2/17666.mkv
+#EXTINF:-1,Baby (2020) German
+http://line.4k-iptv.com:80/movie/amel1/amel2/17665.mkv
+#EXTINF:-1,A Quiet Place 2 (2021) German
+http://line.4k-iptv.com:80/movie/amel1/amel2/17664.mkv
+#EXTINF:-1,A Mermaid in Paris
+http://line.4k-iptv.com:80/movie/amel1/amel2/17663.mkv
+#EXTINF:-1,It Could Happen to You
+http://line.4k-iptv.com:80/movie/amel1/amel2/17662.mkv
+#EXTINF:-1,die.bestie.2020.german
+http://line.4k-iptv.com:80/movie/amel1/amel2/17661.mkv
+#EXTINF:-1,We're the Millers
+http://line.4k-iptv.com:80/movie/amel1/amel2/17660.mkv
+#EXTINF:-1,The_Apartment_Willkommen_im_Alptraum_German_2019_BDRiP_x264_PL3X
+http://line.4k-iptv.com:80/movie/amel1/amel2/17659.mkv
+#EXTINF:-1,Tenet.2020.IMAX.German
+http://line.4k-iptv.com:80/movie/amel1/amel2/17658.mkv
+#EXTINF:-1,Sputnik.German.2020
+http://line.4k-iptv.com:80/movie/amel1/amel2/17657.mkv
+#EXTINF:-1,Monos_Zwischen_Himmel_und_Hoelle_2019_German_BDRip_x264_DETAiLS
+http://line.4k-iptv.com:80/movie/amel1/amel2/17656.mkv
+#EXTINF:-1,Just.Mercy.2019.German.AC3D.BDRiP.XViD-HaN
+http://line.4k-iptv.com:80/movie/amel1/amel2/17655.mkv
+#EXTINF:-1,I'm Your Woman
+http://line.4k-iptv.com:80/movie/amel1/amel2/17654.mkv
+#EXTINF:-1,Fatman.2020.German
+http://line.4k-iptv.com:80/movie/amel1/amel2/17653.mkv
+#EXTINF:-1,Dont.Let.Go.German.2019
+http://line.4k-iptv.com:80/movie/amel1/amel2/17652.mkv
+#EXTINF:-1,Ava
+http://line.4k-iptv.com:80/movie/amel1/amel2/17651.mkv
+#EXTINF:-1,Black.Box.2020.German AC3 DL WEBRip x264 - SHQ
+http://line.4k-iptv.com:80/movie/amel1/amel2/17650.mkv
+#EXTINF:-1,Bill & Ted Face the Music
+http://line.4k-iptv.com:80/movie/amel1/amel2/17649.mkv
+#EXTINF:-1,the.roads.not.taken.2020.german.dl.1080p.web.x264-wayne 
+http://line.4k-iptv.com:80/movie/amel1/amel2/17648.mkv
+#EXTINF:-1,spy-scoob2020-sd
+http://line.4k-iptv.com:80/movie/amel1/amel2/17647.mkv
+#EXTINF:-1,miSD-the.craft.legacy.2020-sd
+http://line.4k-iptv.com:80/movie/amel1/amel2/17646.mkv
+#EXTINF:-1,angelas.weihnachtswunsch.2020-sd
+http://line.4k-iptv.com:80/movie/amel1/amel2/17645.mkv
+#EXTINF:-1,Soul.2020.GERMAN.DL.MERRY.XMAS.1080p.WEB.H264-SOV(
+http://line.4k-iptv.com:80/movie/amel1/amel2/17644.mkv
+#EXTINF:-1,Palmer.2021.GERMAN.DL.1080P.WEB.H264-WAYNE (2)
+http://line.4k-iptv.com:80/movie/amel1/amel2/17643.mkv
+#EXTINF:-1,One_Night_in_Miami_2020_German_AC3_DL_1080p_WebHD_x265_FuN_2
+http://line.4k-iptv.com:80/movie/amel1/amel2/17642.mkv
+#EXTINF:-1,Honest Thief
+http://line.4k-iptv.com:80/movie/amel1/amel2/17641.mkv
+#EXTINF:-1,Hochzeit.Down.Under.GERMAN.2019.AC3.BDRip.x264-UNiVERSUM
+http://line.4k-iptv.com:80/movie/amel1/amel2/17640.mkv
+#EXTINF:-1,Hexenjagd.2021.German.AC3.WEBRiP.XViD-57r
+http://line.4k-iptv.com:80/movie/amel1/amel2/17639.avi
+#EXTINF:-1,Encounter_Unheimliche_Begegnung_2018_German_DL_1080p_BluRay_x264
+http://line.4k-iptv.com:80/movie/amel1/amel2/17638.mkv
+#EXTINF:-1,Echo_Boomers_2020_German_DL_AC3_Dubbed_1080p_WEB_h264_PsO_2
+http://line.4k-iptv.com:80/movie/amel1/amel2/17637.mkv
+#EXTINF:-1,Der_Einzig_Wahre_Ivan_2020_German_AC3_DL_1080p_WebRip_x265_FuN
+http://line.4k-iptv.com:80/movie/amel1/amel2/17636.mkv
+#EXTINF:-1,Der.doppelte.Vater.2021.German.DL.1080p.WEB.x264-WvF (2)
+http://line.4k-iptv.com:80/movie/amel1/amel2/17635.mkv
+#EXTINF:-1,Breaking.Surface.2020.German.DL.AC3.1080p.BluRay.x265-FuN
+http://line.4k-iptv.com:80/movie/amel1/amel2/17634.mkv
+#EXTINF:-1,Becky
+http://line.4k-iptv.com:80/movie/amel1/amel2/17633.mkv
+#EXTINF:-1,Antebellum.2020.German.AC3.Dubbed.BDRip.x264-PsO
+http://line.4k-iptv.com:80/movie/amel1/amel2/17632.avi
+#EXTINF:-1,After.Truth.2020.German.AC3D.5.1.BDRiP.XviD-SHOWE
+http://line.4k-iptv.com:80/movie/amel1/amel2/17631.avi
+#EXTINF:-1,Weihnachten.in.der.Wildnis.German.2019.WEBRip.x264-WvF
+http://line.4k-iptv.com:80/movie/amel1/amel2/17630.mkv
+#EXTINF:-1,The.Silence.German.2019.BDRip.x264-iMPERiUM
+http://line.4k-iptv.com:80/movie/amel1/amel2/17629.mkv
+#EXTINF:-1,The.Intruder.German.2019.AC3.BDRip.x264-COiNCiDENCE
+http://line.4k-iptv.com:80/movie/amel1/amel2/17628.mkv
+#EXTINF:-1,The.Furies.2019.GERMAN.DL.BDRiP.x264-GOREHOUNDS
+http://line.4k-iptv.com:80/movie/amel1/amel2/17627.mkv
+#EXTINF:-1,The German King
+http://line.4k-iptv.com:80/movie/amel1/amel2/17626.avi
+#EXTINF:-1,Terrifier.UNCUT.GERMAN.2016.DL.BDRiP.x264-GOREHOUNDS
+http://line.4k-iptv.com:80/movie/amel1/amel2/17625.mkv
+#EXTINF:-1,Solo.The.Rhythm.of.Love.German.2018.AC3.DVDRiP.x264-KNT
+http://line.4k-iptv.com:80/movie/amel1/amel2/17624.mkv
+#EXTINF:-1,Rambo: Last Blood
+http://line.4k-iptv.com:80/movie/amel1/amel2/17623.mkv
+#EXTINF:-1,Once Upon a Timeâ€¦ in Hollywood
+http://line.4k-iptv.com:80/movie/amel1/amel2/17622.mkv
+#EXTINF:-1,Joker
+http://line.4k-iptv.com:80/movie/amel1/amel2/17621.mkv
+#EXTINF:-1,Heretiks.UNCUT.2018.German.AC3.BDRip.XViD-HQX
+http://line.4k-iptv.com:80/movie/amel1/amel2/17620.avi
+#EXTINF:-1,Good Boys
+http://line.4k-iptv.com:80/movie/amel1/amel2/17619.mkv
+#EXTINF:-1,Eli.2019.German.720p.WEBRip.x264-WvF (1)
+http://line.4k-iptv.com:80/movie/amel1/amel2/17618.mkv
+#EXTINF:-1,Dora.und.die.goldene.Stadt.German.LD.BDRip.x264-PRD
+http://line.4k-iptv.com:80/movie/amel1/amel2/17617.mkv
+#EXTINF:-1,Doom: Annihilation
+http://line.4k-iptv.com:80/movie/amel1/amel2/17616.avi
+#EXTINF:-1,Die.Geldwaescherei.2019.NF.WEBRip.German.AC3.x264-PS
+http://line.4k-iptv.com:80/movie/amel1/amel2/17615.mkv
+#EXTINF:-1,Das.Ende.der.Wahrheit.2019.German.AC3.WebHDRip.XViD-HaN
+http://line.4k-iptv.com:80/movie/amel1/amel2/17614.avi
+#EXTINF:-1,Bailey_Ein_Hund_kehrt_zurueck_GERMAN
+http://line.4k-iptv.com:80/movie/amel1/amel2/17613.mkv
+#EXTINF:-1,Annabelle.3.2019.German.AC3.DVDRiP.x264-BluRxD (1)
+http://line.4k-iptv.com:80/movie/amel1/amel2/17612.mkv
+#EXTINF:-1,Angel Has Fallen
+http://line.4k-iptv.com:80/movie/amel1/amel2/17611.mkv
+#EXTINF:-1,3.from.Hell.UNRATED.2019.BDRip.AC3D.5.1.German.x264-PS
+http://line.4k-iptv.com:80/movie/amel1/amel2/17610.mkv
+#EXTINF:-1,15 Minutes of War
+http://line.4k-iptv.com:80/movie/amel1/amel2/17609.mkv
+#EXTINF:-1,Tinker Bell and the Lost Treasure
+http://line.4k-iptv.com:80/movie/amel1/amel2/17272.mkv
+#EXTINF:-1,Tinker Bell
+http://line.4k-iptv.com:80/movie/amel1/amel2/17271.mkv
+#EXTINF:-1,A Bug's Life
+http://line.4k-iptv.com:80/movie/amel1/amel2/17270.mkv
+#EXTINF:-1,WALLÂ·E
+http://line.4k-iptv.com:80/movie/amel1/amel2/17269.mkv
+#EXTINF:-1,Tangled
+http://line.4k-iptv.com:80/movie/amel1/amel2/17268.mkv
+#EXTINF:-1,Sleeping Beauty
+http://line.4k-iptv.com:80/movie/amel1/amel2/17267.mkv
+#EXTINF:-1,Toy Story 3
+http://line.4k-iptv.com:80/movie/amel1/amel2/17266.mkv
+#EXTINF:-1,Toy Story 2
+http://line.4k-iptv.com:80/movie/amel1/amel2/17265.mkv
+#EXTINF:-1,Toy story toy Tales
+http://line.4k-iptv.com:80/movie/amel1/amel2/17264.mkv
+#EXTINF:-1,Hoodwinked!
+http://line.4k-iptv.com:80/movie/amel1/amel2/17263.mkv
+#EXTINF:-1,The Princess and the Frog
+http://line.4k-iptv.com:80/movie/amel1/amel2/17262.mkv
+#EXTINF:-1,The Incredibles
+http://line.4k-iptv.com:80/movie/amel1/amel2/17261.mkv
+#EXTINF:-1,All Dogs Go to Heaven
+http://line.4k-iptv.com:80/movie/amel1/amel2/17260.mkv
+#EXTINF:-1,Surf's Up
+http://line.4k-iptv.com:80/movie/amel1/amel2/17259.mkv
+#EXTINF:-1,Snow White and the Seven Dwarfs
+http://line.4k-iptv.com:80/movie/amel1/amel2/17258.mkv
+#EXTINF:-1,Shrek Forever After
+http://line.4k-iptv.com:80/movie/amel1/amel2/17257.mkv
+#EXTINF:-1,Shrek the Third
+http://line.4k-iptv.com:80/movie/amel1/amel2/17256.mkv
+#EXTINF:-1,Shrek 2
+http://line.4k-iptv.com:80/movie/amel1/amel2/17255.mkv
+#EXTINF:-1,Shrek
+http://line.4k-iptv.com:80/movie/amel1/amel2/17254.mkv
+#EXTINF:-1,Robots
+http://line.4k-iptv.com:80/movie/amel1/amel2/17252.mkv
+#EXTINF:-1,Ratatatira
+http://line.4k-iptv.com:80/movie/amel1/amel2/17251.mkv
+#EXTINF:-1,DepresivniMish
+http://line.4k-iptv.com:80/movie/amel1/amel2/17250.mkv
+#EXTINF:-1,Finding Nemo
+http://line.4k-iptv.com:80/movie/amel1/amel2/17249.mkv
+#EXTINF:-1,Pobuna.Na.Farmi.(Home.on.the.Range).SINKRO.720p.HDTV.x264
+http://line.4k-iptv.com:80/movie/amel1/amel2/17248.mkv
+#EXTINF:-1,OpSes2
+http://line.4k-iptv.com:80/movie/amel1/amel2/17247.mkv
+#EXTINF:-1,Cloudy with a Chance of Meatballs
+http://line.4k-iptv.com:80/movie/amel1/amel2/17246.mkv
+#EXTINF:-1,Nebesa(Up).2009.720p.BRRip.XviD.AC3
+http://line.4k-iptv.com:80/movie/amel1/amel2/17245.mkv
+#EXTINF:-1,Monsters, Inc.
+http://line.4k-iptv.com:80/movie/amel1/amel2/17244.mkv
+#EXTINF:-1,Kuca Monstrum 720p (HRsink)
+http://line.4k-iptv.com:80/movie/amel1/amel2/17243.mkv
+#EXTINF:-1,Megamind
+http://line.4k-iptv.com:80/movie/amel1/amel2/17242.mkv
+#EXTINF:-1,Meet.The.Robinsons (2007) m-72p.Dual Audio-badw
+http://line.4k-iptv.com:80/movie/amel1/amel2/17241.mkv
+#EXTINF:-1,The Home-Made Car
+http://line.4k-iptv.com:80/movie/amel1/amel2/17240.mkv
+#EXTINF:-1,Ice Age: The Meltdown
+http://line.4k-iptv.com:80/movie/amel1/amel2/17237.mkv
+#EXTINF:-1,How to Train Your Dragon
+http://line.4k-iptv.com:80/movie/amel1/amel2/17234.mkv
+#EXTINF:-1,HHAW
+http://line.4k-iptv.com:80/movie/amel1/amel2/17233.mkv
+#EXTINF:-1,Happy Feet
+http://line.4k-iptv.com:80/movie/amel1/amel2/17232.mkv
+#EXTINF:-1,Gnomeo.&amp;.Juliet (2011) m-720p.Dual audio-badw
+http://line.4k-iptv.com:80/movie/amel1/amel2/17231.mkv
+#EXTINF:-1,Flushed Away
+http://line.4k-iptv.com:80/movie/amel1/amel2/17230.mkv
+#EXTINF:-1,Donkey X
+http://line.4k-iptv.com:80/movie/amel1/amel2/17229.mkv
+#EXTINF:-1,Despicable Me
+http://line.4k-iptv.com:80/movie/amel1/amel2/17228.mkv
+#EXTINF:-1,The Journey of Monalisa
+http://line.4k-iptv.com:80/movie/amel1/amel2/17227.mkv
+#EXTINF:-1,Cimpanze.U.Svemiru.2008.HRSINK.720p.BRip
+http://line.4k-iptv.com:80/movie/amel1/amel2/17226.mkv
+#EXTINF:-1,Chicken Little
+http://line.4k-iptv.com:80/movie/amel1/amel2/17225.mkv
+#EXTINF:-1,Brother Bear
+http://line.4k-iptv.com:80/movie/amel1/amel2/17224.mkv
+#EXTINF:-1,Bolt_HR
+http://line.4k-iptv.com:80/movie/amel1/amel2/17223.mkv
+#EXTINF:-1,Stuber
+http://line.4k-iptv.com:80/movie/amel1/amel2/17222.mkv
+#EXTINF:-1,Astro Boy
+http://line.4k-iptv.com:80/movie/amel1/amel2/17221.mkv
+#EXTINF:-1,Arthur and the Revenge of Maltazard
+http://line.4k-iptv.com:80/movie/amel1/amel2/17220.mkv
+#EXTINF:-1,Arthur 3: The War of the Two Worlds
+http://line.4k-iptv.com:80/movie/amel1/amel2/17219.mkv
+#EXTINF:-1,Alpha and Omega
+http://line.4k-iptv.com:80/movie/amel1/amel2/17218.mkv
+#EXTINF:-1,Cloudy with a Chance of Meatballs
+http://line.4k-iptv.com:80/movie/amel1/amel2/17217.mkv
+#EXTINF:-1,Cars 3
+http://line.4k-iptv.com:80/movie/amel1/amel2/17216.mkv
+#EXTINF:-1,Cars 2
+http://line.4k-iptv.com:80/movie/amel1/amel2/17215.mkv
+#EXTINF:-1,Cars
+http://line.4k-iptv.com:80/movie/amel1/amel2/17214.mkv
+#EXTINF:-1,Incredibles 2
+http://line.4k-iptv.com:80/movie/amel1/amel2/17135.mkv
+#EXTINF:-1,The Purge: Election Year
+http://line.4k-iptv.com:80/movie/amel1/amel2/17134.mp4
+#EXTINF:-1,The Purge: Anarchy
+http://line.4k-iptv.com:80/movie/amel1/amel2/17133.mp4
+#EXTINF:-1,The Purge
+http://line.4k-iptv.com:80/movie/amel1/amel2/17132.mp4
+#EXTINF:-1,The Forever Purge
+http://line.4k-iptv.com:80/movie/amel1/amel2/17131.mp4
+#EXTINF:-1,The First Purge
+http://line.4k-iptv.com:80/movie/amel1/amel2/17130.mp4
+#EXTINF:-1,Hitman's Wife's Bodyguard
+http://line.4k-iptv.com:80/movie/amel1/amel2/17128.mkv
+#EXTINF:-1,F9
+http://line.4k-iptv.com:80/movie/amel1/amel2/17127.avi
+#EXTINF:-1,Catch Me If You Can
+http://line.4k-iptv.com:80/movie/amel1/amel2/17126.mp4
+#EXTINF:-1,The War with Grandpa
+http://line.4k-iptv.com:80/movie/amel1/amel2/17125.mkv
 #EXTINF:-1,Shaun the Sheep S01 E01
 http://line.4k-iptv.com:80/series/amel1/amel2/16975.mkv
 #EXTINF:-1,Shaun the Sheep S01 E02
