@@ -2,7 +2,7 @@
 #EXTINF:-1,N1 SRB
 https://best-str.umn.cdn.united.cloud/stream?channel=n1srp&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info
 #EXTINF:-1,N1(Beckup)
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3893
+http:\\line.4k-iptv.com:80\LR60i4RIoy\RqHF2pQErmd12de12yd12dh12\83
 #EXTINF:-1,NOVA S
 http://5.39.72.165:8000/live?channelId=246&uid=78&deviceMac=00:1A:79:2A:5A:CF
 #EXTINF:-1,Nova S BackUP
@@ -1586,6 +1586,412 @@ http://cdn.adultiptv.net/pornstar.m3u8
 http://cdn.adultiptv.net/lesbian.m3u8
 #EXTINF:-1, ****Channel (Гомосеки) (21+)
 http://cdn.adultiptv.net/***.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PENTHOUSE QUICKIES HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| PENTHOUSE QUICKIES HD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18872
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PENTHOUSE GOLD HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| PENTHOUSE GOLD HD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18871
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PENTHOUSE BLACK" tvg-logo="" group-title="FOR ADULTS",|ADULT| PENTHOUSE BLACK
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18870
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PRIVATE TV HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| PRIVATE TV HD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18869
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| VIVIDTV EUROPE" tvg-logo="" group-title="FOR ADULTS",|ADULT| VIVIDTV EUROPE
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18868
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| BANG U" tvg-logo="" group-title="FOR ADULTS",|ADULT| BANG U
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18867
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| BANGERZ" tvg-logo="" group-title="FOR ADULTS",|ADULT| BANGERZ
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18866
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| BARELY LEGAL" tvg-logo="" group-title="FOR ADULTS",|ADULT| BARELY LEGAL
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18865
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| WERK" tvg-logo="" group-title="FOR ADULTS",|ADULT| WERK
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18864
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| HOT PLEASURE HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| HOT PLEASURE HD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18863
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| EROTIC3" tvg-logo="" group-title="FOR ADULTS",|ADULT| EROTIC3
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18862
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| EROTIC" tvg-logo="" group-title="FOR ADULTS",|ADULT| EROTIC
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18861
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| EROTIC2" tvg-logo="" group-title="FOR ADULTS",|ADULT| EROTIC2
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18860
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| CANDY HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| CANDY HD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18859
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| NAUGHTY" tvg-logo="" group-title="FOR ADULTS",|ADULT| NAUGHTY
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18858
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| DORCEL HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| DORCEL HD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18857
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| DORCEL XXX HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| DORCEL XXX HD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18856
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| RKTV" tvg-logo="" group-title="FOR ADULTS",|ADULT| RKTV
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18855
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| EROXXX HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| EROXXX HD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18854
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| EVIL ANGEL HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| EVIL ANGEL HD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18853
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PASSIEXXX ANAAL" tvg-logo="" group-title="FOR ADULTS",|ADULT| PASSIEXXX ANAAL
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18852
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| EXTREM" tvg-logo="" group-title="FOR ADULTS",|ADULT| EXTREM
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18851
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PINK CLUB" tvg-logo="" group-title="FOR ADULTS",|ADULT| PINK CLUB
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18850
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| FREE X TV" tvg-logo="" group-title="FOR ADULTS",|ADULT| FREE X TV
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18849
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Pinko Club 2" tvg-logo="" group-title="FOR ADULTS",|ADULT| Pinko Club 2
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18848
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| 	X-Dream TV" tvg-logo="" group-title="FOR ADULTS",|ADULT| 	X-Dream TV
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18847
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| HOT PLEASURE" tvg-logo="" group-title="FOR ADULTS",|ADULT| HOT PLEASURE
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18846
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| EROTIC4" tvg-logo="" group-title="FOR ADULTS",|ADULT| EROTIC4
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18845
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| HUSTLER HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| HUSTLER HD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18844
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| FASTBOY" tvg-logo="" group-title="FOR ADULTS",|ADULT| FASTBOY
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18843
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| LEO TV" tvg-logo="" group-title="FOR ADULTS",|ADULT| LEO TV
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18842
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| LESBIAN AFFAIR" tvg-logo="" group-title="FOR ADULTS",|ADULT| LESBIAN AFFAIR
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18841
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| EROTIC 8" tvg-logo="" group-title="FOR ADULTS",|ADULT| EROTIC 8
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18840
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| MILF TV" tvg-logo="" group-title="FOR ADULTS",|ADULT| MILF TV
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18839
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| EXXXOTICA" tvg-logo="" group-title="FOR ADULTS",|ADULT| EXXXOTICA
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18838
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| NUART TV" tvg-logo="" group-title="FOR ADULTS",|ADULT| NUART TV
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18837
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| LOVER TV" tvg-logo="" group-title="FOR ADULTS",|ADULT| LOVER TV
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18836
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| HOT" tvg-logo="" group-title="FOR ADULTS",|ADULT| HOT
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18835
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| OLDTIMER" tvg-logo="" group-title="FOR ADULTS",|ADULT| OLDTIMER
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18834
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PLAYBOY EUROPE" tvg-logo="" group-title="FOR ADULTS",|ADULT| PLAYBOY EUROPE
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18833
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PLAYHOUSE" tvg-logo="" group-title="FOR ADULTS",|ADULT| PLAYHOUSE
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18832
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SEXY HOT" tvg-logo="" group-title="FOR ADULTS",|ADULT| SEXY HOT
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18831
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| VENUS" tvg-logo="" group-title="FOR ADULTS",|ADULT| VENUS
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18830
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| JASMIN TV" tvg-logo="" group-title="FOR ADULTS",|ADULT| JASMIN TV
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18829
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| REDLIGHT HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| REDLIGHT HD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18828
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| EXTREME HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| EXTREME HD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18827
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SCT CLASSIC" tvg-logo="" group-title="FOR ADULTS",|ADULT| SCT CLASSIC
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18826
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Cent & Cento" tvg-logo="" group-title="FOR ADULTS",|ADULT| Cent & Cento
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18825
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| MEIDEN HOLLAND" tvg-logo="" group-title="FOR ADULTS",|ADULT| MEIDEN HOLLAND
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18824
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| EROTIC 6" tvg-logo="" group-title="FOR ADULTS",|ADULT| EROTIC 6
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18823
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| EROTIC 7" tvg-logo="" group-title="FOR ADULTS",|ADULT| EROTIC 7
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18822
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| EROX HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| EROX HD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18821
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SUPER ONE HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| SUPER ONE HD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18820
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| O LA LA" tvg-logo="" group-title="FOR ADULTS",|ADULT| O LA LA
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18819
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| VENUS TV" tvg-logo="" group-title="FOR ADULTS",|ADULT| VENUS TV
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18818
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| VIVID RED HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| VIVID RED HD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18817
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PASSIEXXX GROUPSEX" tvg-logo="" group-title="FOR ADULTS",|ADULT| PASSIEXXX GROUPSEX
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18816
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PLAYBOY B" tvg-logo="" group-title="FOR ADULTS",|ADULT| PLAYBOY B
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18815
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PLAYBOY BLACK" tvg-logo="" group-title="FOR ADULTS",|ADULT| PLAYBOY BLACK
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18814
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PLAYBOY RED" tvg-logo="" group-title="FOR ADULTS",|ADULT| PLAYBOY RED
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18813
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| BRAZZERS TV EUROPE" tvg-logo="" group-title="FOR ADULTS",|ADULT| BRAZZERS TV EUROPE
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18812
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| HUSTLER TV" tvg-logo="" group-title="FOR ADULTS",|ADULT| HUSTLER TV
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18811
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| XXL" tvg-logo="" group-title="FOR ADULTS",|ADULT| XXL
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18810
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| DUSK" tvg-logo="" group-title="FOR ADULTS",|ADULT| DUSK
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18809
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| ZEST TV" tvg-logo="" group-title="FOR ADULTS",|ADULT| ZEST TV
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18808
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| NUART" tvg-logo="" group-title="FOR ADULTS",|ADULT| NUART
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18807
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SUPERONE" tvg-logo="" group-title="FOR ADULTS",|ADULT| SUPERONE
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18806
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| TABOO" tvg-logo="" group-title="FOR ADULTS",|ADULT| TABOO
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18805
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PLAYBOY" tvg-logo="" group-title="FOR ADULTS",|ADULT| PLAYBOY
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18804
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PINK EROTIC 2" tvg-logo="" group-title="FOR ADULTS",|ADULT| PINK EROTIC 2
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18803
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PINK EROTIC 3" tvg-logo="" group-title="FOR ADULTS",|ADULT| PINK EROTIC 3
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18802
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PINK EROTIC 4" tvg-logo="" group-title="FOR ADULTS",|ADULT| PINK EROTIC 4
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18801
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PINK EROTIC 5" tvg-logo="" group-title="FOR ADULTS",|ADULT| PINK EROTIC 5
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18800
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Common daisy" tvg-logo="" group-title="FOR ADULTS",|ADULT| Common daisy
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18799
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| BARELY LEGAL TV" tvg-logo="" group-title="FOR ADULTS",|ADULT| BARELY LEGAL TV
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18798
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| EXTREME" tvg-logo="" group-title="FOR ADULTS",|ADULT| EXTREME
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18797
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| EXX EXOTICA" tvg-logo="" group-title="FOR ADULTS",|ADULT| EXX EXOTICA
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18796
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| MEN ONLY" tvg-logo="" group-title="FOR ADULTS",|ADULT| MEN ONLY
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18795
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| BLUE HUSTLER EUROPE" tvg-logo="" group-title="FOR ADULTS",|ADULT| BLUE HUSTLER EUROPE
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18794
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| BLUE HUSTLER" tvg-logo="" group-title="FOR ADULTS",|ADULT| BLUE HUSTLER
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18793
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| BALKAN EROTIC HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| BALKAN EROTIC HD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18792
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| FAST BOYZ" tvg-logo="" group-title="FOR ADULTS",|ADULT| FAST BOYZ
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18791
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| MAN-X" tvg-logo="" group-title="FOR ADULTS",|ADULT| MAN-X
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18790
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| P HD PRIVATE" tvg-logo="" group-title="FOR ADULTS",|ADULT| P HD PRIVATE
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18789
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PASSIONXXX ANALSRETCHED" tvg-logo="" group-title="FOR ADULTS",|ADULT| PASSIONXXX ANALSRETCHED
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18788
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| EMANUELLE" tvg-logo="" group-title="FOR ADULTS",|ADULT| EMANUELLE
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18787
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SEXCO BISEXUAL" tvg-logo="" group-title="FOR ADULTS",|ADULT| SEXCO BISEXUAL
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18786
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SEXCO CASTING" tvg-logo="" group-title="FOR ADULTS",|ADULT| SEXCO CASTING
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18785
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SEXCO ANAL" tvg-logo="" group-title="FOR ADULTS",|ADULT| SEXCO ANAL
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18784
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SEXCO HOMEMADE" tvg-logo="" group-title="FOR ADULTS",|ADULT| SEXCO HOMEMADE
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18783
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SEXCO MATURE" tvg-logo="" group-title="FOR ADULTS",|ADULT| SEXCO MATURE
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18782
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SEXCO WORK" tvg-logo="" group-title="FOR ADULTS",|ADULT| SEXCO WORK
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18781
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SEXCO BLACK" tvg-logo="" group-title="FOR ADULTS",|ADULT| SEXCO BLACK
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18780
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SEXCO BIG TITS" tvg-logo="" group-title="FOR ADULTS",|ADULT| SEXCO BIG TITS
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18779
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SEXCO CUMSHOT" tvg-logo="" group-title="FOR ADULTS",|ADULT| SEXCO CUMSHOT
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18778
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SEXCO ASSIAN" tvg-logo="" group-title="FOR ADULTS",|ADULT| SEXCO ASSIAN
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18777
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SEXCO BIG DICK" tvg-logo="" group-title="FOR ADULTS",|ADULT| SEXCO BIG DICK
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18776
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SEXCO BDSM" tvg-logo="" group-title="FOR ADULTS",|ADULT| SEXCO BDSM
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18775
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SEXCO LATIN" tvg-logo="" group-title="FOR ADULTS",|ADULT| SEXCO LATIN
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18774
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SEXCO FETISH" tvg-logo="" group-title="FOR ADULTS",|ADULT| SEXCO FETISH
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18773
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SEXCO GANGBANG" tvg-logo="" group-title="FOR ADULTS",|ADULT| SEXCO GANGBANG
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18772
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SEXCO BLOWJOB" tvg-logo="" group-title="FOR ADULTS",|ADULT| SEXCO BLOWJOB
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18771
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SEXCO GROUP" tvg-logo="" group-title="FOR ADULTS",|ADULT| SEXCO GROUP
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18770
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| GAY TV HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| GAY TV HD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18769
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| LUXURE TV HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| LUXURE TV HD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18768
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| COUGARS TV HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| COUGARS TV HD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18767
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| EXEGIRLS TV HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| EXEGIRLS TV HD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18766
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORNOX TV HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORNOX TV HD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18765
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| UNDERSEX TV HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| UNDERSEX TV HD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18764
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PULSION TV HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| PULSION TV HD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18763
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| LOVE TV HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| LOVE TV HD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18762
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| APHRODITE TV HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| APHRODITE TV HD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18761
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PLAYSEX TV HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| PLAYSEX TV HD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18760
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Pinko TV" tvg-logo="" group-title="FOR ADULTS",|ADULT| Pinko TV
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18759
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Reality Kings TV" tvg-logo="" group-title="FOR ADULTS",|ADULT| Reality Kings TV
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18758
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| BIGASS" tvg-logo="" group-title="FOR ADULTS",|ADULT| BIGASS
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18757
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SEX MEX CHANNEL" tvg-logo="" group-title="FOR ADULTS",|ADULT| SEX MEX CHANNEL
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18756
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| XPLUS FETÄ°SH  HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| XPLUS FETÄ°SH  HD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18755
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| FAP TV 2" tvg-logo="" group-title="FOR ADULTS",|ADULT| FAP TV 2
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18754
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| FAP TV 3" tvg-logo="" group-title="FOR ADULTS",|ADULT| FAP TV 3
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18753
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| FAP TV 4" tvg-logo="" group-title="FOR ADULTS",|ADULT| FAP TV 4
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18752
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| FAP TV Anal" tvg-logo="" group-title="FOR ADULTS",|ADULT| FAP TV Anal
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18751
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| FAP TV Parody" tvg-logo="" group-title="FOR ADULTS",|ADULT| FAP TV Parody
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18750
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| FAP TV Teens" tvg-logo="" group-title="FOR ADULTS",|ADULT| FAP TV Teens
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18749
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| FAP TV Compilation" tvg-logo="" group-title="FOR ADULTS",|ADULT| FAP TV Compilation
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18748
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| FAP TV BBW" tvg-logo="" group-title="FOR ADULTS",|ADULT| FAP TV BBW
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18747
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| FAP TV Trans" tvg-logo="" group-title="FOR ADULTS",|ADULT| FAP TV Trans
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18746
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| FAP TV Lesbian" tvg-logo="" group-title="FOR ADULTS",|ADULT| FAP TV Lesbian
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18745
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Tushy 2 TV FHD" tvg-logo="" group-title="FOR ADULTS",|ADULT| Tushy 2 TV FHD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18744
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| XY MIX HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| XY MIX HD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18743
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| XY PLUS HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| XY PLUS HD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18742
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| XY MAX TV HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| XY MAX TV HD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18741
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| EXTASY HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| EXTASY HD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18740
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PORSTAR" tvg-logo="" group-title="FOR ADULTS",|ADULT| PORSTAR
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18739
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Miami TV HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| Miami TV HD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18738
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Destiny 2 TV +18 HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| Destiny 2 TV +18 HD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18737
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Casting Couch FHD" tvg-logo="" group-title="FOR ADULTS",|ADULT| Casting Couch FHD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18736
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Elegant RAW FHD" tvg-logo="" group-title="FOR ADULTS",|ADULT| Elegant RAW FHD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18735
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Alba XXX HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| Alba XXX HD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18734
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| MILF 2" tvg-logo="" group-title="FOR ADULTS",|ADULT| MILF 2
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18733
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| MILF 3" tvg-logo="" group-title="FOR ADULTS",|ADULT| MILF 3
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18732
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Mature 2" tvg-logo="" group-title="FOR ADULTS",|ADULT| Mature 2
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18731
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Red XXX" tvg-logo="" group-title="FOR ADULTS",|ADULT| Red XXX
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18730
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Big Tits 3" tvg-logo="" group-title="FOR ADULTS",|ADULT| Big Tits 3
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18729
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Lesbian 1" tvg-logo="" group-title="FOR ADULTS",|ADULT| Lesbian 1
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18728
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SEXTREME" tvg-logo="" group-title="FOR ADULTS",|ADULT| SEXTREME
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18727
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Bunga Bunga" tvg-logo="" group-title="FOR ADULTS",|ADULT| Bunga Bunga
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18726
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Holed FHD" tvg-logo="" group-title="FOR ADULTS",|ADULT| Holed FHD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18725
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Visit-X TV" tvg-logo="" group-title="FOR ADULTS",|ADULT| Visit-X TV
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18724
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Cuckold" tvg-logo="" group-title="FOR ADULTS",|ADULT| Cuckold
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18723
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| BangBros UHD 4K" tvg-logo="" group-title="FOR ADULTS",|ADULT| BangBros UHD 4K
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18722
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Perv Mom Net XX HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| Perv Mom Net XX HD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18721
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Max XXX 2 HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| Max XXX 2 HD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18720
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Day With A Pornstar FHD" tvg-logo="" group-title="FOR ADULTS",|ADULT| Day With A Pornstar FHD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18719
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Blacked Raw HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| Blacked Raw HD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18718
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Deeper FHD" tvg-logo="" group-title="FOR ADULTS",|ADULT| Deeper FHD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18717
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| PinkO Club HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| PinkO Club HD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18716
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| AssParade FHD" tvg-logo="" group-title="FOR ADULTS",|ADULT| AssParade FHD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18715
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Fake Taxi FHD" tvg-logo="" group-title="FOR ADULTS",|ADULT| Fake Taxi FHD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18714
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Hot Wife HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| Hot Wife HD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18713
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Pure Taboo FHD" tvg-logo="" group-title="FOR ADULTS",|ADULT| Pure Taboo FHD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18712
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| O-la-la" tvg-logo="" group-title="FOR ADULTS",|ADULT| O-la-la
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18711
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Ð¨Ð°Ð»ÑƒÐ½" tvg-logo="" group-title="FOR ADULTS",|ADULT| Ð¨Ð°Ð»ÑƒÐ½
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18710
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| ÐžÐ¥-ÐÐ¥ HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| ÐžÐ¥-ÐÐ¥ HD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18709
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Sct HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| Sct HD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18708
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Sext6Senso" tvg-logo="" group-title="FOR ADULTS",|ADULT| Sext6Senso
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18707
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Cento X Cento" tvg-logo="" group-title="FOR ADULTS",|ADULT| Cento X Cento
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18706
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Bangbus FHD" tvg-logo="" group-title="FOR ADULTS",|ADULT| Bangbus FHD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18705
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Mofos Lab HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| Mofos Lab HD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18704
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SLTV Adult 1 HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| SLTV Adult 1 HD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18703
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SLTV Adult 2 HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| SLTV Adult 2 HD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18702
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SLTV Adult 3 HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| SLTV Adult 3 HD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18701
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SLTV Adult 4 HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| SLTV Adult 4 HD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18700
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SLTV Adult 5 HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| SLTV Adult 5 HD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18699
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SLTV Adult 6 HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| SLTV Adult 6 HD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18698
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SLTV Adult 7 HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| SLTV Adult 7 HD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18697
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SLTV Adult 8 HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| SLTV Adult 8 HD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18696
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SLTV Adult 9 HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| SLTV Adult 9 HD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18695
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SLTV Erotic HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| SLTV Erotic HD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18694
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| GIRLS XXX 1" tvg-logo="" group-title="FOR ADULTS",|ADULT| GIRLS XXX 1
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18693
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| GIRLS XXX 2" tvg-logo="" group-title="FOR ADULTS",|ADULT| GIRLS XXX 2
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18692
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| GIRLS XXX 3" tvg-logo="" group-title="FOR ADULTS",|ADULT| GIRLS XXX 3
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18691
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| GIRLS XXX 4" tvg-logo="" group-title="FOR ADULTS",|ADULT| GIRLS XXX 4
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18690
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| HOT SEXY 1" tvg-logo="" group-title="FOR ADULTS",|ADULT| HOT SEXY 1
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18689
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| HOT SEXY 2" tvg-logo="" group-title="FOR ADULTS",|ADULT| HOT SEXY 2
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18688
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| HOT SEXY 3" tvg-logo="" group-title="FOR ADULTS",|ADULT| HOT SEXY 3
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18687
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| HOT SEXY 4" tvg-logo="" group-title="FOR ADULTS",|ADULT| HOT SEXY 4
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18686
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| HOT SEXY 5" tvg-logo="" group-title="FOR ADULTS",|ADULT| HOT SEXY 5
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18685
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| HOT SEXY 6" tvg-logo="" group-title="FOR ADULTS",|ADULT| HOT SEXY 6
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18684
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| HOT SEXY 7" tvg-logo="" group-title="FOR ADULTS",|ADULT| HOT SEXY 7
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18683
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| HOT SEXY 8" tvg-logo="" group-title="FOR ADULTS",|ADULT| HOT SEXY 8
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18682
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| HOT SEXY 9" tvg-logo="" group-title="FOR ADULTS",|ADULT| HOT SEXY 9
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18681
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| HOT SEXY 10" tvg-logo="" group-title="FOR ADULTS",|ADULT| HOT SEXY 10
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18680
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| HOT SEXY 11" tvg-logo="" group-title="FOR ADULTS",|ADULT| HOT SEXY 11
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18679
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| HOT SEXY 12" tvg-logo="" group-title="FOR ADULTS",|ADULT| HOT SEXY 12
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18678
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| HOT SEXY 13" tvg-logo="" group-title="FOR ADULTS",|ADULT| HOT SEXY 13
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18677
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| HOT SEXY 14" tvg-logo="" group-title="FOR ADULTS",|ADULT| HOT SEXY 14
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18676
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| HOT SEXY 15" tvg-logo="" group-title="FOR ADULTS",|ADULT| HOT SEXY 15
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18675
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| HOT SEXY 16" tvg-logo="" group-title="FOR ADULTS",|ADULT| HOT SEXY 16
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18674
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Hot Club 1 FHD" tvg-logo="" group-title="FOR ADULTS",|ADULT| Hot Club 1 FHD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18673
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Hot Club 2 FHD" tvg-logo="" group-title="FOR ADULTS",|ADULT| Hot Club 2 FHD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18672
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Hot Club 4 FHD" tvg-logo="" group-title="FOR ADULTS",|ADULT| Hot Club 4 FHD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18671
+#EXTINF:-1 tvg-id="" tvg-name="|ADULT| FRANCE A POÄ°L3  HD" tvg-logo="" group-title="FOR ADULTS",|ADULT| FRANCE A POÄ°L3  HD
+http://line.4k-iptv.com:80/LR60i4RIoy/RqHF2pQErmd12de12yd12dh12/18670
 #EXTINF:-1, "==== RADIO STANICE- MATORČEVIĆ- PUDARCI===="
 #EXTINF:-1,Krajina radio
 https://server4p.com/8042/stream/
