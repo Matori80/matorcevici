@@ -16,7 +16,7 @@ https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
 #EXTINF:-1,Euronews Srbija HD
 https://d2o6nnfvbbufka.cloudfront.net/app-19518-1276/ngrp:aGNo39T1_all/chunklist_w971369040_b6256000.m3u8
 #EXTINF:-1,Euronews Srbija (low)
-https://d2o6nnfvbbufka.cloudfront.net/app-19518-0855/ngrp:RWxI5IQr_all/chunklist_w944847616_b1106000.m3u8
+https://d2o6nnfvbbufka.cloudfront.net/app-19518-1276/ngrp:aGNo39T1_all/chunklist_w1579135416_b1106000.m3u8
 #EXTINF:0,Kurir 
 https://kurir-tv.haste-cdn.net/providus/live2805_hq/index.m3u8 
 #EXTINF:-1,K1 HD 
