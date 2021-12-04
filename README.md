@@ -2,7 +2,7 @@
 #EXTINF:-1,N1 SRB
 https://best-str.umn.cdn.united.cloud/stream?channel=n1srp&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info
 #EXTINF:-1,N1(Beckup)
-http:\\line.4k-iptv.com:80\LR60i4RIoy\RqHF2pQErmd12de12yd12dh12\83
+http:\\line.4k-iptv.com:80\marin\marin\83
 #EXTINF:-1,NOVA S
 http://5.39.72.165:8000/live?channelId=246&uid=78&deviceMac=00:1A:79:2A:5A:CF
 #EXTINF:-1,Nova S BackUP
@@ -21,6 +21,8 @@ https://d2o6nnfvbbufka.cloudfront.net/app-19518-1276/ngrp:aGNo39T1_all/chunklist
 https://kurir-tv.haste-cdn.net/providus/live2805_hq/index.m3u8 
 #EXTINF:-1,K1 HD 
 http://line.4k-iptv.com:80/amel1/amel2/14141
+#EXTINF:-1,K1 HD(bekap)
+http:\\line.4k-iptv.com:80\marin\marin\14141
 #EXTINF:-1,: Rts 1 HD
 http://line.4k-iptv.com:80/amel1/amel2/72
 #EXTINF:-1, Srpska dijaspora 
