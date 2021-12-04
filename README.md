@@ -14,7 +14,7 @@ http://line.4k-iptv.com:80/amel1/amel2/38
 #EXTINF:-1,Aljazeera (beckup)
 https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
 #EXTINF:-1,Euronews Srbija HD
-https://d2o6nnfvbbufka.cloudfront.net/app-19518-0855/ngrp:RWxI5IQr_all/chunklist_w861709104_b6256000.m3u8
+https://d2o6nnfvbbufka.cloudfront.net/app-19518-1276/ngrp:aGNo39T1_all/chunklist_w971369040_b6256000.m3u8
 #EXTINF:-1,Euronews Srbija (low)
 https://d2o6nnfvbbufka.cloudfront.net/app-19518-0855/ngrp:RWxI5IQr_all/chunklist_w944847616_b1106000.m3u8
 #EXTINF:0,Kurir 
