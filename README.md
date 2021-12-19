@@ -16,7 +16,7 @@ https://d2o6nnfvbbufka.cloudfront.net/app-19518-1276/ngrp:aGNo39T1_all/chunklist
 #EXTINF:0,Kurir 
 https://kurir-tv.haste-cdn.net/providus/live2805_hq/index.m3u8 
 #EXTINF:-1,K1 HD 
-http://line.4k-iptv.com:80/amel1/amel2/14141
+http://line.4k-iptv.com:80/zoka4/zoka4/14141
 #EXTINF:-1,K1 HD(bekap)
 http:\\line.4k-iptv.com:80\marin\marin\14141
 #EXTINF:-1,: Rts 1 HD
