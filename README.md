@@ -10,7 +10,7 @@ http://worldiptv.me:8080/carter/GUV1bMq2VK/7034
 #EXTINF:-1,Aljazeera
 https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
 #EXTINF:-1,Euronews Srbija HD
-https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/chunklist_w370625149_b1106000.m3u8
+hhttps://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/chunklist_w1185554755_b6256000.m3u8
 #EXTINF:-1,Euronews Srbija (low)
 https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/chunklist_w370625149_b1106000.m3u8
 #EXTINF:0,Kurir 
