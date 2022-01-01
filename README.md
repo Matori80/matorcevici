@@ -18,7 +18,7 @@ https://kurir-tv.haste-cdn.net/providus/live2805_hq/index.m3u8
 #EXTINF:-1,K1 HD 
 http://line.4k-iptv.com:80/zoka4/zoka4/14141
 #EXTINF:-1,K1 HD(bekap)
-http:\\line.4k-iptv.com:80\marin\marin\14141
+http://line.4k-iptv.com:80/amel1/amel2/14141
 #EXTINF:-1,: Rts 1 HD
 http://5hostmx.com:8079/live/nikca1/sepurin/309.ts
 #EXTINF:-1, Srpska dijaspora 
@@ -131,6 +131,12 @@ http://5hostmx.com:8079/live/nikca1/sepurin/2894.ts
 http://5hostmx.com:8079/live/nikca1/sepurin/1030.ts
 #EXTINF:-1,RTCG 2
 http://5hostmx.com:8079/live/nikca1/sepurin/1031.ts
+#EXTINF:-1,|CG| VIJESTI
+http://line.4k-iptv.com:80/amel1/amel2/4205
+#EXTINF:-1,|CG| TV 777 PODGORICA
+http://line.4k-iptv.com:80/amel1/amel2/4203
+#EXTINF:-1,|CG| PRVA CG
+http://line.4k-iptv.com:80/amel1/amel2/4201
 #EXTINF:-1,"==== HRVATSKI KANALI- MATORČEVIĆ ===="
 #EXTINF:-1,HRT 1 HD
 http://5hostmx.com:8079/live/nikca1/sepurin/5371.ts
