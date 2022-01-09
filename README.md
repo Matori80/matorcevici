@@ -3,10 +3,8 @@
 https://best-str.umn.cdn.united.cloud/stream?channel=n1srp&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info
 #EXTINF:-1,N1(Beckup)
 http://line.4k-iptv.com:80/amel1/amel2/83
-#EXTINF:-1,NOVA S (1)
+#EXTINF:-1,NOVA S 
 http://line.4k-iptv.com:80/amel1/amel2/89
-#EXTINF:-1,NOVA S
-http://5.39.72.165:8000/live?channelId=246&uid=78&deviceMac=00:1A:79:2A:5A:CF
 #EXTINF:-1,Nova S BackUP
 http://worldiptv.me:8080/carter/GUV1bMq2VK/7034
 #EXTINF:-1,Aljazeera
@@ -17,14 +15,20 @@ https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/chunklist
 https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/chunklist_w370625149_b1106000.m3u8
 #EXTINF:0,Kurir 
 https://kurir-tv.haste-cdn.net/providus/live2805_hq/index.m3u8 
+#EXTINF:-1,Đak
+https:\\srv1.adriatelekom.com\DjakTV\index.m3u8
 #EXTINF:-1,K1 HD 
 http://line.4k-iptv.com:80/zoka4/zoka4/14141
 #EXTINF:-1,K1 HD(bekap)
 http://line.4k-iptv.com:80/amel1/amel2/14141
 #EXTINF:-1,: Rts 1 HD
 http://line.4k-iptv.com:80/amel1/amel2/71
+#EXTINF:-1,: RTV 1
+mmsh:\\212.200.255.151\rtv1
 #EXTINF:-1, Srpska dijaspora 
 https://live.tsd-tv.com/live/tsd.m3u8 
+#EXTINF:-1, Supersat
+https:\\srv1.adriatelekom.com\SuperSatTV\index.m3u8
 #EXTINF:-1, RTK 2
 http://stream1.rtkit.com:1935/rtk2stream/rtk2.stream/chunklist_w4886007.m3u8
 #EXTINF:-1, Art 
@@ -366,6 +370,8 @@ http://line.4k-iptv.com:80/amel1/amel2/12068
 #EXTINF:-1,DOBRA RUSKA HD
 http://line.4k-iptv.com:80/amel1/amel2/12067
 #EXTINF:-1,"==== MUZIČKI- MATORČEVIĆ  ===="
+#EXTINF:-1, Adria TV
+https:\\srv1.adriatelekom.com\AdriaMusicTV\index.
 #EXTINF:-1,HAYAT  MUSIC
 http://line.4k-iptv.com:80/amel1/amel2/248
 #EXTINF:-1,HAYAT  FOLK
