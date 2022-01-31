@@ -18,7 +18,7 @@ https://kurir-tv.haste-cdn.net/providus/live2805_hq/index.m3u8
 #EXTINF:-1,Đak
 https:\\srv1.adriatelekom.com\DjakTV\index.m3u8
 #EXTINF:-1,K1 HD 
-http://line.4k-iptv.com:80/x18iWtKXfpeB/sNFfptdLGrdh12ad12gad12azz1/14141
+http:\\line.4k-iptv.com:80\mod3\mod3\14141
 #EXTINF:-1,K1 HD(bekap)
 http://line.4k-iptv.com:80/amel1/amel2/14141
 #EXTINF:-1,: Rts 1 HD
