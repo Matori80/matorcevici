@@ -578,6 +578,8 @@ http://line.4k-iptv.com:80/amel1/amel2/208
 http://line.4k-iptv.com:80/amel1/amel2/209
 #EXTINF:-1,FOOD NETWORK (HR)
 http://line.4k-iptv.com:80/amel1/amel2/210
+#EXTINF:-1, Balkan Trip
+http:\\geniuses-line.com:22455\Tbag\dzO3mr9Ns0\11558
 #EXTINF:-1,"==== DEČIJI- MATORČEVIĆ ===="
 #EXTINF:-1,IDJ KIDS
 http://line.4k-iptv.com:80/amel1/amel2/213
