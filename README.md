@@ -2146,6 +2146,8 @@ http://line.4k-iptv.com:80/movie/x18iWtKXfpeB/sNFfptdLGrdh12ad12gad12azz1/19443.
 http://line.4k-iptv.com:80/movie/x18iWtKXfpeB/sNFfptdLGrdh12ad12gad12azz1/19381.mkv
 #EXTINF:-1,Don't Look Up
 http://line.4k-iptv.com:80/movie/x18iWtKXfpeB/sNFfptdLGrdh12ad12gad12azz1/19348.mkv
+#EXTINF:-1,Home Sweet Home Alone (2021
+http://nice.geniuses-line.com:80/movie/Tbag/dzO3mr9Ns0/3252.mp4
 #EXTINF:-1,The Matrix Resurrections
 http://line.4k-iptv.com:80/movie/x18iWtKXfpeB/sNFfptdLGrdh12ad12gad12azz1/19347.mkv
 #EXTINF:-1,King Richard
