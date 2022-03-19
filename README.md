@@ -2138,6 +2138,12 @@ http://212.83.150.15:8058/;*.mp3
 #EXTINF:-1, Radio Karolina - Lagani NonStoP
 https://streaming.karolina.rs/karolinabezreklama.mp3
 #EXTINF:-1,"==== VIDEOTEKA- MATORČEVIĆ ===="
+#EXTINF:-1,The Hating Game (2021)
+http://wildride2.webhop.org:8079/movie/ikttwuXQkZ/fc0qxMq8HP/15577.
+#EXTINF:-1,The 355 (2022)
+http://wildride2.webhop.org:8079/movie/ikttwuXQkZ/fc0qxMq8HP/15674.
+#EXTINF:-1,Fortress (2021)
+http://wildride2.webhop.org:8079/movie/ikttwuXQkZ/fc0qxMq8HP/15466.
 #EXTINF:-1,Quo Vadis, Aida?
 http://line.4k-iptv.com:80/movie/x18iWtKXfpeB/sNFfptdLGrdh12ad12gad12azz1/19450.mp4
 #EXTINF:-1,The Power of the Dog
