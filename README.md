@@ -153,6 +153,8 @@ http://line.4k-iptv.com:80/amel1/amel2/105
 #EXTINF:-1,PINK
 http://line.4k-iptv.com:80/amel1/amel2/108
 #EXTINF:-1,"==== CRNA GORA- MATORČEVIĆ ===="
+#EXTINF:-1,TV Montenegro
+http://pinbal4you.com:5436/Dalibor/Dalibor/10677.ts
 #EXTINF:-1,|CG| RTV CG 1
 http://line.4k-iptv.com:80/amel1/amel2/4196
 #EXTINF:-1,|CG| RTV CG 2
@@ -177,6 +179,40 @@ http://line.4k-iptv.com:80/amel1/amel2/4205
 http://line.4k-iptv.com:80/amel1/amel2/4203
 #EXTINF:-1,|CG| PRVA CG
 http://line.4k-iptv.com:80/amel1/amel2/4201
+#EXTINF:-1,RTV Podgorica
+http://pinbal4you.com:5436/Dalibor/Dalibor/25837.ts
+#EXTINF:-1,Tv Vijesti
+http://pinbal4you.com:5436/Dalibor/Dalibor/10680.ts
+#EXTINF:-1,Prva TV CG
+http://pinbal4you.com:5436/Dalibor/Dalibor/10681.ts
+#EXTINF:-1,Adria HD
+http://pinbal4you.com:5436/Dalibor/Dalibor/26113.ts
+#EXTINF:-1,TV Niksic HD
+http://pinbal4you.com:5436/Dalibor/Dalibor/10682.ts
+#EXTINF:-1,TV Budva HD
+http://pinbal4you.com:5436/Dalibor/Dalibor/10683.ts
+#EXTINF:-1,TV HN HD
+http://pinbal4you.com:5436/Dalibor/Dalibor/11447.ts
+#EXTINF:-1,TV Rozaje HD
+http://pinbal4you.com:5436/Dalibor/Dalibor/10684.ts
+#EXTINF:-1,TV Pljevlja HD
+http://pinbal4you.com:5436/Dalibor/Dalibor/10685.ts
+#EXTINF:-1,TV SUN
+http://pinbal4you.com:5436/Dalibor/Dalibor/10686.ts
+#EXTINF:-1,A+ TV
+http://pinbal4you.com:5436/Dalibor/Dalibor/10687.ts
+#EXTINF:-1,TV Srpska
+http://pinbal4you.com:5436/Dalibor/Dalibor/10688.ts
+#EXTINF:-1,Jadran TV
+http://pinbal4you.com:5436/Dalibor/Dalibor/10689.ts
+#EXTINF:-1,TV Boin HD
+http://pinbal4you.com:5436/Dalibor/Dalibor/10691.ts
+#EXTINF:-1,TV Teuta HD
+http://pinbal4you.com:5436/Dalibor/Dalibor/10692.ts
+#EXTINF:-1,TV 7
+http://pinbal4you.com:5436/Dalibor/Dalibor/10693.ts
+#EXTINF:-1,MonteLux TV
+http://pinbal4you.com:5436/Dalibor/Dalibor/10694.ts
 #EXTINF:-1,"==== HRVATSKI KANALI- MATORČEVIĆ ===="
 #EXTINF:-1,HRT 1
 http://line.4k-iptv.com:80/amel1/amel2/2
@@ -235,6 +271,12 @@ http://line.4k-iptv.com:80/amel1/amel2/26
 http://line.4k-iptv.com:80/amel1/amel2/28
 #EXTINF:-1,FTV
 http://line.4k-iptv.com:80/amel1/amel2/30
+#EXTINF:-1,Una TV
+http://pinbal4you.com:5436/Dalibor/Dalibor/26890.ts
+#EXTINF:-1,Una TV BiH
+http://pinbal4you.com:5436/Dalibor/Dalibor/26891.ts
+#EXTINF:-1,Una TV HR
+http://pinbal4you.com:5436/Dalibor/Dalibor/26892.ts
 #EXTINF:-1,HAYAT HD
 http://line.4k-iptv.com:80/amel1/amel2/31
 #EXTINF:-1,HAYAT BIH
