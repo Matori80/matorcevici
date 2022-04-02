@@ -1129,7 +1129,7 @@ http://212.83.150.15:8058/;*.mp3
 https://streaming.karolina.rs/karolinabezreklama.mp3
 #EXTINF:-1,"==== VIDEOTEKA- MATORČEVIĆ ===="
 #EXTINF:-1,Dog (2022)
-http://pinbal4you.com:5436/movie/Dalibor/Dalibor/27690.mkv
+http:\\pinbal4you.com:5436\movie\Dalibor\Dalibor\27690.mkv
 #EXTINF:-1,Book of Love (2022)
 http://pinbal4you.com:5436/movie/Dalibor/Dalibor/27713.mkv
 #EXTINF:-1,Kimi (2022)
