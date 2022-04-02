@@ -819,6 +819,56 @@ http://line.4k-iptv.com:80/amel1/amel2/297
 http://line.4k-iptv.com:80/amel1/amel2/298
 #EXTINF:-1,"==== PORNIĆI - MATORČEVIĆ ===="
 #EXTINF:-1, Jasmin HD (18+)
+#EXTINF:-1,Hot Club 1
+http://pinbal4you.com:5436/Dalibor/Dalibor/24787.ts
+#EXTINF:-1,Hot Club 2
+http://pinbal4you.com:5436/Dalibor/Dalibor/11275.ts
+#EXTINF:-1,Hot Club 3
+http://pinbal4you.com:5436/Dalibor/Dalibor/11276.ts
+#EXTINF:-1,Hot Club 4
+http://pinbal4you.com:5436/Dalibor/Dalibor/11434.ts
+#EXTINF:-1,Hot Club 5
+http://pinbal4you.com:5436/Dalibor/Dalibor/16219.ts
+#EXTINF:-1,Hot Club 6
+http://pinbal4you.com:5436/Dalibor/Dalibor/16220.ts
+#EXTINF:-1,Hot Club 7
+http://pinbal4you.com:5436/Dalibor/Dalibor/16221.ts
+#EXTINF:-1,Hot Club 8
+http://pinbal4you.com:5436/Dalibor/Dalibor/16222.ts
+#EXTINF:-1,Hot Club 9
+http://pinbal4you.com:5436/Dalibor/Dalibor/16223.ts
+#EXTINF:-1,Hot Club 10
+http://pinbal4you.com:5436/Dalibor/Dalibor/16224.ts
+#EXTINF:-1,Hot Club 11
+http://pinbal4you.com:5436/Dalibor/Dalibor/17030.ts
+#EXTINF:-1,Hot Club 12
+http://pinbal4you.com:5436/Dalibor/Dalibor/17031.ts
+#EXTINF:-1,Hot Club 13
+http://pinbal4you.com:5436/Dalibor/Dalibor/17032.ts
+#EXTINF:-1,Hot Club 14
+http://pinbal4you.com:5436/Dalibor/Dalibor/17033.ts
+#EXTINF:-1,Hot Club 15
+http://pinbal4you.com:5436/Dalibor/Dalibor/17034.ts
+#EXTINF:-1,Hot Club 16
+http://pinbal4you.com:5436/Dalibor/Dalibor/17035.ts
+#EXTINF:-1,Hot Club 17
+http://pinbal4you.com:5436/Dalibor/Dalibor/17036.ts
+#EXTINF:-1,Hot Club 18
+http://pinbal4you.com:5436/Dalibor/Dalibor/17037.ts
+#EXTINF:-1,Hot Club 19
+http://pinbal4you.com:5436/Dalibor/Dalibor/17038.ts
+#EXTINF:-1,Hot Club 20
+http://pinbal4you.com:5436/Dalibor/Dalibor/17039.ts
+#EXTINF:-1,Hot Club 21
+http://pinbal4you.com:5436/Dalibor/Dalibor/17040.ts
+#EXTINF:-1,Hot Club 22
+http://pinbal4you.com:5436/Dalibor/Dalibor/17041.ts
+#EXTINF:-1,Hot Club 23
+http://pinbal4you.com:5436/Dalibor/Dalibor/17042.ts
+#EXTINF:-1,Hot Club 24
+http://pinbal4you.com:5436/Dalibor/Dalibor/17043.ts
+#EXTINF:-1,Hot Club 25
+http://pinbal4you.com:5436/Dalibor/Dalibor/17044.ts
 #EXTINF:-1,XXX
 http://zvjerka.com:1194/EvelinJ/6174737471/606
 #EXTINF:-1,Hustler HD 18+
@@ -1078,8 +1128,18 @@ http://212.83.150.15:8058/;*.mp3
 #EXTINF:-1, Radio Karolina - Lagani NonStoP
 https://streaming.karolina.rs/karolinabezreklama.mp3
 #EXTINF:-1,"==== VIDEOTEKA- MATORČEVIĆ ===="
+#EXTINF:-1,Dog (2022)
+http://pinbal4you.com:5436/movie/Dalibor/Dalibor/27690.mkv
 #EXTINF:-1,Book of Love (2022)
 http://pinbal4you.com:5436/movie/Dalibor/Dalibor/27713.mkv
+#EXTINF:-1,Kimi (2022)
+http://pinbal4you.com:5436/movie/Dalibor/Dalibor/27711.mkv
+#EXTINF:-1,Blacklight (2022)
+http://pinbal4you.com:5436/movie/Dalibor/Dalibor/27722.mkv
+#EXTINF:-1,The King's Daughter (2022)
+http://pinbal4you.com:5436/movie/Dalibor/Dalibor/27723.mkv
+#EXTINF:-1,Gasoline Alley (2022)
+http://pinbal4you.com:5436/movie/Dalibor/Dalibor/27704.mkv
 #EXTINF:-1,The Hating Game (2021)
 http://wildride2.webhop.org:8079/movie/ikttwuXQkZ/fc0qxMq8HP/15577.
 #EXTINF:-1,The 355 (2022)
