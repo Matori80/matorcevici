@@ -1381,6 +1381,8 @@ http://212.83.150.15:8058/;*.mp3
 #EXTINF:-1, Radio Karolina - Lagani NonStoP
 https://streaming.karolina.rs/karolinabezreklama.mp3
 #EXTINF:-1,"==== VIDEOTEKA- MATORČEVIĆ ===="
+#EXTINF:-1,Dog
+http://line.4k-iptv.com:80/movie/x124JLQaXfEw/0h2aAJNTCz0g1m/20231.mkv
 #EXTINF:-1,The lost city
 http://line.4k-iptv.com:80/movie/x124JLQaXfEw/0h2aAJNTCz0g1m/20400.mp4
 #EXTINF:-1,Juzni Vetar 2: Ubrzanje
